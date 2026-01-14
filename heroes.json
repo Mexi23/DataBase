@@ -385,6 +385,106 @@
     "hero_name": "zetian",
     "image_url": "",
     "script": ""
+  },
+  {
+    "hero_name": "Miya",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero011-portrait.png/revision/latest?cb=20231231181124",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Miya/Miya%20Default/Miya%20Backup.zip"
+  },
+  {
+    "hero_name": "Bruno",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero121-portrait.png/revision/latest?cb=20240605133847",
+    "script": "https://github.com/missnapokita/June-2024-B-C-D/raw/main/bruno%20backup.zip"
+  },
+  {
+    "hero_name": "Clint",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero131-portrait.png/revision/latest?cb=20240605133854",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Clint/Clint%20Default/Clint%20Backup.zip"
+  },
+  {
+    "hero_name": "Layla",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero181-portrait.png/revision/latest?cb=20240104090805",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Layla/Layla%20Default/Layla%20Backup.zip"
+  },
+  {
+    "hero_name": "Moskov",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero311-portrait.png/revision/latest?cb=20231110122307",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/moskov%20backup.zip"
+  },
+  {
+    "hero_name": "Karrie",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero401-portrait.png/revision/latest?cb=20240121135955",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Karrie/Karrie%20Default/Karrie%20Backup.zip"
+  },
+  {
+    "hero_name": "Irithel",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero431-portrait.png/revision/latest?cb=20220525165209",
+    "script": "https://github.com/missnapokita/June2024-ad-ons/raw/main/irithel%20backup.zip"
+  },
+  {
+    "hero_name": "Lesley",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero531-portrait.png/revision/latest?cb=20240623134201",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lesley%20backup.zip"
+  },
+  {
+    "hero_name": "Hanabi",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero601-portrait.png/revision/latest?cb=20221217032835",
+    "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/hanabi%20backup.zip"
+  },
+  {
+    "hero_name": "Claude",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero651-portrait.png/revision/latest?cb=20240501064446",
+    "script": "https://github.com/missnapokita/June-2024-C/raw/main/claude%20backup.zip"
+  },
+  {
+    "hero_name": "Kimmy",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero711-portrait.png/revision/latest?cb=20240501071451",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Kimmy/Kimmy%20Default/Kimmy%20Backup.zip"
+  },
+  {
+    "hero_name": "Granger",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero791-portrait.png/revision/latest?cb=20220525165830",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Granger/Granger%20Default/Granger%20Backup.zip"
+  },
+  {
+    "hero_name": "Wanwan",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero891-portrait.png/revision/latest?cb=20220525171214",
+    "script": "https://github.com/missnapokita/June2024-W-X-Y/raw/main/wan%20backup.zip"
+  },
+  {
+    "hero_name": "Popol and Kupa",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero941-portrait.png/revision/latest?cb=20240430165645",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Popol%20and%20Kupa/Popol%20and%20Kupa%20Default/Popol%20and%20Kupa%20Backup.zip"
+  },
+  {
+    "hero_name": "Brody",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero1001-portrait.png/revision/latest?cb=20220525172049",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Brody/Brody%20Default/Brody%20Backup.zip"
+  },
+  {
+    "hero_name": "Beatrix",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero1051-portrait.png/revision/latest?cb=20240501053744",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Beatrix/Beatrix%20Default/Beatrix%20Backup.zip"
+  },
+  {
+    "hero_name": "Natan",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1071-portrait.png/revision/latest?cb=20220525171604",
+    "script": "https://github.com/missnapokita/June2024-N-O-P/raw/main/natan%20backup.zip"
+  },
+{
+    "hero_name": "Melissa",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero1141-portrait.png/revision/latest?cb\u003d20220525170741",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Melissa/Melissa%20Default/Melissa%20Backup.zip"
+  },
+  {
+    "hero_name": "Ixia",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero1211-portrait.png/revision/latest?cb\u003d20231010041751",
+    "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/ixia%20backup.zip"
+  },
+  {
+    "hero_name": "Obsidia",
+    "image_url": "",
+    "script": ""
   }
 ]
 
