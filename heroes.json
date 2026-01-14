@@ -133,7 +133,7 @@
   },
   {
     "hero_name": "Sun",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero271-portrait.png/revision/latest?cb\u003d20240605114146",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero271-portrait.png/revision/latest?cb\u003d20240605114146",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Sun/Sun%20Default/Sun%20Backup.zip"
   },
   {
