@@ -485,7 +485,75 @@
     "hero_name": "Obsidia",
     "image_url": "",
     "script": ""
+  },
+
+
+
+
+  
+  {
+    "hero_name": "Rafaela",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero141-portrait.png/revision/latest?cb=20240605145920",
+    "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/rafaela%20backup.zip"
+  },
+  {
+    "hero_name": "Lolita",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero201-portrait.png/revision/latest?cb=20240605151404",
+    "script": "https://github.com/zenosml/lolita/raw/main/lolita.zip"
+  },
+  {
+    "hero_name": "Estes",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero341-portrait.png/revision/latest?cb=20240501095928",
+    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/estes%20backup.zip"
+  },
+  {
+    "hero_name": "Diggie",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero481-portrait.png/revision/latest?cb=20240112141634",
+    "script": "https://github.com/missnapokita/June-2024-C/raw/main/diggie%20backup.zip"
+  },
+  {
+    "hero_name": "Angela",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero551-portrait.png/revision/latest?cb=20240501135306",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Angela/Angela%20Default/Angela%20Backup.zip"
+  },
+  {
+    "hero_name": "Kaja",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Hero621-portrait.png/revision/latest?cb=20220525165548",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/kaja%20backup.zip"
+  },
+  {
+    "hero_name": "Faramis",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero761-portrait.png/revision/latest?cb=20240501101543",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Faramis/Faramis%20Default/Faramis%20Backup.zip"
+  },
+  {
+    "hero_name": "Carmilla",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero921-portrait.png/revision/latest?cb=20220525171356",
+    "script": "https://github.com/missnapokita/June-2024-C/raw/main/carmilla%20backup.zip"
+  },
+  {
+    "hero_name": "Mathilda",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1021-portrait.png/revision/latest?cb=20220525171504",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Mathilda/Mathilda%20Default/Mathilda%20Backup.zip"
+  },
+  {
+    "hero_name": "Floryn",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero1121-portrait.png/revision/latest?cb=20220525170535",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Floryn/Floryn%20Default/Floryn%20Backup.zip"
+  },
+  {
+    "hero_name": "Chip",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero1241-portrait.png/revision/latest?cb=20240321084340",
+    "script": "https://github.com/raflinkk/NEW_SKIN/raw/main/CHIP/BACKUP%20CHIP.zip"
+  },
+  {
+    "hero_name": "Kalea",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1281-portrait.png/revision/latest?cb=20250407160846",
+    "script": "https://github.com/missnapokita/April-2025/raw/main/kalea%20backup.zip"
   }
+
+
+  
 ]
 
 
