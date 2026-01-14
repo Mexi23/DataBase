@@ -95,8 +95,14 @@
     "script": ""
   },
 
+
   
-  ##Fighters
+  
+ {
+    "_comment": "FIGHTERS"
+  },
+
+
   
   {
     "hero_name": "Balmond",
