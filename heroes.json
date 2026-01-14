@@ -83,5 +83,174 @@
     "hero_name": "Joy",
     "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero1181-portrait.png/revision/latest?cb=20240501100807",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Joy/Joy%20Default/Joy%20Backup.zip"
+  },
+      {
+    "hero_name": "Nolan",
+    "image_url": "",
+    "script": ""
+  },
+  {
+    "hero_name": "Suyou",
+    "image_url": "",
+    "script": ""
+  },
+
+  
+  #Fighters
+  
+  {
+    "hero_name": "Balmond",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero021-portrait.png/revision/latest?cb=20240602234350",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Balmond/Balmond%20Default/Balmond%20Backup.zip"
+  },
+  {
+    "hero_name": "Alucard",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alucard/Alucard%20Default/Alucard%20Backup.zip"
+  },
+  {
+    "hero_name": "Bane",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero111-portrait.png/revision/latest?cb=20240605133609",
+    "script": "https://github.com/JhoweeMylab/Fighter-Backup/raw/main/Bane%20Backup.zip"
+  },
+  {
+    "hero_name": "Zilong",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero161-portrait.png/revision/latest?cb=20240602234915",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Zilong/Zilong%20Default/Zilong%20Backup.zip"
+  },
+  {
+    "hero_name": "Freya",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero221-portrait.png/revision/latest?cb=20231230160944",
+    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/freya%20backup.zip"
+  },
+  {
+    "hero_name": "Alpha",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero281-portrait.png/revision/latest?cb=20240517115107",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alpha/Alpha%20Default/Alpha%20Backup.zip"
+  },
+  {
+    "hero_name": "Ruby",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero291-portrait.png/revision/latest?cb=20240612224841",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/refs/heads/main/Ruby/Ruby%20Default/Ruby%20Backup.zip"
+  },
+  {
+    "hero_name": "Hilda",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero351-portrait.png/revision/latest?cb=20240112140916",
+    "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/hilda%20backup.zip"
+  },
+  {
+    "hero_name": "Lapu-lapu",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero371-portrait.png/revision/latest?cb=20220525165107",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lapu%20backup.zip"
+  },
+  {
+    "hero_name": "Roger",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero391-portrait.png/revision/latest?cb=20220525165125",
+    "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/roger%20backup.zip"
+  },
+  {
+    "hero_name": "Argus",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png/revision/latest?cb=20220525165226",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Argus/Argus%20Default/Argus%20Backup.zip"
+  },
+  {
+    "hero_name": "Jawhead",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero541-portrait.png/revision/latest?cb=20240501074636",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Jawhead/Jawhead%20Default/Jawhead%20Backup.zip"
+  },
+  {
+    "hero_name": "Aldous",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero643-portrait.png/revision/latest?cb=20220525165620",
+    "script": "https://github.com/zmaxph/fighter/raw/main/aldous%20backup.zip"
+  },
+  {
+    "hero_name": "Leomord",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero671-portrait.png/revision/latest?cb=20220628173702",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Leomord/Leomord%20Default/Leomord%20Backup.zip"
+  },
+  {
+    "hero_name": "Thamuz",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png/revision/latest?cb=20220525165744",
+    "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/thamuz%20backup.zip"
+  },
+  {
+    "hero_name": "Minsitthar",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero741-portrait.png/revision/latest?cb=20230317100559",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/minsi%20backup.zip"
+  },
+  {
+    "hero_name": "Badang",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest?cb=20220525165815",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Badang/Badang%20Default/Badang%20Backup.zip"
+  },
+  {
+    "hero_name": "Guinevere",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero801-portrait.png/revision/latest?cb=20240121140113",
+    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/guin%20backup.zip"
+  },
+  {
+    "hero_name": "Dyrroth",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest?cb=20240111124052",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Dyrroth/Dyrroth%20Default/Dyrroth%20Backup.zip"
+  },
+  {
+    "hero_name": "Masha",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero881-portrait.png/revision/latest?cb=20220525170858",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/masha%20backup.zip"
+  },
+  {
+    "hero_name": "Silvanna",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero901-portrait.png/revision/latest?cb=20220525170133",
+    "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/silvana%20backup.zip"
+  },
+  {
+    "hero_name": "Yu Zhong",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero951-portrait.png/revision/latest?cb=20240621033746",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Yu%20Zhong/Yu%20Zhong%20Default/Yu%20Zhong%20Backup.zip"
+  },
+  {
+    "hero_name": "Khaleed",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero981-portrait.png/revision/latest?cb=20220525170258",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/khaleed%20backup.zip"
+  },
+  {
+    "hero_name": "Paquito",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb=20220525170349",
+    "script": "https://github.com/missnapokita/June2024-N-O-P/raw/main/paquito%20backup.zip"
+  },
+  {
+    "hero_name": "Phoveus",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero1061-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021143231",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Phoveus/Phoveus%20Default/Phoveus%20Backup.zip"
+  },
+  {
+    "hero_name": "Aulus",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero1081-portrait.png/revision/latest?cb=20220525171829",
+    "script": "https://github.com/missnapokita/june-2024/raw/main/aulos%20backup.zip"
+  },
+  {
+    "hero_name": "Yin",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1131-portrait.png/revision/latest?cb=20240122084641",
+    "script": "https://github.com/missnapokita/June2024-W-X-Y/raw/main/yin%20backup.zip"
+  },
+    {
+    "hero_name": "Fredrin",
+    "image_url": "",
+    "script": ""
+  },
+  {
+    "hero_name": "Arlott",
+    "image_url": "",
+    "script": ""
+  },
+  {
+    "hero_name": "Cici",
+    "image_url": "",
+    "script": ""
+  },
+  {
+    "hero_name": "Lukas",
+    "image_url": "",
+    "script": ""
   }
 ]
