@@ -127,6 +127,16 @@
     "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/freya%20backup.zip"
   },
   {
+    "hero_name": "Chou",
+     "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb\u003d20220525164846",
+     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Default/Chou%20Backup.zip"
+  },
+  {
+    "name": "Sun",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero271-portrait.png/revision/latest?cb\u003d20240605114146",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Sun/Sun%20Default/Sun%20Backup.zip"
+  },
+  {
     "hero_name": "Alpha",
     "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero281-portrait.png/revision/latest?cb=20240517115107",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alpha/Alpha%20Default/Alpha%20Backup.zip"
