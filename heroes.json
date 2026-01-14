@@ -1,27 +1,87 @@
 [
   {
-    "image_url": "https://github.com/Mexi23/HeroLQup/raw/main/img_202341317125.png",
-    "hero_name": "Beatrix"
+    "hero_name": "Saber",
+    "image_url": "https://liquipedia.net/commons/images/b/b2/Saber_Wandering_Sword_Skin.jpg",
+    "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/saber%20backup.zip"
   },
   {
-    "image_url": "https://github.com/Mexi23/HeroLQup/raw/main/img_202341317134.png",
-    "hero_name": "Claude"
+    "hero_name": "Karina",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero081-portrait.png/revision/latest?cb=20240605133151",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Karina/Karina%20Default/Karina%20Backup.zip"
   },
   {
-    "image_url": "https://github.com/Mexi23/June/raw/refs/heads/main/Rounded_20250603_202639.png",
-    "hero_name": "Kimmy"
-  },
-    {
-    "image_url": "https://github.com/Mexi23/HeroLQup/raw/main/img_202341317125.png",
-    "hero_name": "Beatrix"
+    "hero_name": "Fanny",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20240605151224",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Default/Fanny%20Backup.zip"
   },
   {
-    "image_url": "https://github.com/Mexi23/HeroLQup/raw/main/img_202341317134.png",
-    "hero_name": "Claude"
+    "hero_name": "Hayabusa",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero211-portrait.png/revision/latest?cb=20220525170632",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Hayabusa/Hayabusa%20Default/Hayabusa%20Backup.zip"
   },
   {
-    "image_url": "https://github.com/Mexi23/June/raw/refs/heads/main/Rounded_20250603_202639.png",
-    "hero_name": "Kimmy"
+    "hero_name": "Natalia",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero241-portrait.png/revision/latest?cb=20240121131843",
+    "script": "https://github.com/missnapokita/June2024-N-O-P/raw/main/nata%20backup.zip"
+  },
+  {
+    "hero_name": "Yi Sun-shin",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero301-portrait.png/revision/latest?cb=20220525171302",
+    "script": "https://github.com/missnapokita/June2024-W-X-Y/raw/main/yss%20backup.zip"
+  },
+  {
+    "hero_name": "Harley",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero421-portrait.png/revision/latest?cb=20231231170336",
+    "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/harley%20backup.zip"
+  },
+  {
+    "hero_name": "Lancelot",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png/revision/latest?cb=20240501053243",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Lancelot/Lancelot%20Default/Lancelot%20Backup.zip"
+  },
+  {
+    "hero_name": "Helcurt",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero511-portrait.png/revision/latest?cb=20240502101747",
+    "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/helcurt%20backup.zip"
+  },
+  {
+    "hero_name": "Gusion",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero561-portrait.png/revision/latest?cb=20240611065025",
+    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/gusion%20backup.zip"
+  },
+  {
+    "hero_name": "Selena",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero631-portrait.png/revision/latest?cb=20240122041957",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Selena/Selena%20Default/Selena%20Backup.zip"
+  },
+  {
+    "hero_name": "Hanzo",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero691-portrait.png/revision/latest?cb=20240112141926",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Hanzo/Hanzo%20Default/Hanzo%20Backup.zip"
+  },
+  {
+    "hero_name": "Ling",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero841-portrait.png/revision/latest?cb=20240621034004",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Ling/Ling%20Default/Ling%20Backup.zip"
+  },
+  {
+    "hero_name": "Benedetta",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero971-portrait.png/revision/latest?cb=20240611063830",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_backup.zip"
+  },
+  {
+    "hero_name": "Aamon",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hero1091-portrait.png/revision/latest?cb=20220525171725",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/aamon_backup.zip"
+  },
+  {
+    "hero_name": "Julian",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1161-portrait.png/revision/latest?cb=20220525170638",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Julian/Julian%20Default/Julian%20Backup.zip"
+  },
+  {
+    "hero_name": "Joy",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero1181-portrait.png/revision/latest?cb=20240501100807",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Joy/Joy%20Default/Joy%20Backup.zip"
   }
-  
 ]
