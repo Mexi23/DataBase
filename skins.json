@@ -31,7 +31,7 @@
           },
           {"name": "Saber",
             "skin_name": "Onimaru",
-            "image": "https://pbs.twimg.com/media/GWtJJdvaYAAbPit?format=jpg"skin_name=large",
+            "image": "https://pbs.twimg.com/media/GWtJJdvaYAAbPit?format=jpg",
             "script": "https://github.com/Maharlikoders/some-default-skin/raw/main/SABER/Saber%20Onimaru%20Revamp%20To%20Default%20Skin.zip",
             "tag": "LuckyBox"
           },
@@ -589,7 +589,7 @@
           },
           { "name": "Benedetta",
             "skin_name": "Phantom Mirage",
-            "image": "https://pbs.twimg.com/media/Glbn0L0a4AAYqoP?format=jpg"skin_name=small",
+            "image": "https://pbs.twimg.com/media/Glbn0L0a4AAYqoP?format=jpg",
             "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_covenant.zip",
             "tag": "Covenant"
           },
@@ -637,7 +637,7 @@
         },
         {"name": "Joy",
           "skin_name": "Exostar Scout",
-          "image": "https://pbs.twimg.com/media/GlbnhLxbwAESFzD?format=jpg"skin_name=medium",
+          "image": "https://pbs.twimg.com/media/GlbnhLxbwAESFzD?format=jpg",
           "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20JOY%20STARLIGHT.zip",
           "tag": "Starlight"
         },
