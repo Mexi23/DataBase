@@ -1,5 +1,6 @@
   [
       {
+        "skin_name":"Backup",
         "name": "Saber",
         "image": "https://liquipedia.net/commons/images/b/b2/Saber_Wandering_Sword_Skin.jpg",
         "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/saber%20backup.zip",
@@ -36,6 +37,7 @@
             "tag": "LuckyBox"
           },
           {
+            "skin_name":"Backup",
         "name": "Karina",
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero081-portrait.png/revision/latest?cb=20240605133151",
         "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Karina/Karina%20Default/Karina%20Backup.zip",
@@ -78,6 +80,7 @@
             "tag": "Elite"
           },
           {
+            "skin_name":"Backup",
         "name": "Fanny",
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20240605151224",
         "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Default/Fanny%20Backup.zip",
@@ -144,6 +147,7 @@
             "tag": "Anniversary"
           },
    {
+     "skin_name":"Backup",
         "name": "Hayabusa",
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero211-portrait.png/revision/latest?cb=20220525170632",
         "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Hayabusa/Hayabusa%20Default/Hayabusa%20Backup.zip",
@@ -186,6 +190,7 @@
             "tag": "Naruto Shippuden"
           },
 {
+  "skin_name":"Backup",
         "name": "Natalia",
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero241-portrait.png/revision/latest?cb=20240121131843",
         "script": "https://github.com/missnapokita/June2024-N-O-P/raw/main/nata%20backup.zip",
@@ -210,6 +215,7 @@
             "tag": "Epic"
           },
 {
+  "skin_name":"Backup",
         "name": "Yi Sun-Shin",
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero301-portrait.png/revision/latest?cb=20220525171302",
         "script": "https://github.com/missnapokita/June2024-W-X-Y/raw/main/yss%20backup.zip",
@@ -234,6 +240,7 @@
             "tag": "Starlight"
           },
  {
+   "skin_name":"Backup",
         "name": "Harley",
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero421-portrait.png/revision/latest?cb=20231231170336",
         "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/harley%20backup.zip",
@@ -276,6 +283,7 @@
             "tag": "V.E.N.O.M"
           },
  {
+   "skin_name":"Backup",
         "name": "Lancelot",
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png/revision/latest?cb=20240501053243",
         "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Lancelot/Lancelot%20Default/Lancelot%20Backup.zip",
@@ -336,6 +344,7 @@
             "tag": "Starlight"
           },
 {
+  "skin_name":"Backup",
         "name": "Helcurt",
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero511-portrait.png/revision/latest?cb=20240502101747",
         "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/helcurt%20backup.zip",
@@ -366,6 +375,7 @@
             "tag": "Zodiac"
           },
 {
+  "skin_name":"Backup",
         "name": "Gusion",
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero561-portrait.png/revision/latest?cb=20240611065025",
         "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/gusion%20backup.zip",
@@ -420,6 +430,7 @@
             "tag": "Starlight"
           },
 {
+  "skin_name":"Backup",
         "name": "Selena",
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero631-portrait.png/revision/latest?cb=20240122041957",
         "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Selena/Selena%20Default/Selena%20Backup.zip",
@@ -480,6 +491,7 @@
             "tag": "Zenith"
           },
 {
+  "skin_name":"Backup",
         "name": "Hanzo",
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero691-portrait.png/revision/latest?cb=20240112141926",
         "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Hanzo/Hanzo%20Default/Hanzo%20Backup.zip",
@@ -504,6 +516,7 @@
             "tag": "Collector"
           },
  {
+   "skin_name":"Backup",
         "name": "Ling",
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero841-portrait.png/revision/latest?cb=20240621034004",
         "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Ling/Ling%20Default/Ling%20Backup.zip",
@@ -552,6 +565,7 @@
             "tag": "Neobeast"
           },
  {
+   "skin_name":"Backup",
         "name": "Benedetta",
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero971-portrait.png/revision/latest?cb=20240611063830",
         "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_backup.zip",
@@ -594,6 +608,7 @@
             "tag": "Covenant"
           },
  {
+   "skin_name":"Backup",
       "name": "Aamon",
       "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hero1091-portrait.png/revision/latest?cb=20220525171725",
       "script": "https://github.com/tin0521/assn/raw/refs/heads/main/aamon_backup.zip",
@@ -618,6 +633,7 @@
           "tag": "Collector"
         },
  {
+   "skin_name":"Backup",
       "name": "Joy",
       "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero1181-portrait.png/revision/latest?cb=20240501100807",
       "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Joy/Joy%20Default/Joy%20Backup.zip",
@@ -648,6 +664,7 @@
           "tag": "Champion"
         },
  {
+   "skin_name":"Backup",
       "name": "Julian",
       "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1161-portrait.png/revision/latest?cb=20220525170638",
       "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Julian/Julian%20Default/Julian%20Backup.zip",
@@ -678,6 +695,7 @@
           "tag": "Mystic Meow"
         },
 {
+  "skin_name":"Backup",
       "name": "Nolan",
       "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1221-portrait.png/revision/latest?cb=20231224180931",
       "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Nolan/Nolan%20Default/Nolan%20Backup.zip",
@@ -702,6 +720,7 @@
           "tag": "11.11"
         },
  {
+   "skin_name":"Backup",
       "name": "Suyou",
       "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero1261-portrait.png/revision/latest?cb=20241021140902",
       "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/SUYOU%20BACKUP.zip",
