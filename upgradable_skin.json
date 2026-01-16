@@ -12,6 +12,8 @@
         "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/saber%20backup.zip"
         },
 
+      
+
       {
         "hero":"Karina",
         "upgradable_skin": "Phantom Blade",
@@ -149,6 +151,7 @@
         "script": "https://github.com/missnapokita/June2024-W-X-Y/raw/main/yss%20backup.zip"
       },
       {
+       "hero":"Yi Sun-Shin",
         "upgradable_skin": "Roguish Ranger",
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero304-portrait.png/revision/latest?cb=20220525164951",
         "script": "https://github.com/missnapokita/June2024-W-X-Y/raw/main/yss%20backup.zip"
