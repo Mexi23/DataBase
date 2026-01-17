@@ -630,7 +630,81 @@
     "upgradable_skin": "Celestial Safeguard",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero1112-portrait.png/revision/latest?cb=20220525170534",
     "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/edith%20backup.zip"
+  },
+
+
+
+
+
+
+
+
+
+      
+  {
+    "hero": "Estes",
+    "upgradable_skin": "Holy Priest",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero342-portrait.png/revision/latest?cb=20220525165042",
+    "script": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/ESTES%20BACKUP.zip"
+  },
+  {
+    "hero": "Estes",
+    "upgradable_skin": "White Crane",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero344-portrait.png/revision/latest?cb=20220525165044",
+    "script": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/ESTES%20BACKUP.zip"
+  },
+
+  {
+    "hero": "Angela",
+    "upgradable_skin": "Dove&Love",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero552-portrait.png/revision/latest?cb=20220525165431",
+    "script": "https://github.com/missnapokita/october-2023-marksman/raw/main/angela%20backup.zip"
+  },
+  {
+    "hero": "Angela",
+    "upgradable_skin": "Scream Doll",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero555-portrait.png/revision/latest?cb=20220525165434",
+    "script": "https://github.com/missnapokita/october-2023-marksman/raw/main/angela%20backup.zip"
+  },
+  {
+    "hero": "Angela",
+    "upgradable_skin": "Shanghai Maiden",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero553-portrait.png/revision/latest?cb=20220525165432",
+    "script": "https://github.com/missnapokita/october-2023-marksman/raw/main/angela%20backup.zip"
+  },
+  {
+    "hero": "Angela",
+    "upgradable_skin": "Summer Vibes",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero556-portrait.png/revision/latest?cb=20220525165435",
+    "script": "https://github.com/missnapokita/october-2023-marksman/raw/main/angela%20backup.zip"
+  },
+  {
+    "hero": "Angela",
+    "upgradable_skin": "V.E.N.O.M. Vespid",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero554-portrait.png/revision/latest?cb=20220525165433",
+    "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ANGELA%20BACKUP.zip"
+  },
+
+  {
+    "hero": "Floryn",
+    "upgradable_skin": "Springtide",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero1122-portrait.png/revision/latest?cb=20220525170547",
+    "script": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/FLORYN%20BACKUP.zip"
+  },
+  {
+    "hero": "Floryn",
+    "upgradable_skin": "Paw Power",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero1124-portrait.png/revision/latest?cb=20230212035445",
+    "script": "https://github.com/azizboy2007/SUPPORT-SHIROTOOLS/raw/main/FLORYN%20BACKUP.zip"
+  },
+
+  {
+    "hero": "Kalea",
+    "upgradable_skin": "Shimmering Waves",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero1282-portrait.png/revision/latest?cb=20250307123931",
+    "script": "https://github.com/missnapokita/April-2025/raw/main/kalea%20backup.zip"
   }
+
 ]
 
 
