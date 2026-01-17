@@ -2,7 +2,7 @@
       {
         "skin_name":"Backup",
         "name": "Saber",
-        "image": "https://liquipedia.net/commons/images/b/b2/Saber_Wandering_Sword_Skin.jpg",
+        "image": "https://github.com/Mexi23/JCGameUtility/raw/refs/heads/main/Saber_Default_image.png",
         "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/saber%20backup.zip",
         "tag": "Backup"
       },
