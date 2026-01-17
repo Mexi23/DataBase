@@ -1329,7 +1329,7 @@
   {
     "hero": "Vale",
     "upgradable_skin": "Cerulean Winds",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Vale_%28Cerulean_Winds%29.jpg/revision/latest?cb=20211010164949",
+    "image": "https://github.com/Mexi23/JCGameUtility/raw/refs/heads/main/valeBasic.jpeg",
     "script": "https://github.com/Mexi23/MageD/raw/main/vale_def_backup.zip"
   },
   {
@@ -1469,7 +1469,7 @@
   {
     "hero": "Novaria",
     "upgradable_skin": "Sugar Glaze",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Novaria_%28Sugar_Glaze%29.jpg/revision/latest?cb=20240128145026",
+    "image": "https://github.com/Mexi23/JCGameUtility/raw/refs/heads/main/novaria_sugarglaze.jpg",
     "script": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/NOVARIA%20BACKUP.zip"
   },
   {
