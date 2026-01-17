@@ -444,7 +444,194 @@
     "upgradable_skin": "Venerated Vigilance",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero1262-portrait.png/revision/latest?cb=20241002022300",
     "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Suyou%20Backup.zip"
+  },
+
+
+
+
+
+
+
+      
+  {
+    "hero": "Alice",
+    "upgradable_skin": "Spirit Woman",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Hero042-portrait.png/revision/latest?cb=20220525164349",
+    "script": "https://github.com/missnapokita/june-2024/raw/main/Alice%20Backup.zip"
+  },
+
+  {
+    "hero": "Tigreal",
+    "upgradable_skin": "Dark Guardian",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero062-portrait.png/revision/latest?cb=20220525164420",
+    "script": "https://github.com/rahasia55/AG-BACKUP2/raw/master/backup%20tigreal.zip"
+  },
+
+  {
+    "hero": "Akai",
+    "upgradable_skin": "Summer Party",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero092-portrait.png/revision/latest?cb=20220525164513",
+    "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/AKAI%20BACKUP.zip"
+  },
+  {
+    "hero": "Akai",
+    "upgradable_skin": "Akazonae Samurai",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero094-portrait.png/revision/latest?cb=20220525164515",
+    "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/AKAI%20BACKUP.zip"
+  },
+  {
+    "hero": "Akai",
+    "upgradable_skin": "Stream Recluse",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero096-portrait.png/revision/latest?cb=20220525164517",
+    "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/AKAI%20BACKUP.zip"
+  },
+
+  {
+    "hero": "Franco",
+    "upgradable_skin": "Bone Crusher",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Hero108-portrait.png/revision/latest?cb=20220525164529",
+    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/franco%20backup.zip"
+  },
+  {
+    "hero": "Franco",
+    "upgradable_skin": "Locomotive",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero104-portrait.png/revision/latest?cb=20220525164525",
+    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/franco%20backup.zip"
+  },
+  {
+    "hero": "Franco",
+    "upgradable_skin": "Masterchef",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero102-portrait.png/revision/latest?cb=20220525164523",
+    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/franco%20backup.zip"
+  },
+
+  {
+    "hero": "Johnson",
+    "upgradable_skin": "Fire Chief",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero322-portrait.png/revision/latest?cb=20220525165011",
+    "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/johnson%20backup.zip"
+  },
+  {
+    "hero": "Johnson",
+    "upgradable_skin": "Jeepney Racer",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero324-portrait.png/revision/latest?cb=20220525165016",
+    "script": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/JOHNSON%20BACKUP.zip"
+  },
+  {
+    "hero": "Johnson",
+    "upgradable_skin": "Death Ride",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero326-portrait.png/revision/latest?cb=20220525165018",
+    "script": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/JOHNSON%20BACKUP.zip"
+  },
+  {
+    "hero": "Johnson",
+    "upgradable_skin": "Starblazer",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero328-portrait.png/revision/latest?cb=20230917045307",
+    "script": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/JOHNSON%20BACKUP.zip"
+  },
+  {
+    "hero": "Johnson",
+    "upgradable_skin": "S.A.B.E.R. Automata",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero323-portrait.png/revision/latest?cb=20220525165012",
+    "script": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/JOHNSON%20BACKUP.zip"
+  },
+
+  {
+    "hero": "Gatotkaca",
+    "upgradable_skin": "Mighty Guardian",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero412-portrait.png/revision/latest?cb=20220525165155",
+    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/gatot%20backup.zip"
+  },
+  {
+    "hero": "Belerick",
+    "upgradable_skin": "Tiger Claw",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Belerick_%28Tiger%27s_Claw%29.jpg/revision/latest?cb=20220609141235",
+    "script": "https://github.com/azizboy2007/zong-patcher-v19/raw/main/Belerick%20Backup.zip"
+  },
+  {
+    "hero": "Belerick",
+    "upgradable_skin": "Emerald Guardian",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero705-portrait.png/revision/latest?cb=20220525165735",
+    "script": "https://github.com/azizboy2007/zong-patcher-v19/raw/main/Belerick%20Backup.zip"
+  },
+  {
+    "hero": "Belerick",
+    "upgradable_skin": "The Deep One",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero704-portrait.png/revision/latest?cb=20220525165734",
+    "script": "https://github.com/azizboy2007/zong-patcher-v19/raw/main/Belerick%20Backup.zip"
+  },
+  {
+    "hero": "Belerick",
+    "upgradable_skin": "Torch Guardian",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero703-portrait.png/revision/latest?cb=20220525165732",
+    "script": "https://github.com/azizboy2007/zong-patcher-v19/raw/main/Belerick%20Backup.zip"
+  },
+
+  {
+    "hero": "Khufra",
+    "upgradable_skin": "Desert Owl",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero782-portrait.png/revision/latest?cb=20220525165825",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/khufra%20backup.zip"
+  },
+  {
+    "hero": "Khufra",
+    "upgradable_skin": "Apophis",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero783-portrait.png/revision/latest?cb=20220525165826",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/khufra%20backup.zip"
+  },
+  {
+    "hero": "Khufra",
+    "upgradable_skin": "Gentleman Thief",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero784-portrait.png/revision/latest?cb=20220525165827",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/khufra%20backup.zip"
+  },
+  {
+    "hero": "Khufra",
+    "upgradable_skin": "Iron Hook",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero787-portrait.png/revision/latest?cb=20230316133740",
+    "script": "https://github.com/Mexi23/TankD/raw/main/khufra_def_backup.zip"
+  },
+
+  {
+    "hero": "Esmeralda",
+    "upgradable_skin": "Poison Vine",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Hero813-portrait.png/revision/latest?cb=20220525165934",
+    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/esme%20backup.zip"
+  },
+  {
+    "hero": "Esmeralda",
+    "upgradable_skin": "Ruddy Dusk",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero812-portrait.png/revision/latest?cb=20220525165933",
+    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/esme%20backup.zip"
+  },
+  {
+    "hero": "Esmeralda",
+    "upgradable_skin": "Cleopatra",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero815-portrait.png/revision/latest?cb=20220525165936",
+    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/esme%20backup.zip"
+  },
+
+  {
+    "hero": "Atlas",
+    "upgradable_skin": "Reactor Core",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero932-portrait.png/revision/latest?cb=20220525170223",
+    "script": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/ATLAS%20BACKUP.zip"
+  },
+
+  {
+    "hero": "Barats",
+    "upgradable_skin": "Armored Lizard",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero992-portrait.png/revision/latest?cb=20220525170307",
+    "script": "https://github.com/missnapokita/June-2024-B-C-D/raw/main/barats%20backup.zip"
+  },
+
+  {
+    "hero": "Edith",
+    "upgradable_skin": "Celestial Safeguard",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero1112-portrait.png/revision/latest?cb=20220525170534",
+    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/edith%20backup.zip"
   }
 ]
+
 
   
