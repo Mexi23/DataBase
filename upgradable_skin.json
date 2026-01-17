@@ -286,7 +286,19 @@
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero566-portrait.png/revision/latest?cb=20220525165448",
     "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/gusion%20backup.zip"
   },
+      {
+       "hero": "Gusion",
+       "upgradable_skin": "Dangerous Liaison",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero565-portrait.png/revision/latest?cb\u003d20220915121902",
+        "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/gusion%20backup.zip",
+      },
+      {
+        "hero": "Gusion",
+       "upgradable_skin": "Desert Spider",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero105613-portrait.png/revision/latest?cb\u003d20240619171236",
+        "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gusion%20Backup.zip",
 
+            
 
 
   
@@ -304,9 +316,9 @@
   },
   {
     "hero": "Selena",
-    "upgradable_skin": "Abyssal Witch",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero631-portrait.png/revision/latest?cb=20240122041957",
-    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Selena/Selena%20Default/Selena%20Backup.zip"
+    "upgradable_skin": "Double Identity",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero635-portrait.png/revision/latest?cb\u003d20220525165606",
+        "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/selena%20backup.zip"
   },
 
 
@@ -351,7 +363,12 @@
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest?cb=20220525170016",
     "script": "https://github.com/rahasia55/AG-BACKUP1/raw/master/backup%20ling.zip"
   },
-
+      {
+  "hero": "Ling",
+   "upgradable_skin":"Cosmo Guard",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero845-portrait.png/revision/latest?cb\u003d20220525170019",
+        "script": "https://github.com/rahasia55/AG-BACKUP1/raw/master/backup%20ling.zip"
+      },
 
 
   {
@@ -388,7 +405,12 @@
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1092-portrait.png/revision/latest?cb=20220525170510",
     "script": "https://github.com/JhoweeMylab/Assassin-Backup/raw/main/Aamon%20Backup.zip"
   },
-
+{
+     "hero": "Aamon",
+     "upgradable_skin": "Noble Crest",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero1093-portrait.png/revision/latest?cb\u003d20220628175950",
+    "script": "https://github.com/JhoweeMylab/Assassin-Backup/raw/main/Aamon%20Backup.zip"
+},
 
 
   
