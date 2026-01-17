@@ -703,9 +703,424 @@
     "upgradable_skin": "Shimmering Waves",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero1282-portrait.png/revision/latest?cb=20250307123931",
     "script": "https://github.com/missnapokita/April-2025/raw/main/kalea%20backup.zip"
-  }
+  },
 
+
+
+
+
+
+
+
+
+
+      
+  {
+    "hero": "Miya",
+    "upgradable_skin": "Burning Bow",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero012-portrait.png/revision/latest?cb=20220525164206",
+    "script": "https://github.com/missnapokita/october-2023-marksman/raw/main/miya%20backup.zip"
+  },
+  {
+    "hero": "Miya",
+    "upgradable_skin": "Captain Thorns",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero014-portrait.png/revision/latest?cb=20220525164219",
+    "script": "https://github.com/missnapokita/october-2023-marksman/raw/main/miya%20backup.zip"
+  },
+  {
+    "hero": "Miya",
+    "upgradable_skin": "Jungle Ranger",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero019-portrait.png/revision/latest?cb=20220525164245",
+    "script": "https://github.com/missnapokita/october-2023-marksman/raw/main/miya%20backup.zip"
+  },
+  {
+    "hero": "Miya",
+    "upgradable_skin": "Moon Priestess",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero100110-portrait.png/revision/latest?cb=20220224220136",
+    "script": "https://github.com/missnapokita/october-2023-marksman/raw/main/miya%20backup.zip"
+  },
+  {
+    "hero": "Miya",
+    "upgradable_skin": "Suzuhime",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero018-portrait.png/revision/latest?cb=20220525164240",
+    "script": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/MIYA%20BACKUP.zip"
+  },
+  {
+    "hero": "Miya",
+    "upgradable_skin": "Honor",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero015-portrait.png/revision/latest?cb=20220525164225",
+    "script": "https://github.com/azizboy2007/MARKSMAN-SHIRO/raw/main/MIYA%20BACKUP.zip"
+  },
+  {
+    "hero": "Miya",
+    "upgradable_skin": "Sweet Fantasy",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero017-portrait.png/revision/latest?cb=20220525164235",
+    "script": "https://"
+  },
+  {
+    "hero": "Miya",
+    "upgradable_skin": "Christmas Carnival",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hero013-portrait.png/revision/latest?cb=20220525164212",
+    "script": "https://"
+  },
+
+  {
+    "hero": "Bruno",
+    "upgradable_skin": "Street Football",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero124-portrait.png/revision/latest?cb=20220525164550",
+    "script": "https://github.com/missnapokita/June-2024-B-C-D/raw/main/bruno%20backup.zip"
+  },
+  {
+    "hero": "Bruno",
+    "upgradable_skin": "Vanguard Elite",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero122-portrait.png/revision/latest?cb=20220525164547",
+    "script": "https://github.com/missnapokita/June-2024-B-C-D/raw/main/bruno%20backup.zip"
+  },
+  {
+    "hero": "Bruno",
+    "upgradable_skin": "Best DJ",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero123-portrait.png/revision/latest?cb=20220525164549",
+    "script": "https://github.com/missnapokita/June-2024-B-C-D/raw/main/bruno%20backup.zip"
+  },
+
+  {
+    "hero": "Clint",
+    "upgradable_skin": "Sun n Sand",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero132-portrait.png/revision/latest?cb=20220525164557",
+    "script": "https://github.com/missnapokita/June-2024-C/raw/main/clint%20backup.zip"
+  },
+  {
+    "hero": "Clint",
+    "upgradable_skin": "Guns and Roses",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero133-portrait.png/revision/latest?cb=20220525164557",
+    "script": "https://github.com/missnapokita/June-2024-C/raw/main/clint%20backup.zip"
+  },
+  {
+    "hero": "Clint",
+    "upgradable_skin": "Rock and Roll",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero134-portrait.png/revision/latest?cb=20220525164558",
+    "script": "https://github.com/missnapokita/June-2024-C/raw/main/clint%20backup.zip"
+  },
+  {
+    "hero": "Clint",
+    "upgradable_skin": "Witch Hunter",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero136-portrait.png/revision/latest?cb=20220525164601",
+    "script": "https://github.com/missnapokita/June-2024-C/raw/main/clint%20backup.zip"
+  },
+
+  {
+    "hero": "Layla",
+    "upgradable_skin": "Green Flash",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero182-portrait.png/revision/latest?cb=20220525164719",
+    "script": "https://github.com/rahasia55/AG-BACKUP1/raw/master/backup%20layla.zip"
+  },
+  {
+    "hero": "Layla",
+    "upgradable_skin": "Bunny Babe",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero183-portrait.png/revision/latest?cb=20220525164720",
+    "script": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20layla.zip?raw=true"
+  },
+  {
+    "hero": "Layla",
+    "upgradable_skin": "Classic Malefic Gunner",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero186-portrait.png/revision/latest?cb=20220525164723",
+    "script": "https://github.com/lanz132/MM-UPGRADE/raw/main/LAYLA_BACK_UP.zip"
+  },
+
+  {
+    "hero": "Moskov",
+    "upgradable_skin": "Decapitator",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero317-portrait.png/revision/latest?cb=20220525165005",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/moskov%20backup.zip"
+  },
+  {
+    "hero": "Moskov",
+    "upgradable_skin": "Spear of Bone Dragon",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero312-portrait.png/revision/latest?cb=20240114104739",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/moskov%20backup.zip"
+  },
+  {
+    "hero": "Moskov",
+    "upgradable_skin": "Yasha",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero314-portrait.png/revision/latest?cb=20220525165000",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/moskov%20backup.zip"
+  },
+  {
+    "hero": "Moskov",
+    "upgradable_skin": "Javelin Champion",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero315-portrait.png/revision/latest?cb=20220525165001",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/moskov%20backup.zip"
+  },
+  {
+    "hero": "Moskov",
+    "upgradable_skin": "Violet Spear",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero103110-portrait.png/revision/latest?cb=20230316133752",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/moskov%20backup.zip"
+  },
+  {
+    "hero": "Moskov",
+    "upgradable_skin": "Blood Spear",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero318-portrait.png/revision/latest?cb=20220525165006",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/moskov%20backup.zip"
+  },
+
+  {
+    "hero": "Karrie",
+    "upgradable_skin": "Rising Star",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero402-portrait.png/revision/latest?cb=20220525165144",
+    "script": "https://github.com/Mexi23/Mm/raw/main/karrie_def_backup.zip"
+  },
+  {
+    "hero": "Karrie",
+    "upgradable_skin": "Bladed Mantis",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Hero403-portrait.png/revision/latest?cb=20220525165145",
+    "script": "https://github.com/Mexi23/Mm/raw/main/karrie_def_backup.zip"
+  },
+  {
+    "hero": "Karrie",
+    "upgradable_skin": "Dragon Queen",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero404-portrait.png/revision/latest?cb=20220525165146",
+    "script": "https://github.com/Mexi23/Mm/raw/main/karrie_def_backup.zip"
+  },
+  {
+    "hero": "Karrie",
+    "upgradable_skin": "Jester",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero405-portrait.png/revision/latest?cb=20220525165147",
+    "script": "https://github.com/Mexi23/Mm/raw/main/karrie_def_backup.zip"
+  },
+  {
+    "hero": "Karrie",
+    "upgradable_skin": "Wheel of Justice",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero409-portrait.png/revision/latest?cb=20220525165151",
+    "script": "https://github.com/Mexi23/Mm/raw/main/karrie_def_backup.zip"
+  },
+
+  {
+    "hero": "Irithel",
+    "upgradable_skin": "Silver Cyclone",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero432-portrait.png/revision/latest?cb=20220525165211",
+    "script": "https://github.com/missnapokita/June2024-ad-ons/raw/main/irithel%20backup.zip"
+  },
+  {
+    "hero": "Irithel",
+    "upgradable_skin": "Nightarrow",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero434-portrait.png/revision/latest?cb=20220525165213",
+    "script": "https://github.com/missnapokita/June2024-ad-ons/raw/main/irithel%20backup.zip"
+  },
+  {
+    "hero": "Irithel",
+    "upgradable_skin": "Hellfire",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero433-portrait.png/revision/latest?cb=20220525165212",
+    "script": "https://github.com/missnapokita/June2024-ad-ons/raw/main/irithel%20backup.zip"
+  },
+
+  {
+    "hero": "Lesley",
+    "upgradable_skin": "Royal Musketeer",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero532-portrait.png/revision/latest?cb=20220824141746",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lesley%20backup.zip"
+  },
+  {
+    "hero": "Lesley",
+    "upgradable_skin": "General Rosa",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero533-portrait.png/revision/latest?cb=20220525165401",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lesley%20backup.zip"
+  },
+  {
+    "hero": "Lesley",
+    "upgradable_skin": "Cheergunner",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero534-portrait.png/revision/latest?cb=20220525165402",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lesley%20backup.zip"
+  },
+  {
+    "hero": "Lesley",
+    "upgradable_skin": "Dangerous Love",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero536-portrait.png/revision/latest?cb=20220915121813",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lesley%20backup.zip"
+  },
+  {
+    "hero": "Lesley",
+    "upgradable_skin": "Lethal Lady",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero538-portrait.png/revision/latest?cb=20220525165407",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lesley%20backup.zip"
+  },
+
+  {
+    "hero": "Hanabi",
+    "upgradable_skin": "Viper",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero603-portrait.png/revision/latest?cb=20220525165523",
+    "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/hanabi%20backup.zip"
+  },
+  {
+    "hero": "Hanabi",
+    "upgradable_skin": "Resplendent Iris",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero602-portrait.png/revision/latest?cb=20221216103133",
+    "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/hanabi%20backup.zip"
+  },
+  {
+    "hero": "Hanabi",
+    "upgradable_skin": "Field Op",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero607-portrait.png/revision/latest?cb=20220525165527",
+    "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/hanabi%20backup.zip"
+  },
+  {
+    "hero": "Hanabi",
+    "upgradable_skin": "Fiery Moth",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero605-portrait.png/revision/latest?cb=20220525165525",
+    "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/hanabi%20backup.zip"
+  },
+  {
+    "hero": "Claude",
+    "upgradable_skin": "Blazing Trace",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero658-portrait.png/revision/latest?cb=20241201052817",
+    "script": "https://github.com/missnapokita/June-2024-C/raw/main/claude%20backup.zip"
+  },
+  {
+    "hero": "Claude",
+    "upgradable_skin": "Earth's Mightiest",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero657-portrait.png/revision/latest?cb=20220525165640",
+    "script": "https://github.com/missnapokita/June-2024-C/raw/main/claude%20backup.zip"
+  },
+  {
+    "hero": "Claude",
+    "upgradable_skin": "Golden Bullet",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero652-portrait.png/revision/latest?cb=20220525165635",
+    "script": "https://github.com/missnapokita/June-2024-C/raw/main/claude%20backup.zip"
+  },
+  {
+    "hero": "Claude",
+    "upgradable_skin": "Lifeguard",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero655-portrait.png/revision/latest?cb=20220525165638",
+    "script": "https://github.com/missnapokita/June-2024-C/raw/main/claude%20backup.zip"
+  },
+
+  {
+    "hero": "Kimmy",
+    "upgradable_skin": "Steam Researcher",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero712-portrait.png/revision/latest?cb=20220525165739",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Kimmy/Kimmy%20Basic/Kimmy%20Basic%20Backup.zip"
+  },
+  {
+    "hero": "Kimmy",
+    "upgradable_skin": "Bio Frontier",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero713-portrait.png/revision/latest?cb=20220525165740",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Kimmy/Kimmy%20Starlight/Kimmy%20Starlight%20Backup.zip"
+  },
+  {
+    "hero": "Kimmy",
+    "upgradable_skin": "Charge Leader",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero715-portrait.png/revision/latest?cb=20220525165742",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Kimmy/Kimmy%20Special%20-%20Charge%20Leader/Kimmy%20Special%20-%20Charge%20Leader%20Backup.zip"
+  },
+  {
+    "hero": "Kimmy",
+    "upgradable_skin": "Frost Wing",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero716-portrait.png/revision/latest?cb=20220525165743",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/kimmy%20backup.zip"
+  },
+  {
+    "hero": "Kimmy",
+    "upgradable_skin": "Rising Nova",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero718-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114132958",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Kimmy/Kimmy%20Special%20-%20Rising%20Nova/Kimmy%20Special%20-%20Rising%20Nova%20Backup.zip"
+  },
+  {
+    "hero": "Kimmy",
+    "upgradable_skin": "High Seas Cadet",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero719-portrait.png/revision/latest/scale-to-width-down/150?cb=20241017120358",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Kimmy/Kimmy%20Elite/Kimmy%20Elite%20Backup.zip"
+  },
+
+  {
+    "hero": "Granger",
+    "upgradable_skin": "Doomsday Terminator",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero793-portrait.png/revision/latest?cb=20220525165842",
+    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/granger%20backup.zip"
+  },
+  {
+    "hero": "Granger",
+    "upgradable_skin": "Bardic Whisper",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero792-portrait.png/revision/latest?cb=20220525165840",
+    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/granger%20backup.zip"
+  },
+  {
+    "hero": "Granger",
+    "upgradable_skin": "Biosoldier",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero794-portrait.png/revision/latest?cb=20220525165843",
+    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/granger%20backup.zip"
+  },
+
+  {
+    "hero": "Wanwan",
+    "upgradable_skin": "Darting Star",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero892-portrait.png/revision/latest?cb=20220525170126",
+    "script": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20wanwan.zip?raw=true"
+  },
+  {
+    "hero": "Wanwan",
+    "upgradable_skin": "Shoujo Commander",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero893-portrait.png/revision/latest?cb=20220525170127",
+    "script": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20wanwan.zip?raw=true"
+  },
+  {
+    "hero": "Wanwan",
+    "upgradable_skin": "Teen Pop",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero894-portrait.png/revision/latest?cb=20220525170128",
+    "script": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20wanwan.zip?raw=true"
+  },
+  {
+    "hero": "Wanwan",
+    "upgradable_skin": "E-Girl",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero896-portrait.png/revision/latest?cb=20220525170131",
+    "script": "https://github.com/Mexi23/Mm/raw/main/wan_def_backup.zip"
+  },
+
+  {
+    "hero": "Brody",
+    "upgradable_skin": "Quantum Grip",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero1006-portrait.png/revision/latest?cb=20230212035442",
+    "script": "https://github.com/missnapokita/June-2024-B-C-D/raw/main/Brody%20backup.zip"
+  },
+  {
+    "hero": "Brody",
+    "upgradable_skin": "Nameless Stray",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Hero1002-portrait.png/revision/latest?cb=20220525170319",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Brody/Brody%20Basic/Brody%20Basic%20Backup.zip"
+  },
+  {
+    "hero": "Brody",
+    "upgradable_skin": "Lethal Fang",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero1004-portrait.png/revision/latest?cb=20220525170321",
+    "script": "https://github.com/missnapokita/June-2024-B-C-D/raw/main/Brody%20backup.zip"
+  },
+
+  {
+    "hero": "Natan",
+    "upgradable_skin": "Chaos Hunter",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero1073-portrait.png/revision/latest?cb=20220525170444",
+    "script": "https://github.com/missnapokita/June2024-N-O-P/raw/main/natan%20backup.zip"
+  },
+  {
+    "hero": "Natan",
+    "upgradable_skin": "Time Wielder",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero1072-portrait.png/revision/latest?cb=20220525170443",
+    "script": "https://github.com/missnapokita/June2024-N-O-P/raw/main/natan%20backup.zip"
+  },
+  {
+    "hero": "Natan",
+    "upgradable_skin": "Captain Chrono",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero1074-portrait.png/revision/latest?cb=20220628180007",
+    "script": "https://github.com/missnapokita/June2024-N-O-P/raw/main/natan%20backup.zip"
+  },
+
+  {
+    "hero": "Melissa",
+    "upgradable_skin": "Twinge Weaver",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero1142-portrait.png/revision/latest?cb=20220525170622",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/melissa%20backup.zip"
+  }
 ]
+
 
 
   
