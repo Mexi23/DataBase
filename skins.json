@@ -3661,7 +3661,7 @@
   
   {
     "name": "Balmond",
-    "skin_name": "Bloody Beast",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero021-portrait.png/revision/latest?cb=20240602234350",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Balmond/Balmond%20Default/Balmond%20Backup.zip",
     "tag": "Backup"
@@ -3703,7 +3703,7 @@
   },
   {
     "name": "Alucard",
-    "skin_name": "Demon Hunter",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alucard/Alucard%20Default/Alucard%20Backup.zip",
     "tag": "Backup"
@@ -3794,7 +3794,7 @@
   },
   {
     "name": "Bane",
-    "skin_name": "Frozen King",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero111-portrait.png/revision/latest?cb=20240605133609",
     "script": "https://github.com/JhoweeMylab/Fighter-Backup/raw/main/Bane%20Backup.zip",
     "tag": "Backup"
@@ -3829,7 +3829,7 @@
   },
   {
     "name": "Zilong",
-    "skin_name": "Spear of Dragon",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero161-portrait.png/revision/latest?cb=20240602234915",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Zilong/Zilong%20Default/Zilong%20Backup.zip",
     "tag": "Backup"
@@ -3864,7 +3864,7 @@
   },
   {
     "name": "Freya",
-    "skin_name": "Valkyrie",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero221-portrait.png/revision/latest?cb=20231230160944",
     "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/freya%20backup.zip",
     "tag": "Backup"
@@ -3899,7 +3899,7 @@
   },
   {
     "name": "Chou",
-    "skin_name": "Kung-Fu Boy",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb=20220525164846",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Default/Chou%20Backup.zip",
     "tag": "Backup"
@@ -3997,7 +3997,7 @@
   },
   {
     "name": "Sun",
-    "skin_name": "Monkey King",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero271-portrait.png/revision/latest?cb=20240605114146",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Sun/Sun%20Default/Sun%20Backup.zip",
     "tag": "Backup"
@@ -4046,7 +4046,7 @@
   },
   {
     "name": "Alpha",
-    "skin_name": "Blade of Enmity",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero281-portrait.png/revision/latest?cb=20240517115107",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alpha/Alpha%20Default/Alpha%20Backup.zip",
     "tag": "Backup"
@@ -4095,7 +4095,7 @@
   },
   {
     "name": "Ruby",
-    "skin_name": "Little Red Hood",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero291-portrait.png/revision/latest?cb=20240612224841",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/refs/heads/main/Ruby/Ruby%20Default/Ruby%20Backup.zip",
     "tag": "Backup"
@@ -4165,7 +4165,7 @@
   },
   {
     "name": "Hilda",
-    "skin_name": "Power of Megalith",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero351-portrait.png/revision/latest?cb=20240112140916",
     "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/hilda%20backup.zip",
     "tag": "Backup"
@@ -4193,7 +4193,7 @@
   },
   {
     "name": "Lapu-Lapu",
-    "skin_name": "Courageous Blade",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero371-portrait.png/revision/latest?cb=20220525165107",
     "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lapu%20backup.zip",
     "tag": "Backup"
@@ -4214,7 +4214,7 @@
   },
   {
     "name": "Roger",
-    "skin_name": "Dire Wolf Hunter",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero391-portrait.png/revision/latest?cb=20220525165125",
     "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/roger%20backup.zip",
     "tag": "Backup"
@@ -4270,7 +4270,7 @@
   },
   {
     "name": "Argus",
-    "skin_name": "Dark Angel",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png/revision/latest?cb=20220525165226",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Argus/Argus%20Default/Argus%20Backup.zip",
     "tag": "Backup"
@@ -4298,7 +4298,7 @@
   },
   {
     "name": "Jawhead",
-    "skin_name": "Steel Sweetheart",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero541-portrait.png/revision/latest?cb=20240501074636",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Jawhead/Jawhead%20Default/Jawhead%20Backup.zip",
     "tag": "Backup"
@@ -4354,7 +4354,7 @@
   },
   {
     "name": "Martis",
-    "skin_name": "Ashura King",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero581-portrait.png/revision/latest?cb=20220525165503",
     "script": "https://github.com/Maharlikoders/some-default-skin/raw/main/MARTIS/BACKUP%20MARTIS.zip",
     "tag": "Backup"
@@ -4396,7 +4396,7 @@
   },
   {
     "name": "Aldous",
-    "skin_name": "Contractor",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero641-portrait.png/revision/latest?cb=20240501075708",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Aldous/Aldous%20Default/Aldous%20Backup.zip",
     "tag": "Backup"
@@ -4438,7 +4438,7 @@
   },
   {
     "name": "Leomord",
-    "skin_name": "Sworn Sword",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero671-portrait.png/revision/latest?cb=20220628173702",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Leomord/Leomord%20Default/Leomord%20Backup.zip",
     "tag": "Backup"
@@ -4494,7 +4494,7 @@
   },
   {
     "name": "Thamuz",
-    "skin_name": "Lord Lava",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png/revision/latest?cb=20220525165744",
     "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/thamuz%20backup.zip",
     "tag": "Backup"
@@ -4522,7 +4522,7 @@
   },
   {
     "name": "Minsitthar",
-    "skin_name": "Courageous Warrior",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero741-portrait.png/revision/latest?cb=20230317100559",
     "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/minsi%20backup.zip",
     "tag": "Backup"
@@ -4550,7 +4550,7 @@
   },
   {
     "name": "Badang",
-    "skin_name": "Tribal Warrior",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest?cb=20220525165815",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Badang/Badang%20Default/Badang%20Backup.zip",
     "tag": "Backup"
@@ -4613,7 +4613,7 @@
   },
   {
     "name": "Guinevere",
-    "skin_name": "Ms. Violet",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero801-portrait.png/revision/latest?cb=20240121140113",
     "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/guin%20backup.zip",
     "tag": "Backup"
@@ -4690,7 +4690,7 @@
   },
   {
     "name": "Terizla",
-    "skin_name": "Executioner",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero821-portrait.png/revision/latest?cb=20220525165940",
     "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/terizla%20backup.zip",
     "tag": "Backup"
@@ -4711,7 +4711,7 @@
   },
   {
     "name": "X.Borg",
-    "skin_name": "Firaga Armor",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero831-portrait.png/revision/latest?cb=20230826055048",
     "script": "https://github.com/injector-origin/mobile-legends-script/raw/main/assets/scripts/hero/083/083.zip",
     "tag": "Backup"
@@ -4746,7 +4746,7 @@
   },
   {
     "name": "Dyrroth",
-    "skin_name": "Prince of the Abyss",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest?cb=20240111124052",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Dyrroth/Dyrroth%20Default/Dyrroth%20Backup.zip",
     "tag": "Backup"
@@ -4788,7 +4788,7 @@
   },
   {
     "name": "Masha",
-    "skin_name": "Wild-oats Fist",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero881-portrait.png/revision/latest?cb=20220525170858",
     "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/masha%20backup.zip",
     "tag": "Backup"
@@ -4816,7 +4816,7 @@
   },
   {
     "name": "Yu Zhong",
-    "skin_name": "Black Dragon",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero951-portrait.png/revision/latest?cb=20240621033746",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Yu%20Zhong/Yu%20Zhong%20Default/Yu%20Zhong%20Backup.zip",
     "tag": "Backup"
@@ -4858,7 +4858,7 @@
   },
   {
     "name": "Khaleed",
-    "skin_name": "Desert Scimitar",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero981-portrait.png/revision/latest?cb=20220525170258",
     "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/khaleed%20backup.zip",
     "tag": "Backup"
@@ -4872,7 +4872,7 @@
   },
   {
     "name": "Paquito",
-    "skin_name": "The Heavenly Fist",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb=20220525170349",
     "script": "https://github.com/missnapokita/June2024-N-O-P/raw/main/paquito%20backup.zip",
     "tag": "Backup"
@@ -4928,7 +4928,7 @@
   },
   {
     "name": "Phoveus",
-    "skin_name": "Chains of Sin",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero1061-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021143231",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Phoveus/Phoveus%20Default/Phoveus%20Backup.zip",
     "tag": "Backup"
@@ -4942,7 +4942,7 @@
   },
   {
     "name": "Aulus",
-    "skin_name": "Warrior of Ferocity",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero1081-portrait.png/revision/latest?cb=20220525171829",
     "script": "https://github.com/missnapokita/june-2024/raw/main/aulos%20backup.zip",
     "tag": "Backup"
@@ -4963,7 +4963,7 @@
   },
   {
     "name": "Yin",
-    "skin_name": "Martial Genius",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1131-portrait.png/revision/latest?cb=20240122084641",
     "script": "https://github.com/missnapokita/June2024-W-X-Y/raw/main/yin%20backup.zip",
     "tag": "Backup"
@@ -5005,7 +5005,7 @@
   },
   {
     "name": "Fredrin",
-    "skin_name": "Rogue Appraiser",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero1171-portrait.png/revision/latest?cb=20240114032237",
     "script": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/fredrinBackup.zip",
     "tag": "Backup"
@@ -5026,7 +5026,7 @@
   },
   {
     "name": "Arlott",
-    "skin_name": "Lone Lancer",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1201-portrait.png/revision/latest?cb=20230208125736",
     "script": "https://github.com/Meow00001/Files/raw/main/Arlott/Arlott%20Default/Arlott%20Backup.zip",
     "tag": "Backup"
@@ -5047,7 +5047,7 @@
   },
   {
     "name": "Cici",
-    "skin_name": "Buoyant Performer",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero1231-portrait.png/revision/latest?cb=20240120070411",
     "script": "https://github.com/missnapokita/Jan28_2024/raw/main/CiCi%20backup.zip",
     "tag": "Backup"
@@ -5061,7 +5061,7 @@
   },
   {
     "name": "Lukas",
-    "skin_name": "Beast of Light",
+    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero1271-portrait.png/revision/latest?cb=20241201052822",
     "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/LUCAS%20BACKUP.zip",
     "tag": "Backup"
@@ -5072,6 +5072,41 @@
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero1273-portrait.png/revision/latest?cb=20250411101452",
     "script": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/lucasNaruto.zip",
     "tag": "Naruto Shippuden"
+  },
+  {
+    "name": "Silvanna",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero901-portrait.png/revision/latest?cb=20220525170133",
+    "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/silvana%20backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Silvanna",
+    "skin_name": "Queen Frost",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero905-portrait.png/revision/latest?cb=20220525170146",
+    "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/silvana%20collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Silvanna",
+    "skin_name": "Verdant Lancer",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero907-portrait.png/revision/latest?cb=20230623125834",
+    "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/silvana%20elite%20lancer.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Silvanna",
+    "skin_name": "Academy Supplies",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero909-portrait.png/revision/latest?cb=20240619174651",
+    "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/silvana%20special.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Silvanna",
+    "skin_name": "Alluring Mystique",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero908-portrait.png/revision/latest?cb=20240202092913",
+    "script": "https://github.com/zmaxph/fighter/raw/main/silvana%20valine.zip",
+    "tag": "Valentine"
   }
 
 
