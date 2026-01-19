@@ -1,21 +1,20 @@
   [
-      {
-        "skin_name":"Backup",
-        "name": "Saber",
-        "image": "https://github.com/Mexi23/JCGameUtility/raw/refs/heads/main/Saber_Default_image.png",
-        "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/saber%20backup.zip",
-        
-      },
-          {"name": "Saber",
+        {
+          "skin_name":"Backup",
+          "name": "Saber",
+          "image": "https://github.com/Mexi23/JCGameUtility/raw/refs/heads/main/Saber_Default_image.png",
+          "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/saber%20backup.zip"
+          },
+          {
+            "name": "Saber",
             "skin_name": "Onimaru(Old)",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero037-portrait.png/revision/latest?cb=20220525164336",
-            "script": "https://github.com/Maharlikoders/some-default-skin/raw/main/SABER/Saber%20Onimaru%20Revamp%20To%20Default%20Skin.zip",
-            
+            "script": "https://github.com/Maharlikoders/some-default-skin/raw/main/SABER/Saber%20Onimaru%20Revamp%20To%20Default%20Skin.zip"
           },
           {"name": "Saber",
             "skin_name": "Codename - Storm",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest?cb=20220525164329",
-            "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/saber%20legend.zip",
+            "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/saber%20legend.zip"
             
           },
           {"name": "Saber",
