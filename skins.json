@@ -1442,42 +1442,49 @@
     "skin_name": "Backup",
     "name": "Barats",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero991-portrait.png/revision/latest?cb=20240103093200",
-    "script": "https://github.com/missnapokita/June-2024-B-C-D/raw/main/barats%20backup.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/barats_backup.zip",
     "tag": "Backup"
   },
   {
     "skin_name": "Toy Rex",
     "name": "Barats",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero993-portrait.png/revision/latest?cb=20220525170308",
-    "script": "https://github.com/missnapokita/June-2024-B-C-D/raw/main/barats%20elite.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/barats_toyrex.zip",
     "tag": "Elite"
   },
   {
     "skin_name": "Baratstein",
     "name": "Barats",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero994-portrait.png/revision/latest?cb=20220525170309",
-    "script": "https://github.com/missnapokita/June-2024-B-C-D/raw/main/barats%20halloween.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/barats_baratstein.zip",
     "tag": "Halloween"
   },
   {
     "skin_name": "Sunken Predator",
     "name": "Barats",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero996-portrait.png/revision/latest?cb=20241201052820",
-    "script": "https://github.com/missnapokita/MLBB-X-HXH-SKIN/raw/refs/heads/main/barats%20epic.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/barats_epic.zip",
     "tag": "Epic"
+  },
+    {
+    "skin_name": "War Chief",
+    "name": "Barats",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241017_211610603.png",
+    "script": "https://github.com/tin0521/ff/raw/main/barats_s26.zip",
+    "tag": "S26"
   },
   {
     "skin_name": "Backup",
     "name": "Gloo",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1041-portrait.png/revision/latest?cb=20240602231141",
-    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/gloo%20epic.zip",
+    "script": "https://github.com/tin0521/tnk/raw/main/gloo_backup.zip",
     "tag": "Backup"
   },
   {
     "skin_name": "Jellyman",
     "name": "Gloo",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero1043-portrait.png/revision/latest?cb=20220526053627",
-    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/gloo%20special.zip",
+    "script": "https://github.com/tin0521/tnk/raw/main/gloo_jellyman.zip",
     "tag": "Special"
   },
 
@@ -1485,35 +1492,35 @@
     "skin_name": "Backup",
     "name": "Edith",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero1111-portrait.png/revision/latest?cb=20220525171947",
-    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/edith%20backup.zip",
+    "script": "https://github.com/tin0521/tnk/raw/main/edith_backup.zip",
     "tag": "Backup"
   },
   {
     "skin_name": "Beyond the Clouds Edith",
     "name": "Edith",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero1115-portrait.png/revision/latest?cb=20230805043923",
-    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/edith%20clouds.zip",
+    "script": "https://github.com/tin0521/tnk/raw/main/edith_clouds.zip",
     "tag": "Clouds"
   },
   {
     "skin_name": "Red Bastion",
     "name": "Edith",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1114-portrait.png/revision/latest?cb=20240405034912",
-    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/edith%20collector.zip",
+    "script": "https://github.com/tin0521/tnk/raw/main/edith_collector.zip",
     "tag": "Collector"
   },
   {
     "skin_name": "Ancient Warden",
     "name": "Edith",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero1113-portrait.png/revision/latest?cb=20230409114636",
-    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/edith%20starlight.zip",
+    "script": "https://github.com/tin0521/tnk/raw/main/edith_ancient.zip",
     "tag": "Starlight"
   },
   {
     "skin_name": "Prismatic Sentinel",
     "name": "Edith",
     "image": "https://raw.githubusercontent.com/injector-origin/random-files/refs/heads/main/473000539_912290804434491_1086208359595965438_n.jpg",
-    "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20EDITH%20MPL.zip",
+    "script": "https://github.com/tin0521/tnk/raw/main/edith_mpl.zip",
     "tag": "MPL"
   },
 
@@ -1524,49 +1531,49 @@
     "skin_name": "Backup",
     "name": "Rafaela",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero141-portrait.png/revision/latest?cb=20240605145920",
-    "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/rafaela%20backup.zip",
+    "script": "https://github.com/tin0521/supp/raw/main/rafaela_backup.zip",
     "tag": "Backup"
   },
   {
     "skin_name": "S.A.B.E.R. Savior",
     "name": "Rafaela",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero145-portrait.png/revision/latest?cb=20220525164616",
-    "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/rafaela%20saber.zip",
+    "script": "https://github.com/tin0521/supp/raw/main/rafaela_saber.zip",
     "tag": "S.A.B.E.R"
   },
   {
     "skin_name": "Angelic Sonata",
     "name": "Rafaela",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero147-portrait.png/revision/latest?cb=20220525164620",
-    "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/rafaela%20xmas.zip",
+    "script": "https://github.com/tin0521/supp/raw/main/rafaela_christmas.zip",
     "tag": "Christmas"
   },
   {
     "skin_name": "Seraphic Selfie",
     "name": "Rafaela",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero148-portrait.png/revision/latest?cb=20230316133649",
-    "script": "https://github.com/Maharlikoders/New-Default-Skin/raw/main/rafaela%20all%20star.zip",
+    "script": "https://github.com/tin0521/supp/raw/main/rafaela_AS.zip",
     "tag": "Allstars"
   },
   {
     "skin_name": "Biomedic",
     "name": "Rafaela",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero144-portrait.png/revision/latest?cb=20220525164614",
-    "script": "https://github.com/Maharlikoders/New-Default-Skin/raw/main/rafaela%20mpl.zip",
+    "script": "https://github.com/tin0521/supp/raw/main/rafaela_biomedic.zip",
     "tag": "MPL"
   },
   {
     "skin_name": "Flower Fairy",
     "name": "Rafaela",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero143-portrait.png/revision/latest?cb=20220525164613",
-    "script": "https://github.com/Maharlikoders/New-Default-Skin/raw/main/rafaela%20epic%20flower.zip",
+    "script": "https://github.com/tin0521/supp/raw/main/rafaela_flower.zip",
     "tag": "Epic"
   },
   {
     "skin_name": "Bloom of Abundance",
     "name": "Rafaela",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero149-portrait.png/revision/latest?cb=20241201052808",
-    "script": "https://github.com/missnapokita/MLBB-X-HXH-SKIN/raw/refs/heads/main/rafaela%20lunar.zip",
+    "script": "https://github.com/tin0521/supp/raw/main/rafaela_lunarfest.zip",
     "tag": "Lunarfest"
   },
 
@@ -1574,22 +1581,36 @@
     "skin_name": "Backup",
     "name": "Lolita",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero201-portrait.png/revision/latest?cb=20240605151404",
-    "script": "https://github.com/zenosml/lolita/raw/main/lolita.zip",
+    "script": "https://github.com/tin0521/tnk/raw/main/lolita_backup.zip",
     "tag": "Backup"
+  },
+    {
+    "skin_name": "Impish Trickster",
+    "name": "Lolita",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241019_134245822.png",
+    "script": "https://github.com/tin0521/tnk/raw/main/lolita_halloween.zip",
+    "tag": "Halloween"
   },
   {
     "skin_name": "Lion Dance",
     "name": "Lolita",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero204-portrait.png/revision/latest?cb=20220525164743",
-    "script": "https://github.com/missnapokita/Feb11_2024_1/raw/main/lolita%20lunar.zip",
-    "tag": "Lunardest"
+    "script": "https://github.com/tin0521/tnk/raw/main/lolita_lunarfest.zip",
+    "tag": "Lunarfest"
   },
   {
     "skin_name": "Genki Slam",
     "name": "Lolita",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero206-portrait.png/revision/latest?cb=20240202093547",
-    "script": "https://github.com/WarlitoTools2024/Tank/raw/main/Lolita%20Special.zip",
+    "script": "https://github.com/tin0521/tnk/raw/main/lolita_genkislam.zip",
     "tag": "Special"
+  },
+    {
+    "skin_name": "Starwatcher",
+    "name": "Lolita",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241019_134245768.png",
+    "script": "https://github.com/tin0521/tnk/raw/main/lolita_rising.zip",
+    "tag": "Rising"
   },
 
   {
