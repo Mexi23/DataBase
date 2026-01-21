@@ -1,5 +1,11 @@
 [
   {
+   "tag": "recall",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Classic_Recall_Effect.png/revision/latest/scale-to-width-down/100?cb\u003d20211204090007",
+    "name": "Backup",
+    "script": "https://github.com/Maharlikoders/Preparation/raw/main/Recalls/Replacement%20to%20Classic%20Recall/Classic%20Recall%20Backup.zip"
+  },
+  {
     "tag": "recall",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Lucky_Golden_Egg_Recall_Effect.png",
     "name": "Lucky Golden Egg",
@@ -154,5 +160,124 @@
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Snowman_Recall_Effect.png/revision/latest?cb=20211204084915",
     "name": "Snowman",
     "script": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20Snowman.zip"
+  },
+
+
+
+
+
+  
+
+{
+  "tag": "emote",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Genius%21.png/revision/latest/scale-to-width-down/100?cb\u003d20220118062722",
+    "name": "Backup",
+    "script": "https://github.com/Maharlikoders/random-files/raw/main/emoji.zip"
+},
+[
+  {
+    "tag": "emote",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Am_I_Scary.png/revision/latest/scale-to-width-down/100?cb=20200709164919",
+    "name": "Am I Scary?",
+    "script": "https://github.com/missnapokita/June-Recall-2024/raw/main/emote%20chou%20kof.zip"
+  },
+  {
+    "tag": "emote",
+    "image": "https://i.imgur.com/n6p9OWN.png",
+    "name": "BINI Aiah",
+    "script": "https://github.com/missnapokita/Fix/raw/main/bini%20aiah%20emote.zip"
+  },
+  {
+    "tag": "emote",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Love_Ya%21.png",
+    "name": "Love Ya!",
+    "script": "https://github.com/lanz132/EMOTE/raw/main/2.zip"
+  },
+  {
+    "tag": "emote",
+    "image": "https://github.com/lanz132/EMOTES/raw/main/Em3.png",
+    "name": "M3 Champion",
+    "script": "https://github.com/lanz132/EMOTE/raw/main/116.zip"
+  },
+  {
+    "tag": "emote",
+    "image": "https://github.com/lanz132/EMOTES/raw/main/Erafaela.png",
+    "name": "Looks Decide Everything",
+    "script": "https://github.com/lanz132/EMOTE/raw/main/115.zip"
+  },
+  {
+    "tag": "emote",
+    "image": "https://github.com/lanz132/EMOTES/raw/main/Emiya.png",
+    "name": "Guilding Arrow",
+    "script": "https://github.com/lanz132/EMOTE/raw/main/114.zip"
+  },
+  {
+    "tag": "emote",
+    "image": "https://github.com/lanz132/EMOTES/raw/main/Ehanabi.png",
+    "name": "Moonlight Blossom",
+    "script": "https://github.com/lanz132/EMOTE/raw/main/113.zip"
+  },
+  {
+    "tag": "emote",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/515_Wanwan.png",
+    "name": "515 Wanwan",
+    "script": "https://github.com/lanz132/EMOTE/raw/main/111.zip"
+  },
+  {
+    "tag": "emote",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/515_Yin.png",
+    "name": "515 Yin",
+    "script": "https://github.com/lanz132/EMOTE/raw/main/110.zip"
+  },
+  {
+    "tag": "emote",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/515_Ling.png",
+    "name": "515 Ling",
+    "script": "https://github.com/lanz132/EMOTE/raw/main/109.zip"
+  },
+  {
+    "tag": "emote",
+    "image": "https://github.com/lanz132/EMOTES/raw/main/Eyuzhong.png",
+    "name": "Embarrassed",
+    "script": "https://github.com/lanz132/EMOTE/raw/main/108.zip"
+  },
+  {
+    "tag": "emote",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Me_Grimlock_King%21.png/revision/latest?cb=20220527114719",
+    "name": "Me Grimlock King!",
+    "script": "https://github.com/lanz132/EMOTE/raw/main/107.zip"
+  },
+  {
+    "tag": "emote",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Ravage_Eject%21.png/revision/latest?cb=20220527114735",
+    "name": "Ravage Effect!",
+    "script": "https://github.com/lanz132/EMOTE/raw/main/106.zip"
+  },
+  {
+    "tag": "emote",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/My_Time_will_Come%21.png/revision/latest?cb=20220527114708",
+    "name": "My Time will Come!",
+    "script": "https://github.com/lanz132/EMOTE/raw/main/105.zip"
+  },
+  {
+    "tag": "emote",
+    "image": "https://github.com/lanz132/EMOTES/raw/main/Exavier.png",
+    "name": "Nice job!",
+    "script": "https://github.com/lanz132/EMOTE/raw/main/104..zip"
+  },
+  {
+    "tag": "emote",
+    "image": "https://github.com/lanz132/EMOTES/raw/main/Eeudora.png",
+    "name": "Harmonia",
+    "script": "https://github.com/lanz132/EMOTE/raw/main/112..zip"
   }
+
+
+
+
+
+
+
+
+  
 ]
