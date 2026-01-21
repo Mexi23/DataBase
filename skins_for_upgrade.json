@@ -4254,31 +4254,33 @@
   "upgradable_skin": "Pale Flame",
   "name": "Kyo Kusanagi",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero105710-portrait.png/revision/latest?cb=20240430022853",
-  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/valir%20basic%20to%20kof.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Valir%20Basic%20to%20KOF.zip"
 },
 {
+  
   "name": "Backup",
   "upgradable_skin": "Dictator",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero574-portrait.png/revision/latest?cb=20220525165459",
   "script": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20valir.zip?raw=true"
 },
+  
 {
   "upgradable_skin": "Dictator",
   "name": "Demonlord",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest?cb=20220525165501",
-  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/valir%20star%20to%20collector.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Valir%20Starlight%20to%20COLL.zip"
 },
 {
   "upgradable_skin": "Dictator",
   "name": "Leo Ikki",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero579-portrait.png/revision/latest?cb=20220915121957",
-  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/valir%20star%20to%20saint%20seiya2.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Valir%20Starlight%20to%20LEOIKKI.zip"
 },
 {
   "upgradable_skin": "Dictator",
   "name": "Kyo Kusanagi",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero105711-portrait.png/revision/latest?cb=20250106155738",
-  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/valir%20star%20to%20kof.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Valir%20Starlight%20to%20KOF.zip"
 },
 {
   "name": "Backup",
@@ -4377,11 +4379,13 @@
   "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/lunox%20star%20to%20legend.zip"
 },
 {
+  
   "name": "Backup",
   "upgradable_skin": "Fashion Expert",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero734-portrait.png/revision/latest?cb=20220525165756",
   "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Harith/Harith%20515/Harith%20515%20Backup.zip"
 },
+  
 {
   "upgradable_skin": "Fashion Expert",
   "name": "Psychic",
@@ -4398,7 +4402,7 @@
   "upgradable_skin": "Fashion Expert",
   "name": "Killua",
   "image": "https://i.imgur.com/J9fpoZr.png",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Harith/Harith%20515/Harith%20515%20to%20Hunter%20x%20Hunter.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Harith%20Basic%20to%20HXH(New).zip"
 },
 {
   "name": "Backup",
@@ -4425,11 +4429,13 @@
   "script": "https://github.com/missnapokita/MLBB-X-HXH-SKIN/raw/refs/heads/main/harith%20normal%20to%20killua.zip"
 },
 {
+  
   "name": "Backup",
   "upgradable_skin": "Stardust",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero733-portrait.png/revision/latest?cb=20220525165755",
   "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Harith/Harith%20Elite/Harith%20Elite%20Backup.zip"
 },
+  
 {
   "upgradable_skin": "Stardust",
   "name": "Psychic",
@@ -4446,50 +4452,58 @@
   "upgradable_skin": "Stardust",
   "name": "Killua",
   "image": "https://i.imgur.com/J9fpoZr.png",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Harith/Harith%20Elite/Harith%20Elite%20to%20Hunter%20x%20Hunter.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Harith%20Elite%20to%20HXH(New).zip"
 },
 {
+  
   "name": "Backup",
   "upgradable_skin": "Lightborn - Inspirer",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero735-portrait.png/revision/latest?cb=20220525165757",
   "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Harith/Harith%20Lighborn/Harith%20Lighborn.json"
 },
+  
 {
   "upgradable_skin": "Lightborn - Inspirer",
   "name": "Killua",
   "image": "https://i.imgur.com/J9fpoZr.png",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Harith/Harith%20Lighborn/Harith%20Lightborn%20to%20Hunter%20x%20Hunter.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Harith%20Lighborn%20to%20HXH.zip"
 },
   {
   "name": "Backup",
   "upgradable_skin": "School Idol",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b2/Hero862-portrait.png/revision/latest?cb=20220525170048",
-  "script": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20lilya.zip?raw\u003dtrue"
+  "script": "https://github.com/Mexi23/MgStB/raw/main/lylia_basic_backup.zip"
 },
 {
+
+  
   "upgradable_skin": "School Idol",
   "name": "Haunted Doll",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero865-portrait.png/revision/latest?cb\u003d20220525170051",
   "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/lylia%20basic%20to%20halloween.zip"
 },
+  
 {
   "upgradable_skin": "School Idol",
   "name": "Neobeast Lylia",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero866-portrait.png/revision/latest?cb\u003d20230805043912",
-  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/lylia%20basic%20to%20neobeast.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Lylia%20Normal%20to%20NEOBEAST.zip"
 },
 {
   "upgradable_skin": "School Idol",
   "name": "Magitech Arsenal",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero867-portrait.png/revision/latest?cb\u003d20240401090131",
-  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/lylia%20basic%20to%20star.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Lylia%20Normal%20to%20STARLIGHT.zip"
 },
 {
+
+  
   "name": "Backup",
   "upgradable_skin": "Star Student",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero863-portrait.png/revision/latest?cb\u003d20220525170049",
   "script": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20lilya.zip?raw\u003dtrue"
 },
+  
 {
   "upgradable_skin": "Star Student",
   "name": "Neobeast Lylia",
@@ -4620,68 +4634,73 @@
   "name": "Backup",
   "upgradable_skin": "Twilight Charmer",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero1102-portrait.png/revision/latest?cb\u003d20220525170523",
-  "script": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20valentina.zip?raw\u003dtrue"
+  "script": "https://github.com/Mexi23/MgStB/raw/main/valentina_basic_backup.zip"
 },
 {
   "upgradable_skin": "Twilight Charmer",
   "name": "Celestial Judicator",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1105-portrait.png/revision/latest?cb\u003d20240114153957",
-  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/valentina%20basic%20to%20collector.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Valentina%20Normal%20to%20COLLECTOR.zip"
 },
 {
   "upgradable_skin": "Twilight Charmer",
   "name": "Dark Nexus",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero1106-portrait.png/revision/latest?cb\u003d20240619180532",
-  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/valentina%20basic%20to%20msc.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Valentina%20Normal%20to%20MSC.zip"
 },
 {
   "upgradable_skin": "Twilight Charmer",
   "name": "Cyber Agent",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero1104-portrait.png/revision/latest?cb\u003d20230212035444",
-  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/valentina%20basic%20to%20star.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Valentina%20Normal%20to%20STARLIGHT.zip"
 },
   {
   "name": "Backup",
   "upgradable_skin": "Verdict of Light",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Hero1152-portrait.png/revision/latest?cb\u003d20220525170636",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Xavier/Xavier%20Basic/Xavier%20Basic%20Backup.zip"
+  "script": "https://github.com/Mexi23/MgStB/raw/main/xavier_basic_backup.zip"
 },
 {
   "upgradable_skin": "Verdict of Light",
   "name": "Beyond the Clouds Xavier",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1155-portrait.png/revision/latest?cb\u003d20230805043928",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Xavier/Xavier%20Basic/Xavier%20Basic%20to%20Beyond%20the%20Clouds.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Xavier%20Normal%20to%20CLOUDS.zip"
 },
 {
   "upgradable_skin": "Verdict of Light",
   "name": "Satoru Gojo",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero1153-portrait.png/revision/latest?cb\u003d20230212035449",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Xavier/Xavier%20Basic/Xavier%20Basic%20to%20Jujutsu%20Kaisen.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Xavier%20Normal%20to%20JJK.zip"
 },
 {
   "upgradable_skin": "Verdict of Light",
   "name": "Hardlight Artificer",
   "image": "https://github.com/Maharlikoders/random-files/raw/main/11514.jpg",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Xavier/Xavier%20Basic/Xavier%20Basic%20to%20Starlight%20-%20Hardlight%20Artificer.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Xavier%20Normal%20to%20STARLIGHT.zip"
 },
 {
+  
   "name": "Backup",
   "upgradable_skin": "Hardlight Artificer",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero1154-portrait.png/revision/latest?cb\u003d20241024133422",
   "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Xavier/Xavier%20Starlight/Xavier%20Starlight%20Backup.zip"
 },
+  
 {
+  
   "upgradable_skin": "Hardlight Artificer",
   "name": "Beyond the Clouds Xavier",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1155-portrait.png/revision/latest?cb\u003d20230805043928",
   "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Xavier/Xavier%20Starlight/Xavier%20Starlight%20to%20Beyond%20the%20Clouds.zip"
 },
+  
 {
   "upgradable_skin": "Hardlight Artificer",
   "name": "Satoru Gojo",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero1153-portrait.png/revision/latest?cb\u003d20230212035449",
   "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Xavier/Xavier%20Starlight/Xavier%20Starlight%20to%20Jujutsu%20Kaisen.zip"
 },
+  
 {
   "name": "Backup",
   "upgradable_skin": "Sugar Glaze",
