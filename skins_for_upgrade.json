@@ -4746,19 +4746,21 @@
   "upgradable_skin": "Power Source",
   "name": "God of Mountains",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero025-portrait.png/revision/latest?cb\u003d20220525164309",
-  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/balmond%20basic%20to%20collector.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Balmond%20Basic%20to%20COLL.zip"
 },
 {
+  
   "upgradable_skin": "Power Source",
   "name": "Bioroid",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Hero027-portrait.png/revision/latest?cb\u003d20220525164316",
   "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/balmond%20basic%20to%20star.zip"
+  
 },
 {
   "upgradable_skin": "Power Source",
   "name": "Infernal Warlord",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero028-portrait.png/revision/latest?cb\u003d20230623125721",
-  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/balmond%20basic%20to%20epic.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Balmond%20Basic%20to%20Epic.zip"
 },
 {
   "name": "Backup",
@@ -4770,7 +4772,7 @@
   "upgradable_skin": "Ghoul's Fury",
   "name": "God of Mountains",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero025-portrait.png/revision/latest?cb\u003d20220525164309",
-  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/balmond%20elite%20to%20collector.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Balmond%20Elite%20Ghouls%20to%20COLL.zip"
 },
 {
   "name": "Backup",
@@ -4782,7 +4784,7 @@
   "upgradable_skin": "Savage Hunter",
   "name": "God of Mountains",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero025-portrait.png/revision/latest?cb\u003d20220525164309",
-  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/balmond%20elite2%20collector.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Balmond%20Savage%20Hunter%20to%20COLL.zip"
 },
 {
   "name": "Backup",
@@ -4812,44 +4814,46 @@
   "name": "Backup",
   "upgradable_skin": "Lone Hero",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero072-portrait.png/revision/latest?cb\u003d20220525164436",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alucard/Alucard%20Basic/Alucard%20Basic%20Backup.zip"
+  "script": "https://github.com/Mexi23/GstSN/raw/main/alu_basSea_backup.zip"
 },
 {
   "upgradable_skin": "Lone Hero",
   "name": "Lightborn - Striker",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero079-portrait.png/revision/latest?cb\u003d20220920090132",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alucard/Alucard%20Basic/Alucard%20Basic%20to%20Lightborn.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Alucard%20Normal%20to%20LIGHTBORN.zip"
 },
 {
   "upgradable_skin": "Lone Hero",
   "name": "Obsidian Blade",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero077-portrait.png/revision/latest?cb\u003d20220525164442",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alucard/Alucard%20Basic/Alucard%20Basic%20to%20Legend.zip"
+  "script": "https://github.com/tin0521/skintoskin/raw/refs/heads/main/alucard_basic_legend.zip"
 },
 {
   "upgradable_skin": "Lone Hero",
   "name": "Obi-wan Kenobi",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero100710-portrait.png/revision/latest?cb\u003d20220802034527",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alucard/Alucard%20Basic/Alucard%20Basic%20to%20Starwars.zip"
+  "script": "https://github.com/tin0521/skintoskin/raw/refs/heads/main/alucard_basic_starwars.zip"
 },
 {
   "upgradable_skin": "Lone Hero",
   "name": "Romantic Fantasy",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero076-portrait.png/revision/latest?cb\u003d20220525164441",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alucard/Alucard%20Basic/Alucard%20Basic%20to%20Valentines.zip"
+  "script": "https://github.com/tin0521/skintoskin/raw/refs/heads/main/alucard_basic_valentines.zip"
 },
 {
   "upgradable_skin": "Lone Hero",
   "name": "Child of the Fall",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero074-portrait.png/revision/latest?cb\u003d20220525164438",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alucard/Alucard%20Basic/Alucard%20Basic%20to%20Luckybox.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Alucard%20Normal%20to%20LUCKYBOX.zip"
 },
 {
+  
   "upgradable_skin": "Lone Hero",
   "name": "Viscount",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero075-portrait.png/revision/latest?cb\u003d20220525164439",
   "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alucard/Alucard%20Basic/Alucard%20Basic%20to%20Starlight.zip"
 },
+  
 {
   "upgradable_skin": "Lone Hero",
   "name": "Demon's Bane",
@@ -4860,19 +4864,19 @@
   "name": "Backup",
   "upgradable_skin": "Fiery Inferno",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero073-portrait.png/revision/latest?cb\u003d20220525164437",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alucard/Alucard%20s2/Alucard%20s2%20Backup.zip"
+  "script": "https://github.com/tin0521/skintoskin/raw/refs/heads/main/alucard_s2_backup.zip"
 },
 {
   "upgradable_skin": "Fiery Inferno",
   "name": "Lightborn - Striker",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero079-portrait.png/revision/latest?cb\u003d20220920090132",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alucard/Alucard%20s2/Alucard%20s2%20to%20Lightborn.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Alucard%20Season%20to%20LIGHTBORN.zip"
 },
 {
   "upgradable_skin": "Fiery Inferno",
   "name": "Obsidian Blade",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero077-portrait.png/revision/latest?cb\u003d20220525164442",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alucard/Alucard%20s2/Alucard%20s2%20to%20Legend.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Alucard%20Season%20to%20LEGEND.zip"
 },
 {
   "upgradable_skin": "Fiery Inferno",
@@ -4884,19 +4888,19 @@
   "upgradable_skin": "Fiery Inferno",
   "name": "Child of the Fall",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero074-portrait.png/revision/latest?cb\u003d20220525164438",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alucard/Alucard%20s2/Alucard%20s2%20to%20Luckybox.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Alucard%20Season%20to%20LUCKYBOX.zip"
 },
 {
   "name": "Backup",
   "upgradable_skin": "Viscount",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero075-portrait.png/revision/latest?cb\u003d20220525164439",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alucard/Alucard%20Starlight/Alucard%20Starlight%20Backup.zip"
+  "script": "https://github.com/Mexi23/AsStSB/raw/main/alu_star_backup.zip"
 },
 {
   "upgradable_skin": "Viscount",
   "name": "Lightborn Striker",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero079-portrait.png/revision/latest?cb\u003d20220920090132",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alucard/Alucard%20Starlight/Alucard%20Starlight%20to%20Lightborn.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Alucard%20Starlight%20to%20LIGHTBORN.zip"
 },
 {
   "upgradable_skin": "Viscount",
@@ -4908,44 +4912,52 @@
   "upgradable_skin": "Viscount",
   "name": "Obsidian Blade",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero077-portrait.png/revision/latest?cb\u003d20220525164442",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alucard/Alucard%20Starlight/Alucard%20Starlight%20to%20Legend.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Alucard%20Starlight%20to%20LEGEND.zip"
 },
 {
   "upgradable_skin": "Viscount",
   "name": "Child of Fall",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero074-portrait.png/revision/latest?cb\u003d20220525164438",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alucard/Alucard%20Starlight/Alucard%20Starlight%20to%20Luckybox.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Alucard%20Starlight%20to%20LUCKYBOX.zip"
 },
 {
+  
   "name": "Backup",
   "upgradable_skin": "Romantic Fantasy",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero076-portrait.png/revision/latest?cb\u003d20220525164441",
   "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alucard/Alucard%20Valentines/Alucard%20Valentines%20Backup.zip"
 },
+
+  
 {
   "upgradable_skin": "Romantic Fantasy",
   "name": "Obsidian Blade",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero077-portrait.png/revision/latest?cb\u003d20220525164442",
   "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alucard/Alucard%20Valentines/Alucard%20Valentines%20to%20Legend.zip"
 },
+  
 {
   "name": "Backup",
   "upgradable_skin": "Lightborn - Striker",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero079-portrait.png/revision/latest?cb\u003d20220920090132",
   "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alucard/Alucard%20Lightborn/Alucard%20Lightborn%20Backup.zip"
 },
+  
 {
   "upgradable_skin": "Lightborn - Striker",
   "name": "Obsidian Blade",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero077-portrait.png/revision/latest?cb\u003d20220525164442",
   "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alucard/Alucard%20Lightborn/Alucard%20Lightborn%20to%20Legend.zip"
 },
+  
 {
   "upgradable_skin": "Lightborn - Striker",
   "name": "Child of the Fall",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero074-portrait.png/revision/latest?cb\u003d20220525164438",
   "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alucard/Alucard%20Lightborn/Alucard%20Lightborn%20to%20Luckybox.zip"
 },
+
+  
 {
   "name": "Backup",
   "upgradable_skin": "Blazing Lancer",
@@ -5040,139 +5052,150 @@
   "name": "Backup",
   "upgradable_skin": "King of Muay Thai",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png/revision/latest?cb\u003d20220525164852",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Elite/Chou%20Elite%20Backup.zip"
+  "script": "https://github.com/Mexi23/FightStSB/raw/main/chou_elite_backup.zip"
 },
 {
   "upgradable_skin": "King of Muay Thai",
   "name": "ECHO",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest?cb\u003d20230805043953",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Elite/Chou%20Elite%20to%20Champion.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Elite%20to%20ECHO.zip"
 },
 {
   "upgradable_skin": "King of Muay Thai",
   "name": "Libra Shiryu",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero102611-portrait.png/revision/latest?cb\u003d20220915121517",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Elite/Chou%20Elite%20to%20Saint%20Seiya%20-%20Libra%20Shiryu.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Elite%20to%20LIBRA%20SHIRYU.zip"
 },
 {
   "upgradable_skin": "King of Muay Thai",
   "name": "Thunderfist",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest?cb\u003d20220525164856",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Elite/Chou%20Elite%20to%20Dawning%20Stars.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Elite%20to%20HERO.zip"
 },
 {
   "upgradable_skin": "King of Muay Thai",
   "name": "Iori Yagami",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest?cb\u003d20220525164854",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Elite/Chou%20Elite%20to%20KOF.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Elite%20to%20KOF.zip"
 },
+  
 {
   "upgradable_skin": "King of Muay Thai",
   "name": "Dragon Boy",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero263-portrait.png/revision/latest?cb\u003d20220525164851",
   "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Elite/Chou%20Elite%20to%20Epic.zip"
 },
+  
 {
   "upgradable_skin": "King of Muay Thai",
   "name": "S.T.U.N Chou",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest?cb\u003d20220525164857",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Elite/Chou%20Elite%20to%20STUN.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Elite%20to%20STUN.zip"
 },
 {
   "upgradable_skin": "King of Muay Thai",
   "name": "Dragon Shiryu",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero102610-portrait.png/revision/latest?cb\u003d20220915121509",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Elite/Chou%20Elite%20to%20Saint%20Seiya%20-%20Dragon%20Shiryu.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Elite%20to%20DRAGON%20SHIRYU.zip"
 },
 {
+  
   "upgradable_skin": "King of Muay Thai",
   "name": "Furious Tiger",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero265-portrait.png/revision/latest?cb\u003d20220525164853",
   "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Elite/Chou%20Elite%20to%20Special.zip"
 },
+
+  
 {
   "name": "Backup",
   "upgradable_skin": "Dragon Boy",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero263-portrait.png/revision/latest?cb\u003d20220525164851",
   "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Luckybox/Chou%20Luckybox%20Backup.zip"
 },
+  
 {
   "upgradable_skin": "Dragon Boy",
   "name": "Iori Yagami",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest?cb\u003d20220525164854",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Luckybox/Chou%20Luckybox%20to%20KOF.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Epic%20to%20KOF.zip"
 },
 {
   "upgradable_skin": "Dragon Boy",
   "name": "ECHO",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest?cb\u003d20230805043953",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Luckybox/Chou%20Luckybox%20to%20Champion.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Epic%20to%20ECHO.zip"
 },
 {
+  
   "upgradable_skin": "Dragon Boy",
   "name": "S.T.U.N Chou",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest?cb\u003d20220525164857",
   "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Luckybox/Chou%20Luckybox%20to%20STUN.zip"
 },
+  
 {
   "upgradable_skin": "Dragon Boy",
   "name": "Libra Shiryu",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero102611-portrait.png/revision/latest?cb\u003d20220915121517",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Luckybox/Chou%20Luckybox%20to%20Saint%20Seiya%20-%20Libra%20Shiryu.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Epic%20to%20LIBRA%20SHIRYU.zip"
 },
   {
   "name": "Backup",
   "upgradable_skin": "Hip-hop Boy",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero262-portrait.png/revision/latest?cb\u003d20220719071254",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Basic/Chou%20Basic%20Backup.zip"
+  "script": "https://github.com/Mexi23/FightStSB/raw/main/chou_basic_backup.zip"
 },
 {
   "upgradable_skin": "Hip-hop Boy",
   "name": "ECHO",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest?cb\u003d20230805043953",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Basic/Chou%20Basic%20to%20Champion.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Basic%20to%20ECHO.zip"
 },
 {
   "upgradable_skin": "Hip-hop Boy",
   "name": "Libra Shiryu",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero102611-portrait.png/revision/latest?cb\u003d20220915121517",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Basic/Chou%20Basic%20to%20Saint%20Seiya%20-%20Libra%20Shiryu.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Basic%20to%20LIBRA%20SHIRYU.zip"
 },
 {
   "upgradable_skin": "Hip-hop Boy",
   "name": "Thunderfist",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest?cb\u003d20220525164856",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Basic/Chou%20Basic%20to%20Dawning%20Stars.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Basic%20to%20HERO.zip"
 },
 {
   "upgradable_skin": "Hip-hop Boy",
   "name": "Iori Yagami",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest?cb\u003d20220525164854",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Basic/Chou%20Basic%20to%20KOF.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Basic%20to%20KOF.zip"
 },
 {
+  
   "upgradable_skin": "Hip-hop Boy",
   "name": "King of Muay Thai",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png/revision/latest/scale-to-width-down/150?cb\u003d20220525164852",
   "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Basic/Chou%20Basic%20to%20Elite.zip"
 },
+  
 {
   "upgradable_skin": "Hip-hop Boy",
   "name": "Dragon Boy",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero263-portrait.png/revision/latest?cb\u003d20220525164851",
   "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Basic/Chou%20Basic%20to%20Epic.zip"
 },
+  
 {
   "upgradable_skin": "Hip-hop Boy",
   "name": "S.T.U.N Chou",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest?cb\u003d20220525164857",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Basic/Chou%20Basic%20to%20STUN.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Basic%20to%20STUN.zip"
 },
 {
   "upgradable_skin": "Hip-hop Boy",
   "name": "Dragon Shiryu",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero102610-portrait.png/revision/latest?cb\u003d20220915121509",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Basic/Chou%20Basic%20to%20Saint%20Seiya%20-%20Dragon%20Shiryu.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Basic%20to%20LIBRA%20SHIRYU.zip"
 },
 {
   "upgradable_skin": "Hip-hop Boy",
@@ -5180,113 +5203,122 @@
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero265-portrait.png/revision/latest?cb\u003d20220525164853",
   "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Basic/Chou%20Basic%20to%20Special.zip"
 },
+  
 {
   "upgradable_skin": "Hip-hop Boy",
   "name": "Go Ballistic",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero267-portrait.png/revision/latest?cb\u003d20220525164855",
   "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Basic/Chou%20Basic%20to%20Starlight.zip"
 },
+  
 {
   "name": "Backup",
   "upgradable_skin": "Go Ballistic",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero267-portrait.png/revision/latest?cb\u003d20220525164855",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Starlight/Chou%20Starlight%20Backup.zip"
+  "script": "https://github.com/Mexi23/FightStSB/raw/main/chou_star_backup.zip"
 },
 {
   "upgradable_skin": "Go Ballistic",
   "name": "ECHO",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest?cb\u003d20230805043953",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Starlight/Chou%20Starlight%20to%20Champion.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Starlight%20to%20ECHO.zip"
 },
 {
   "upgradable_skin": "Go Ballistic",
   "name": "Libra Shiryu",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero102611-portrait.png/revision/latest?cb\u003d20220915121517",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Starlight/Chou%20Starlight%20to%20Saint%20Seiya%20-%20Libra%20Shiryu.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Starlight%20to%20LIBRA%20SHIRYU.zip"
 },
 {
   "upgradable_skin": "Go Ballistic",
   "name": "Thunderfist",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest?cb\u003d20220525164856",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Starlight/Chou%20Starlight%20to%20Dawning%20Stars.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Starlight%20to%20HERO.zip"
 },
 {
   "upgradable_skin": "Go Ballistic",
   "name": "Iori Yagami",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest?cb\u003d20220525164854",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Starlight/Chou%20Starlight%20to%20KOF.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Starlight%20to%20KOF.zip"
 },
 {
+
+  
   "upgradable_skin": "Go Ballistic",
   "name": "Dragon Boy",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero263-portrait.png/revision/latest?cb\u003d20220525164851",
   "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Starlight/Chou%20Starlight%20to%20Epic.zip"
 },
+  
 {
   "upgradable_skin": "Go Ballistic",
   "name": "S.T.U.N Chou",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest?cb\u003d20220525164857",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Starlight/Chou%20Starlight%20to%20STUN.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Starlight%20to%20STUN.zip"
 },
   {
   "name": "Backup",
   "upgradable_skin": "S.T.U.N. Chou",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest?cb\u003d20220525164857",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20S.T.U.N/Chou%20STUN%20Backup.zip"
+  "script": "https://github.com/Mexi23/FightStSB/raw/main/chou_stun_backup.zip"
 },
 {
   "upgradable_skin": "S.T.U.N. Chou",
   "name": "Iori Yagami",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest?cb\u003d20220525164854",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20S.T.U.N/Chou%20STUN%20to%20KOF.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20STUN%20to%20KOF.zip"
 },
 {
+  
   "upgradable_skin": "S.T.U.N. Chou",
   "name": "Thunderfist",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest?cb\u003d20220525164856",
   "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20S.T.U.N/Chou%20STUN%20to%20Dawning%20Stars.zip"
 },
+  
 {
   "upgradable_skin": "S.T.U.N. Chou",
   "name": "Libra Shiryu",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero102611-portrait.png/revision/latest?cb\u003d20220915121517",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20S.T.U.N/Chou%20STUN%20to%20Saint%20Seiya%20-%20Libra%20Shiryu.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20STUN%20to%20LIBRA%20SHIRYU.zip"
 },
 {
+  
   "name": "Backup",
   "upgradable_skin": "Furious Tiger",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero265-portrait.png/revision/latest?cb\u003d20220525164853",
   "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Special/Chou%20Special%20Backup.zip"
 },
+  
 {
   "upgradable_skin": "Furious Tiger",
   "name": "ECHO",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest?cb\u003d20230805043953",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Special/Chou%20Special%20to%20Champion.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Special%20to%20ECHO.zip"
 },
 {
   "upgradable_skin": "Furious Tiger",
   "name": "Iori Yagami",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest?cb\u003d20220525164854",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Special/Chou%20Special%20to%20KOF.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Special%20to%20KOF.zip"
 },
 {
   "upgradable_skin": "Furious Tiger",
   "name": "S.T.U.N Chou",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest?cb\u003d20220525164857",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Special/Chou%20Special%20to%20STUN.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Special%20to%20STUN.zip"
 },
 {
   "upgradable_skin": "Furious Tiger",
   "name": "Dragon Shiryu",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero102610-portrait.png/revision/latest?cb\u003d20220915121509",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Special/Chou%20Special%20to%20Saint%20Seiya%20-%20Dragon%20Shiryu.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Special%20to%20DRAGON%20SHIRYU.zip"
 },
 {
   "upgradable_skin": "Furious Tiger",
   "name": "Libra Shiryu",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero102611-portrait.png/revision/latest?cb\u003d20220915121517",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Special/Chou%20Special%20to%20Saint%20Seiya%20-%20Libra%20Shiryu.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Special%20to%20LIBRA%20SHIRYU.zip"
 },
 {
   "name": "Backup",
@@ -5643,16 +5675,19 @@
   "script": "https://github.com/missnapokita/fightupgrade/raw/main/jawhead%20normal%20to%20mpl.zip"
 },
 {
+
+  
   "name": "Backup",
   "upgradable_skin": "The Nutcracker",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero545-portrait.png/revision/latest?cb\u003d20220525165416",
   "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Jawhead/Jawhead%20Special/Jawhead%20Special%20Backup.zip"
 },
+  
 {
   "upgradable_skin": "The Nutcracker",
   "name": "Samurai Mech",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero546-portrait.png/revision/latest?cb\u003d20220525165417",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Jawhead/Jawhead%20Special/Jawhead%20Special%20to%20Collector.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Jawhead%20Special%20to%20COLLECTOR.zip"
 },
 {
   "name": "Backup",
@@ -5886,7 +5921,7 @@
   "upgradable_skin": "Hell Knight",
   "name": "Diavel V4 Rider",
   "image": "https://pbs.twimg.com/media/GWtLCzRXMAAW6BS?format=jpg&name=medium",
-  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/leomord%20basic%20to%20ducati.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Leomord%20Basic%20to%20DUCATI.zip"
 },
 {
   "upgradable_skin": "Hell Knight",
@@ -6120,7 +6155,7 @@
   "name": "Backup",
   "upgradable_skin": "Blue Storm",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero832-portrait.png/revision/latest?cb\u003d20220525165957",
-  "script": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20xborg.zip?raw\u003dtrue"
+  "script": "https://github.com/Mexi23/FightStSB/raw/main/xborg_backup.zip"
 },
 {
   "upgradable_skin": "Blue Storm",
@@ -6132,25 +6167,25 @@
   "upgradable_skin": "Blue Storm",
   "name": "Tesla Maniac",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero835-portrait.png/revision/latest?cb\u003d20220525170000",
-  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/xborg%20basic%20to%20epic.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Xborg%20Basic%20to%2011.zip"
 },
 {
   "name": "Backup",
   "upgradable_skin": "Moto Drifter",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero833-portrait.png/revision/latest?cb\u003d20220525165958",
-  "script": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20xborg.zip?raw\u003dtrue"
+  "script": "https://github.com/Mexi23/FightStSB/raw/main/xborg_backup.zip"
 },
 {
   "upgradable_skin": "Moto Drifter",
   "name": "Bumblebee",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero836-portrait.png/revision/latest?cb\u003d20220525170001",
-  "script": "https://github.com/injector-origin/mobile-legends-script/raw/main/assets/scripts/hero/083/08324.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Xborg%20Elite%20to%20TRANSFORMER.zipp"
 },
 {
   "upgradable_skin": "Moto Drifter",
   "name": "Tesla Maniac",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero835-portrait.png/revision/latest?cb\u003d20220525170000",
-  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/xborg%20elite%20to%20epic.zip"
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Xborg%20Elite%20to%2011.zip"
 },
 {
   "name": "Backup",
