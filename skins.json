@@ -842,7 +842,7 @@
   {
     "name": "Alice",
     "skin_name": "Jade Empress",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero047-portrait.png/revision/latest?cb=20240619180019",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241019_143946383.png",
     "script": "https://github.com/tin0521/mge/raw/main/alice_s29.zip",
     "tag": "S29"
   },
@@ -851,42 +851,42 @@
     "name": "Tigreal",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero061-portrait.png/revision/latest?cb=20240605132742",
-    "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/tigreal%20backup.zip",
+    "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/tigrel_backup.zip",
     "tag": "Backup"
   },
   {
     "name": "Tigreal",
     "skin_name": "Lightborn - Defender",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero065-portrait.png/revision/latest?cb=20220525164423",
-    "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/tigreal%20lightborn.zip",
+    "script": "https://github.com/tin0521/tnk/raw/main/tigrel_lightborn.zip",
     "tag": "Lightborn"
   },
   {
     "name": "Tigreal",
     "skin_name": "Gold Baron",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero067-portrait.png/revision/latest?cb=20220525164424",
-    "script": "https://github.com/WarlitoTools2024/Tank/raw/main/Tigreal%20Special.zip",
+    "script": "https://github.com/tin0521/tnk/raw/main/tigrel_goldbaron.zip",
     "tag": "Special"
   },
   {
     "name": "Tigreal",
     "skin_name": "Galactic Marshal",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero068-portrait.png/revision/latest?cb=20220802033731",
-    "script": "https://github.com/WarlitoTools2024/Tank/raw/main/Tigreal%20Starlight.zip",
+    "script": "https://github.com/tin0521/tnk/raw/main/tigrel_galactic.zip",
     "tag": "Starlight"
   },
   {
     "name": "Tigreal",
     "skin_name": "Pasha of Justice",
     "image": "https://pbs.twimg.com/media/GWtKq4kakAAj86q?format=jpg&name=large",
-    "script": "https://github.com/Maharlikoders/random-files/raw/main/0618.zip",
+    "script": "https://github.com/tin0521/tnk/raw/main/tigrel_pasha.zip",
     "tag": "Special"
   },
   {
     "name": "Tigreal",
     "skin_name": "Celestial General",
     "image": "https://github.com/Mexi23/NovemberUPDT/raw/refs/heads/main/tigcollector.png",
-    "script": "https://github.com/Mexi23/Oct2025/raw/refs/heads/main/tigrel_collector.zip",
+    "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/tigrel_collector.zip",
     "tag": "Collector"
   },
 
@@ -894,86 +894,114 @@
     "name": "Akai",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero091-portrait.png/revision/latest?cb=20240605133305",
-    "script": "https://github.com/Maharlikoders/some-default-skin/raw/main/AKAI/BACKUP%20AKAI.zip",
+    "script": "https://github.com/tin0521/tnk/raw/main/akai_backup.zip",
     "tag": "Backup"
   },
   {
     "name": "Akai",
     "skin_name": "Kung Fu Panda",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero098-portrait.png/revision/latest?cb=20220804115325",
-    "script": "https://github.com/missnapokita/june-2024/raw/main/akai%20kung%20fu%20panda.zip",
+    "script": "https://github.com/tin0521/tnk/raw/main/akai_kungfu.zip",
     "tag": "Kung Fu Panda"
   },
   {
     "name": "Akai",
     "skin_name": "Monk",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero093-portrait.png/revision/latest?cb=20220525164514",
-    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Akai/Akai%20Default/Akai%20Elite%20-%20Monk.zip",
+    "script": "https://github.com/tin0521/tnk/raw/main/akai_monk.zip",
     "tag": "Elite"
   },
   {
     "name": "Akai",
     "skin_name": "Pumpkin Brawler",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero099-portrait.png/revision/latest?cb=20230917045305",
-    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Akai/Akai%20Default/Akai%20Halloween.zip",
+    "script": "https://github.com/tin0521/tnk/raw/main/akai_halloween.zip",
     "tag": "Halloween"
   },
   {
     "name": "Akai",
     "skin_name": "Imperial Assassin",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero095-portrait.png/revision/latest?cb=20220525164516",
-    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Akai/Akai%20Default/Akai%20Epic.zip",
+    "script": "https://github.com/tin0521/tnk/raw/main/akai_imperial.zip",
     "tag": "Epic"
+  },
+    {
+    "name": "Akai",
+    "skin_name": "Street Enforcer",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241018_223833576.png",
+    "script": "https://github.com/tin0521/tnk/raw/main/akai_s19.zip",
+    "tag": "S19"
+  },
+     {
+    "name": "Akai",
+    "skin_name": "Marvelous Maestro",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241018_223833533.png",
+    "script": "https://github.com/tin0521/tnk/raw/main/akai_anniversary.zip",
+    "tag": "Anniversary"
   },
 
   {
     "name": "Franco",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hero101-portrait.png/revision/latest?cb=20240605133441",
-    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Franco/Franco%20Default/Franco%20Backup.zip",
+    "script": "https://github.com/tin0521/tnk/raw/main/franco_backup.zip",
     "tag": "Backup"
   },
   {
     "name": "Franco",
     "skin_name": "Blazing Axe",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero107-portrait.png/revision/latest?cb=20220525164528",
-    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Franco/Franco%20Default/Franco%20Blazing%20Bounties.zip",
+    "script": "https://github.com/tin0521/tnk/raw/main/franco_blazing.zip",
     "tag": "Blazing Bounties"
   },
   {
     "name": "Franco",
     "skin_name": "Valhalla Ruler",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero106-portrait.png/revision/latest?cb=20220525164527",
-    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Franco/Franco%20Default/Franco%20Luckbox.zip",
+    "script": "https://github.com/tin0521/tnk/raw/main/franco_valhalla.zip",
     "tag": "LuckyBox"
   },
   {
     "name": "Franco",
     "skin_name": "Wheatfield Nightmare",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero105-portrait.png/revision/latest?cb=20220525164526",
-    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Franco/Franco%20Default/Franco%20Halloween.zip",
+    "script": "https://github.com/tin0521/tnk/raw/main/franco_halloween.zip",
     "tag": "Halloween"
   },
   {
     "name": "Franco",
     "skin_name": "King of Hell",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero109-portrait.png/revision/latest?cb=20221216103123",
-    "script": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/francoKingOfHell.zip",
+    "script": "https://github.com/tin0521/tnk/raw/main/franco_legend.zip",
     "tag": "Legend"
   },
   {
     "name": "Franco",
     "skin_name": "Quantum Vanguard",
     "image": "https://pbs.twimg.com/media/GSywthSbAAArCw3?format=jpg&name=4096x4096",
-    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Franco/Franco%20Default/Franco%20MPL.zip",
+    "script": "https://github.com/tin0521/tnk/raw/main/franco_mpl.zip",
     "tag": "MPL"
   },
   {
     "name": "Franco",
     "skin_name": "Apocalypse",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero103-portrait.png/revision/latest?cb=20220525164524",
-    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Franco/Franco%20Default/Franco%20Starlight.zip",
+    "script": "https://github.com/tin0521/tnk/raw/main/franco_apocalypse.zip",
     "tag": "Starlight"
+  },
+    {
+    "name": "Franco",
+    "skin_name": "Locomotive",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241018_221652650.png",
+    "script": "https://github.com/tin0521/tnk/raw/main/franco_s9.zip",
+    "tag": "S9"
+  },
+     {
+    "name": "Franco",
+    "skin_name": "Masterchef",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241018_221652676.png",
+    "script": "https://github.com/tin0521/tnk/raw/main/franco_masterchef.zip",
+    "tag": "Special"
   },
   {
     "skin_name": "Backup",
