@@ -3497,4 +3497,1112 @@
 
 
 
+
+
+
+
+
+  {
+  "name": "Backup",
+  "upgradable_skin": "Clockwork Maid",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero052-portrait.png/revision/latest?cb=20220525164404",
+  "script": "https://github.com/missnapokita/June2024-N-O-P/raw/main/nana%20backup.zip"
+},
+{
+  "upgradable_skin": "Clockwork Maid",
+  "name": "Aqua Pura",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero058-portrait.png/revision/latest?cb=20220525164410",
+  "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/nana%20elite%20clock%20to%20collector.zip"
+},
+{
+  "upgradable_skin": "Clockwork Maid",
+  "name": "Mistbender Nana",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero100510-portrait.png/revision/latest?cb=20240114100424",
+  "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/nana%20elite%20clock%20to%20mist.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Slumber Party",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero054-portrait.png/revision/latest?cb=20220525164406",
+  "script": "https://github.com/missnapokita/June2024-N-O-P/raw/main/nana%20backup.zip"
+},
+{
+  "upgradable_skin": "Slumber Party",
+  "name": "Aqua Pura",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero058-portrait.png/revision/latest?cb=20220525164410",
+  "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/nana%20elite%20slumber%20to%20collector.zip"
+},
+{
+  "upgradable_skin": "Slumber Party",
+  "name": "Mistbender Nana",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero100510-portrait.png/revision/latest?cb=20240114100424",
+  "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/nana%20elite%20slumber%20to%20mist.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Graveyard Party",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero053-portrait.png/revision/latest?cb=20220525164405",
+  "script": "https://github.com/missnapokita/June2024-N-O-P/raw/main/nana%20backup.zip"
+},
+{
+  "upgradable_skin": "Graveyard Party",
+  "name": "Aqua Pura",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero058-portrait.png/revision/latest?cb=20220525164410",
+  "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/nana%20sesson%20to%20collector.zip"
+},
+{
+  "upgradable_skin": "Graveyard Party",
+  "name": "Mistbender Nana",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero100510-portrait.png/revision/latest?cb=20240114100424",
+  "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/nana%20sesson%20to%20mist.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Flame Red Lips",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero152-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164631",
+  "script": "https://github.com/Mexi23/MageD/raw/main/eudora_def_backup.zip"
+},
+{
+  "upgradable_skin": "Flame Red Lips",
+  "name": "Emerald Enchantress",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero154-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071934",
+  "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Eudora%20Basic%20to%20Luckybox.zip"
+},
+{
+  "upgradable_skin": "Flame Red Lips",
+  "name": "Atomic Pop Eudora",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero158-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133651",
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Eudo%20Normal%20to%20ATOMIC.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Christmas Carnival",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero153-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164632",
+  "script": "https://github.com/Mexi23/MageD/raw/main/eudora_def_backup.zip"
+},
+{
+  "upgradable_skin": "Christmas Carnival",
+  "name": "Emerald Enchantress",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero154-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071934",
+  "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Eudora%20Christmas%20to%20LUCKYBOX.zip"
+},
+{
+  "upgradable_skin": "Christmas Carnival",
+  "name": "Atomic Pop Eudora",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero158-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133651",
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Eudo%20Chrismas%20to%20ATOMIC.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Vivo Selfie Goddess",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero155-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164634",
+  "script": "https://github.com/Mexi23/MageD/raw/main/eudora_def_backup.zip"
+},
+{
+  "upgradable_skin": "Vivo Selfie Goddess",
+  "name": "Emerald Enchantress",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero154-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071934",
+  "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Eudora%20Vivo%20to%20LUCKYBOX.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Countess Scarlet",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero156-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164635",
+  "script": "https://github.com/Mexi23/MageD/raw/main/eudora_def_backup.zip"
+},
+{
+  "upgradable_skin": "Countess Scarlet",
+  "name": "Emerald Enchantress",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero154-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071934",
+  "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Eudora%20Season%20to%20Luckybox.zip"
+},
+{
+  "upgradable_skin": "Countess Scarlet",
+  "name": "Atomic Pop Eudora",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero158-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133651",
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Eudo%20Season%20to%20ATOMIC.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Cosmic Voyage",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero157-portrait.png/revision/latest/scale-to-width-down/150?cb=20220724063929",
+  "script": "https://github.com/Mexi23/MageD/raw/main/eudora_def_backup.zip"
+},
+{
+  "upgradable_skin": "Cosmic Voyage",
+  "name": "Emerald Enchantress",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero154-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071934",
+  "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Eudora%20Starlight%20to%20LUCKYBOX.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Atomic Pop Eudora",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero158-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133651",
+  "script": "https://github.com/Mexi23/MageD/raw/main/eudora_def_backup.zip"
+},
+{
+  "upgradable_skin": "Atomic Pop Eudora",
+  "name": "Emerald Enchantress",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero154-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071934",
+  "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Eudora%20Atomic%20Pop%20to%20LUCKYBOX.zip"
+},
+  {
+  "name": "Backup",
+  "upgradable_skin": "Professor of Hell",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero232-portrait.png/revision/latest?cb=20220525164816",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Gord/Gord%20Basic/Gord%20Basic%20Backup.zip"
+},
+{
+  "upgradable_skin": "Professor of Hell",
+  "name": "Cyber Hacker",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero237-portrait.png/revision/latest?cb=20240919051020",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/blob/main/Gord/Gord%20Basic/Gord%20Basic%20to%20Epic.zip"
+},
+{
+  "upgradable_skin": "Professor of Hell",
+  "name": "Conqueror",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero234-portrait.png/revision/latest?cb=20240114091737",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Gord/Gord%20Basic/Gord%20Basic%20to%20Legend.zip"
+},
+{
+  "upgradable_skin": "Professor of Hell",
+  "name": "No.1 Controller",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero235-portrait.png/revision/latest?cb=20220525164819",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Gord/Gord%20Basic/Gord%20Basic%20to%20Annual%20Starlight.zip"
+},
+{
+  "upgradable_skin": "Professor of Hell",
+  "name": "Imperator Vitalis",
+  "image": "https://pbs.twimg.com/media/GoLyXobacAAyVXJ?format=jpg&name=small",
+  "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gord%20Basic%20to%20Starlight.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "New Baron",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero236-portrait.png/revision/latest?cb=20220525164820",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Gord/Gord%20s21/Gord%20s21%20Backup.zip"
+},
+{
+  "upgradable_skin": "New Baron",
+  "name": "Cyber Hacker",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero237-portrait.png/revision/latest?cb=20240919051020",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Gord/Gord%20s21/Gord%20s21%20to%20Epic.zip"
+},
+{
+  "upgradable_skin": "New Baron",
+  "name": "Conqueror",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero234-portrait.png/revision/latest?cb=20240114091737",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Gord/Gord%20s21/Gord%20s21%20to%20Legend.zip"
+},
+{
+  "upgradable_skin": "New Baron",
+  "name": "No.1 Controller",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero235-portrait.png/revision/latest?cb=20220525164819",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Gord/Gord%20s21/Gord%20s21%20to%20Annual%20Starlight.zip"
+},
+{
+  "upgradable_skin": "New Baron",
+  "name": "Imperator Vitalis",
+  "image": "https://pbs.twimg.com/media/GoLyXobacAAyVXJ?format=jpg&name=small",
+  "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gord%20s21%20to%20Starlight.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Christmas Carnival",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero233-portrait.png/revision/latest?cb=20220525164817",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Gord/Gord%20Christmas%20Carnival/Gord%20Christmas%20Carnival%20Backup.zip"
+},
+{
+  "upgradable_skin": "Christmas Carnival",
+  "name": "Cyber Hacker",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero237-portrait.png/revision/latest?cb=20240919051020",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Gord/Gord%20Christmas%20Carnival/Gord%20Christmas%20Carnival%20to%20Epic.zip"
+},
+{
+  "upgradable_skin": "Christmas Carnival",
+  "name": "Imperator Vitalis",
+  "image": "https://pbs.twimg.com/media/GoLyXobacAAyVXJ?format=jpg&name=small",
+  "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gord%20Christmas%20to%20Starlight.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Flower Season",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero252-portrait.png/revision/latest?cb=20220525164840",
+  "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/kagura%20backup.zip"
+},
+{
+  "upgradable_skin": "Flower Season",
+  "name": "Water Lily",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero257-portrait.png/revision/latest?cb=20220525164845",
+  "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/kagura%20normal%20to%20annual.zip"
+},
+{
+  "upgradable_skin": "Flower Season",
+  "name": "Exorcist Kagura",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero258-portrait.png/revision/latest?cb=20220915121143",
+  "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/kagura%20normal%20to%20exorcist.zip"
+},
+{
+  "upgradable_skin": "Flower Season",
+  "name": "Jade Blossom",
+  "image": "https://pbs.twimg.com/media/GWtLac9W8AADmMv?format=jpg&name=large",
+  "script": "https://github.com/Maharlikoders/random-files/raw/main/2529.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Cherry Witch",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero253-portrait.png/revision/latest?cb=20220525164841",
+  "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/kagura%20backup.zip"
+},
+{
+  "upgradable_skin": "Cherry Witch",
+  "name": "Water Lily",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero257-portrait.png/revision/latest?cb=20220525164845",
+  "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/kagura%20special%20to%20annual.zip"
+},
+{
+  "upgradable_skin": "Cherry Witch",
+  "name": "Beyond the Clouds Kagura",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero259-portrait.png/revision/latest?cb=20230805043819",
+  "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/kagura%20special%20to%20cloud.zip"
+},
+{
+  "upgradable_skin": "Cherry Witch",
+  "name": "Exorcist Kagura",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero258-portrait.png/revision/latest?cb=20220915121143",
+  "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/kagura%20special%20to%20exorcist.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Rainy Walk",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero256-portrait.png/revision/latest?cb=20220525164844",
+  "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/kagura%20backup.zip"
+},
+{
+  "upgradable_skin": "Rainy Walk",
+  "name": "Beyond the Clouds Kagura",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero259-portrait.png/revision/latest?cb=20230805043819",
+  "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/kagura%20star%20to%20cloud.zip"
+},
+{
+  "upgradable_skin": "Rainy Walk",
+  "name": "Exorcist Kagura",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero258-portrait.png/revision/latest?cb=20220915121143",
+  "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/kagura%20star%20to%20exorcist.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Summer Festival",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero254-portrait.png/revision/latest?cb=20220628175959",
+  "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/kagura%20backup.zip"
+},
+{
+  "upgradable_skin": "Summer Festival",
+  "name": "Water Lily",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero257-portrait.png/revision/latest?cb=20220525164845",
+  "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/kagura%20summer%20to%20annual.zip"
+},
+{
+  "upgradable_skin": "Summer Festival",
+  "name": "Beyond the Clouds Kagura",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero259-portrait.png/revision/latest?cb=20230805043819",
+  "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/kagura%20summer%20to%20cloud.zip"
+},
+{
+  "upgradable_skin": "Summer Festival",
+  "name": "Exorcist Kagura",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero258-portrait.png/revision/latest?cb=20220915121143",
+  "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/kagura%20summer%20to%20exorcist.zip"
+},
+  {
+  "name": "Backup",
+  "upgradable_skin": "Exorcist",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero332-portrait.png/revision/latest?cb=20220525165023",
+  "script": "https://github.com/missnapokita/June-2024-C/raw/main/cyclops%20backup.zip"
+},
+{
+  "upgradable_skin": "Exorcist",
+  "name": "Yokai Warlock",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero339-portrait.png/revision/latest?cb=20230317102253",
+  "script": "https://github.com/missnapokita/august_skin2024/raw/main/cyclops%20normal%20to%20collector.zip"
+},
+{
+  "upgradable_skin": "Exorcist",
+  "name": "Master Yoda",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero337-portrait.png/revision/latest?cb=20220525165031",
+  "script": "https://github.com/missnapokita/august_skin2024/raw/main/cyclops%20normal%20to%20starwars.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Super Adventurer",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero333-portrait.png/revision/latest?cb=20220525165024",
+  "script": "https://github.com/missnapokita/June-2024-C/raw/main/cyclops%20backup.zip"
+},
+{
+  "upgradable_skin": "Super Adventurer",
+  "name": "Master Yoda",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero337-portrait.png/revision/latest?cb=20220525165031",
+  "script": "https://github.com/missnapokita/august_skin2024/raw/main/cyclops%20elite%20to%20starwars.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Zombie Bambino",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero336-portrait.png/revision/latest?cb=20220525165030",
+  "script": "https://github.com/missnapokita/June-2024-C/raw/main/cyclops%20backup.zip"
+},
+{
+  "upgradable_skin": "Zombie Bambino",
+  "name": "Master Yoda",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero337-portrait.png/revision/latest?cb=20220525165031",
+  "script": "https://github.com/missnapokita/august_skin2024/raw/main/cyclops%20season%20to%20starwars.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Nature's Throne",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Hero362-portrait.png/revision/latest?cb=20240212111012",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Aurora/Aurora%20Basic/Aurora%20Basic%20Backup.zip"
+},
+{
+  "upgradable_skin": "Nature's Throne",
+  "name": "Kula Diamond",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero366-portrait.png/revision/latest?cb=20240212112500",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Aurora/Aurora%20Basic/Aurora%20Basic%20to%20KOF.zip"
+},
+{
+  "upgradable_skin": "Nature's Throne",
+  "name": "Aquarius",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero365-portrait.png/revision/latest?cb=20240212110806",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Aurora/Aurora%20Basic/Aurora%20Basic%20to%20Zodiac.zip"
+},
+{
+  "upgradable_skin": "Nature's Throne",
+  "name": "Veil of the Celestials",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero367-portrait.png/revision/latest?cb=20240922103724",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Aurora/Aurora%20Basic/Aurora%20Basic%20to%20Collector.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Heartbreak Empress",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero363-portrait.png/revision/latest?cb=20240212112411",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Aurora/Aurora%20Starlight/Aurora%20Starlight%20Backup.zip"
+},
+{
+  "upgradable_skin": "Heartbreak Empress",
+  "name": "Aquarius",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero365-portrait.png/revision/latest?cb=20240212110806",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Aurora/Aurora%20Starlight/Aurora%20Starlight%20to%20Zodiac.zip"
+},
+{
+  "upgradable_skin": "Heartbreak Empress",
+  "name": "Kula Diamond",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero366-portrait.png/revision/latest?cb=20240212112500",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Aurora/Aurora%20Starlight/Aurora%20Starlight%20to%20KOF.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Foxy Lady",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero364-portrait.png/revision/latest?cb=20220525165103",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Aurora/Aurora%20Lunar%20Fest/Aurora%20Lunar%20Fest%20Backup.zip"
+},
+{
+  "upgradable_skin": "Foxy Lady",
+  "name": "Kula Diamond",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero366-portrait.png/revision/latest?cb=20240212112500",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Aurora/Aurora%20Lunar%20Fest/Aurora%20Lunar%20Fest%20to%20KOF.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Lucent Beacon",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero382-portrait.png/revision/latest?cb=20220714134500",
+  "script": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20vexana.zip?raw=true"
+},
+{
+  "upgradable_skin": "Lucent Beacon",
+  "name": "The Sun Empress",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero386-portrait.png/revision/latest?cb=20230917045309",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/vexana%20basic%20to%20collector.zip"
+},
+{
+  "upgradable_skin": "Lucent Beacon",
+  "name": "Circus Magician",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero385-portrait.png/revision/latest?cb=20221103134615",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/vexana%20basic%20to%20star.zip"
+},
+{
+  "upgradable_skin": "Lucent Beacon",
+  "name": "Twisted Fairytale",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero387-portrait.png/revision/latest?cb=20240326141745",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/vexana%20basic%20to%20zenith.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Cursed Shackle",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero384-portrait.png/revision/latest?cb=20220604034152",
+  "script": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20vexana.zip?raw=true"
+},
+{
+  "upgradable_skin": "Cursed Shackle",
+  "name": "Twisted Fairytale",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero387-portrait.png/revision/latest?cb=20240326141745",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/vexana%20season%20to%20zenith.zip"
+},
+{
+  "upgradable_skin": "Cursed Shackle",
+  "name": "The Sun Empress",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero386-portrait.png/revision/latest?cb=20230917045309",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/vexana%20season%20to%20collector.zip"
+},
+  {
+  "name": "Backup",
+  "upgradable_skin": "Wings of Heaven",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero522-portrait.png/revision/latest?cb=20220525165341",
+  "script": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20pharsa.zip?raw=true"
+},
+{
+  "upgradable_skin": "Wings of Heaven",
+  "name": "Empress Phoenix",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest?cb=20220525165345",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/pharsa%20basic%20to%20collector.zip"
+},
+{
+  "upgradable_skin": "Wings of Heaven",
+  "name": "Neon Shingetsu",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero105210-portrait.png/revision/latest?cb=20230917045337",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/pharsa%20basic%20to%20epic.zip"
+},
+{
+  "upgradable_skin": "Wings of Heaven",
+  "name": "Hierophant",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero529-portrait.png/revision/latest?cb=20220525165348",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/pharsa%20basic%20to%20msc.zip"
+},
+{
+  "upgradable_skin": "Wings of Heaven",
+  "name": "Peony Bloom",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest?cb=20220525165347",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/pharsa%20basic%20to%20star.zip"
+},
+{
+  "upgradable_skin": "Wings of Heaven",
+  "name": "Neobeast Pharsa",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero105211-portrait.png/revision/latest?cb=20250320125030",
+  "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/PHARSA%20BASIC%20TO%20NEOBEAST.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Peafowl's Dance",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero523-portrait.png/revision/latest?cb=20220525165342",
+  "script": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20pharsa.zip?raw=true"
+},
+{
+  "upgradable_skin": "Peafowl's Dance",
+  "name": "Empress Phoenix",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest?cb=20220525165345",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/pharsa%20elite%20to%20collector.zip"
+},
+{
+  "upgradable_skin": "Peafowl's Dance",
+  "name": "Hierophant",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero529-portrait.png/revision/latest?cb=20220525165348",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/pharsa%20elite%20to%20msc.zip"
+},
+{
+  "upgradable_skin": "Peafowl's Dance",
+  "name": "Peony Bloom",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest?cb=20220525165347",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/pharsa%20elite%20to%20star.zip"
+},
+{
+  "upgradable_skin": "Peafowl's Dance",
+  "name": "Neobeast Pharsa",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero105211-portrait.png/revision/latest?cb=20250320125030",
+  "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/PHARSA%20ELITE%20TO%20NEOBEAST.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Indigo Aviatrix",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero524-portrait.png/revision/latest?cb=20220525165343",
+  "script": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20pharsa.zip?raw=true"
+},
+{
+  "upgradable_skin": "Indigo Aviatrix",
+  "name": "Empress Phoenix",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest?cb=20220525165345",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/pharsa%20indigo%20to%20collector.zip"
+},
+{
+  "upgradable_skin": "Indigo Aviatrix",
+  "name": "Peony Bloom",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest?cb=20220525165347",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/pharsa%20indigo%20to%20star.zip"
+},
+{
+  "upgradable_skin": "Indigo Aviatrix",
+  "name": "Neobeast Pharsa",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero105211-portrait.png/revision/latest?cb=20250320125030",
+  "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/PHARSA%20INDIGO%20TO%20NEOBEAST.zip"
+},
+  {
+  "name": "Backup",
+  "upgradable_skin": "Enchanting Witch",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hero525-portrait.png/revision/latest?cb=20220525165344",
+  "script": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20pharsa.zip?raw=true"
+},
+{
+  "upgradable_skin": "Enchanting Witch",
+  "name": "Empress Phoenix",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest?cb=20220525165345",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/pharsa%20season%20to%20collector.zip"
+},
+{
+  "upgradable_skin": "Enchanting Witch",
+  "name": "Hierophant",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero529-portrait.png/revision/latest?cb=20220525165348",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/pharsa%20season%20to%20msc.zip"
+},
+{
+  "upgradable_skin": "Enchanting Witch",
+  "name": "Peony Bloom",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest?cb=20220525165347",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/pharsa%20season%20to%20star.zip"
+},
+{
+  "upgradable_skin": "Enchanting Witch",
+  "name": "Neobeast Pharsa",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero105211-portrait.png/revision/latest?cb=20250320125030",
+  "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/PHARSA%20SEASON%20TO%20NEOBEAST.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Peony Bloom",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest?cb=20220525165347",
+  "script": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20pharsa.zip?raw=true"
+},
+{
+  "upgradable_skin": "Peony Bloom",
+  "name": "Empress Phoenix",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest?cb=20220525165345",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/pharsa%20star%20to%20collector.zip"
+},
+{
+  "upgradable_skin": "Peony Bloom",
+  "name": "Hierophant",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero529-portrait.png/revision/latest?cb=20220525165348",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/pharsa%20star%20to%20msc.zip"
+},
+{
+  "upgradable_skin": "Peony Bloom",
+  "name": "Neobeast Pharsa",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero105211-portrait.png/revision/latest?cb=20250320125030",
+  "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/PHARSA%20STARLIGHT%20TO%20NEOBEAST.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Samba Muse",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero527-portrait.png/revision/latest?cb=20220525165346",
+  "script": "https://github.com/Mexi23/MageD/raw/main/pharsa_def_backup.zip"
+},
+{
+  "upgradable_skin": "Samba Muse",
+  "name": "Neobeast Pharsa",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero105211-portrait.png/revision/latest?cb=20250320125030",
+  "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/PHARSA%20SPECIAL%20TO%20NEOBEAST.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Neon Shingetsu",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero105210-portrait.png/revision/latest?cb=20230917045337",
+  "script": "https://github.com/Mexi23/MageD/raw/main/pharsa_def_backup.zip"
+},
+{
+  "upgradable_skin": "Neon Shingetsu",
+  "name": "Neobeast Pharsa",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero105211-portrait.png/revision/latest?cb=20250320125030",
+  "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/PHARSA%20EPIC%20TO%20NEOBEAST.zip"
+},
+  {
+  "name": "Backup",
+  "upgradable_skin": "Pale Flame",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero572-portrait.png/revision/latest?cb=20220525165457",
+  "script": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20valir.zip?raw=true"
+},
+{
+  "upgradable_skin": "Pale Flame",
+  "name": "Demonlord",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest?cb=20220525165501",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/valir%20basic%20to%20collector.zip"
+},
+{
+  "upgradable_skin": "Pale Flame",
+  "name": "Infernal Blaze",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest?cb=20220525165502",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/valir%20basic%20to%20legends.zip"
+},
+{
+  "upgradable_skin": "Pale Flame",
+  "name": "Leo Ikki",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero579-portrait.png/revision/latest?cb=20220915121957",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/valir%20basic%20to%20saint%20seiya2.zip"
+},
+{
+  "upgradable_skin": "Pale Flame",
+  "name": "Kyo Kusanagi",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero105710-portrait.png/revision/latest?cb=20240430022853",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/valir%20basic%20to%20kof.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Dictator",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero574-portrait.png/revision/latest?cb=20220525165459",
+  "script": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20valir.zip?raw=true"
+},
+{
+  "upgradable_skin": "Dictator",
+  "name": "Demonlord",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest?cb=20220525165501",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/valir%20star%20to%20collector.zip"
+},
+{
+  "upgradable_skin": "Dictator",
+  "name": "Leo Ikki",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero579-portrait.png/revision/latest?cb=20220915121957",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/valir%20star%20to%20saint%20seiya2.zip"
+},
+{
+  "upgradable_skin": "Dictator",
+  "name": "Kyo Kusanagi",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero105711-portrait.png/revision/latest?cb=20250106155738",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/valir%20star%20to%20kof.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Cerulean Winds",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Vale_%28Cerulean_Winds%29.jpg/revision/latest?cb=20211010164949",
+  "script": "https://github.com/Mexi23/MageD/raw/main/vale_def_backup.zip"
+},
+{
+  "upgradable_skin": "Cerulean Winds",
+  "name": "Gaara",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero669-portrait.png/revision/latest?cb=20250411101445",
+  "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Vale%20Gara%20Basic.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Blizzard Storm",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest?cb=20220525165647",
+  "script": "https://github.com/Mexi23/MageD/raw/main/vale_def_backup.zip"
+},
+{
+  "upgradable_skin": "Blizzard Storm",
+  "name": "Gaara",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero669-portrait.png/revision/latest?cb=20250411101445",
+  "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Vale%20Dawning%20to%20Gara.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Kannagi",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero664-portrait.png/revision/latest?cb=20220525165648",
+  "script": "https://github.com/Mexi23/MageD/raw/main/vale_def_backup.zip"
+},
+{
+  "upgradable_skin": "Kannagi",
+  "name": "Gaara",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero669-portrait.png/revision/latest?cb=20250411101445",
+  "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Vale%20Elite%20to%20Gara.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Soaring Devata",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero665-portrait.png/revision/latest?cb=20220525165649",
+  "script": "https://github.com/Mexi23/MageD/raw/main/vale_def_backup.zip"
+},
+{
+  "upgradable_skin": "Soaring Devata",
+  "name": "Gaara",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero669-portrait.png/revision/latest?cb=20250411101445",
+  "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Vale%20Starlight%20to%20Gara.zip"
+},
+  {
+  "name": "Backup",
+  "upgradable_skin": "Bloody Mary",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero682-portrait.png/revision/latest?cb=20220525165713",
+  "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lunox%20backup.zip"
+},
+{
+  "upgradable_skin": "Bloody Mary",
+  "name": "Divine Goddess",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero689-portrait.png/revision/latest?cb=20230623125739",
+  "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/lunox%20normal%20to%20legend.zip"
+},
+{
+  "upgradable_skin": "Bloody Mary",
+  "name": "Libra",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero685-portrait.png/revision/latest?cb=20230917050312",
+  "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/lunox%20normal%20to%20zodiac.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Cosmic Harmony",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero683-portrait.png/revision/latest?cb=20220525165714",
+  "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lunox%20backup.zip"
+},
+{
+  "upgradable_skin": "Cosmic Harmony",
+  "name": "Divine Goddess",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero689-portrait.png/revision/latest?cb=20230623125739",
+  "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/lunox%20elite%20to%20legend.zip"
+},
+{
+  "upgradable_skin": "Cosmic Harmony",
+  "name": "Libra",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero685-portrait.png/revision/latest?cb=20230917050312",
+  "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/lunox%20elite%20to%20zodiac.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Ash Blossom",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero684-portrait.png/revision/latest?cb=20220525165715",
+  "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lunox%20backup.zip"
+},
+{
+  "upgradable_skin": "Ash Blossom",
+  "name": "Divine Goddess",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero689-portrait.png/revision/latest?cb=20230623125739",
+  "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/lunox%20star%20to%20legend.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Fashion Expert",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero734-portrait.png/revision/latest?cb=20220525165756",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Harith/Harith%20515/Harith%20515%20Backup.zip"
+},
+{
+  "upgradable_skin": "Fashion Expert",
+  "name": "Psychic",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero737-portrait.png/revision/latest?cb=20240604141807",
+  "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/harith%20515%20to%20collector.zip"
+},
+{
+  "upgradable_skin": "Fashion Expert",
+  "name": "EVOS Legends",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero736-portrait.png/revision/latest?cb=20220525165758",
+  "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/harith%20515%20to%20evos.zip"
+},
+{
+  "upgradable_skin": "Fashion Expert",
+  "name": "Killua",
+  "image": "https://i.imgur.com/J9fpoZr.png",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Harith/Harith%20515/Harith%20515%20to%20Hunter%20x%20Hunter.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Savannah Cat",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero732-portrait.png/revision/latest?cb=20220525165754",
+  "script": "https://github.com/WarlitoTools2024/Mage/raw/main/Harith%20Backup.zip"
+},
+{
+  "upgradable_skin": "Savannah Cat",
+  "name": "Psychic",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero737-portrait.png/revision/latest?cb=20240604141807",
+  "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/harith%20normal%20to%20collector.zip"
+},
+{
+  "upgradable_skin": "Savannah Cat",
+  "name": "EVOS Legends",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero736-portrait.png/revision/latest?cb=20220525165758",
+  "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/harith%20normal%20to%20evos.zip"
+},
+{
+  "upgradable_skin": "Savannah Cat",
+  "name": "Killua",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero739-portrait.png/revision/latest?cb=20241207073217",
+  "script": "https://github.com/missnapokita/MLBB-X-HXH-SKIN/raw/refs/heads/main/harith%20normal%20to%20killua.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Stardust",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero733-portrait.png/revision/latest?cb=20220525165755",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Harith/Harith%20Elite/Harith%20Elite%20Backup.zip"
+},
+{
+  "upgradable_skin": "Stardust",
+  "name": "Psychic",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero737-portrait.png/revision/latest?cb=20240604141807",
+  "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/harith%20elite%20to%20collector.zip"
+},
+{
+  "upgradable_skin": "Stardust",
+  "name": "EVOS Legends",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero736-portrait.png/revision/latest?cb=20220525165758",
+  "script": "https://github.com/missnapokita/July-2024-Mage-Up/raw/main/harith%20elite%20to%20evos.zip"
+},
+{
+  "upgradable_skin": "Stardust",
+  "name": "Killua",
+  "image": "https://i.imgur.com/J9fpoZr.png",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Harith/Harith%20Elite/Harith%20Elite%20to%20Hunter%20x%20Hunter.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Lightborn - Inspirer",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero735-portrait.png/revision/latest?cb=20220525165757",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Harith/Harith%20Lighborn/Harith%20Lighborn.json"
+},
+{
+  "upgradable_skin": "Lightborn - Inspirer",
+  "name": "Killua",
+  "image": "https://i.imgur.com/J9fpoZr.png",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Harith/Harith%20Lighborn/Harith%20Lightborn%20to%20Hunter%20x%20Hunter.zip"
+},
+  {
+  "name": "Backup",
+  "upgradable_skin": "School Idol",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b2/Hero862-portrait.png/revision/latest?cb=20220525170048",
+  "script": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20lilya.zip?raw\u003dtrue"
+},
+{
+  "upgradable_skin": "School Idol",
+  "name": "Haunted Doll",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero865-portrait.png/revision/latest?cb\u003d20220525170051",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/lylia%20basic%20to%20halloween.zip"
+},
+{
+  "upgradable_skin": "School Idol",
+  "name": "Neobeast Lylia",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero866-portrait.png/revision/latest?cb\u003d20230805043912",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/lylia%20basic%20to%20neobeast.zip"
+},
+{
+  "upgradable_skin": "School Idol",
+  "name": "Magitech Arsenal",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero867-portrait.png/revision/latest?cb\u003d20240401090131",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/lylia%20basic%20to%20star.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Star Student",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero863-portrait.png/revision/latest?cb\u003d20220525170049",
+  "script": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20lilya.zip?raw\u003dtrue"
+},
+{
+  "upgradable_skin": "Star Student",
+  "name": "Neobeast Lylia",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero866-portrait.png/revision/latest?cb\u003d20230805043912",
+  "script": "https://github.com/injector-origin/random-files/raw/main/8613.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Wisteria Count",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero912-portrait.png/revision/latest?cb\u003d20220525170158",
+  "script": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/CECILLION%20BACKUP.zip"
+},
+{
+  "upgradable_skin": "Wisteria Count",
+  "name": "Hisoka",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero917-portrait.png/revision/latest?cb\u003d20241207073219",
+  "script": "https://github.com/missnapokita/MLBB-X-HXH-SKIN/raw/refs/heads/main/ce%20normal%20to%20hisoka.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Yin-yang Mage",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Hero962-portrait.png/revision/latest/scale-to-width-down/150?cb\u003d20220525170244",
+  "script": "https://github.com/Mexi23/MageD/raw/main/luo_def_backup.zip"
+},
+{
+  "upgradable_skin": "Yin-yang Mage",
+  "name": "Starborne Matron",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero968-portrait.png/revision/latest/scale-to-width-down/150?cb\u003d20250619142204",
+  "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Luoyi%20Basic%20to%20Create.zip"
+},
+{
+  "upgradable_skin": "Yin-yang Mage",
+  "name": "Oracle of Sol",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero967-portrait.png/revision/latest/scale-to-width-down/150?cb\u003d20230514163426",
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Luoyi%20Basic%20to%20EPIC.zip"
+},
+{
+  "upgradable_skin": "Yin-yang Mage",
+  "name": "Elysium Guardian",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero966-portrait.png/revision/latest/scale-to-width-down/150?cb\u003d20220628180005",
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Luoyi%20Basic%20to%20COLL.zip"
+},
+{
+  "upgradable_skin": "Yin-yang Mage",
+  "name": "Dawning Fortune",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero964-portrait.png/revision/latest/scale-to-width-down/150?cb\u003d20221111133616",
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Luoyi%20Basic%20to%20LUNARFEST.zip"
+},
+  {
+  "name": "Backup",
+  "upgradable_skin": "Tenko",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero963-portrait.png/revision/latest/scale-to-width-down/150?cb\u003d20220525170246",
+  "script": "https://github.com/Mexi23/MageD/raw/main/luo_def_backup.zip"
+},
+{
+  "upgradable_skin": "Tenko",
+  "name": "Starborne Matron",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero968-portrait.png/revision/latest/scale-to-width-down/150?cb\u003d20250619142204",
+  "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Luoyi%20Elite%20to%20Create.zip"
+},
+{
+  "upgradable_skin": "Tenko",
+  "name": "Oracle of Sol",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero967-portrait.png/revision/latest/scale-to-width-down/150?cb\u003d20230514163426",
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Luoyi%20Elite%20to%20EPIC.zip"
+},
+{
+  "upgradable_skin": "Tenko",
+  "name": "Elysium Guardian",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero966-portrait.png/revision/latest/scale-to-width-down/150?cb\u003d20220628180005",
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Luoyi%20Elite%20to%20COLL.zip"
+},
+{
+  "upgradable_skin": "Tenko",
+  "name": "Dawning Fortune",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero964-portrait.png/revision/latest/scale-to-width-down/150?cb\u003d20221111133616",
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Luoyi%20Elite%20to%20LUNARFEST.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Dawning Future",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero964-portrait.png/revision/latest/scale-to-width-down/150?cb\u003d20221111133616",
+  "script": "https://github.com/Mexi23/MageD/raw/main/luo_def_backup.zip"
+},
+{
+  "upgradable_skin": "Dawning Future",
+  "name": "Elysium Guardian",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero966-portrait.png/revision/latest/scale-to-width-down/150?cb\u003d20220628180005",
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Luoyi%20Lunarfest%20to%20COLL.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Siren Priestess",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero965-portrait.png/revision/latest/scale-to-width-down/150?cb\u003d20220525170248",
+  "script": "https://github.com/Mexi23/MageD/raw/main/luo_def_backup.zip"
+},
+{
+  "upgradable_skin": "Siren Priestess",
+  "name": "Starborne Matron",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero968-portrait.png/revision/latest/scale-to-width-down/150?cb\u003d20250619142204",
+  "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20Luoyi%20Starlight%20to%20Create.zip"
+},
+{
+  "upgradable_skin": "Siren Priestess",
+  "name": "Oracle of Sol",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero967-portrait.png/revision/latest/scale-to-width-down/150?cb\u003d20230514163426",
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Luoyi%20Starlight%20to%20EPIC.zip"
+},
+{
+  "upgradable_skin": "Siren Priestess",
+  "name": "Elysium Guardian",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero966-portrait.png/revision/latest/scale-to-width-down/150?cb\u003d20220628180005",
+  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Luoyi%20Starlight%20to%20COLL.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Oracle of Sol",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero967-portrait.png/revision/latest/scale-to-width-down/150?cb\u003d20230514163426",
+  "script": "https://github.com/Mexi23/MageD/raw/main/luo_def_backup.zip"
+},
+{
+  "upgradable_skin": "Oracle of Sol",
+  "name": "Starborne Matron",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero968-portrait.png/revision/latest/scale-to-width-down/150?cb\u003d20250619142204",
+  "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J9%20LuoYi%20Epic%20to%20Create.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Twilight Charmer",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero1102-portrait.png/revision/latest?cb\u003d20220525170523",
+  "script": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20valentina.zip?raw\u003dtrue"
+},
+{
+  "upgradable_skin": "Twilight Charmer",
+  "name": "Celestial Judicator",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1105-portrait.png/revision/latest?cb\u003d20240114153957",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/valentina%20basic%20to%20collector.zip"
+},
+{
+  "upgradable_skin": "Twilight Charmer",
+  "name": "Dark Nexus",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero1106-portrait.png/revision/latest?cb\u003d20240619180532",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/valentina%20basic%20to%20msc.zip"
+},
+{
+  "upgradable_skin": "Twilight Charmer",
+  "name": "Cyber Agent",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero1104-portrait.png/revision/latest?cb\u003d20230212035444",
+  "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/valentina%20basic%20to%20star.zip"
+},
+  {
+  "name": "Backup",
+  "upgradable_skin": "Verdict of Light",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Hero1152-portrait.png/revision/latest?cb\u003d20220525170636",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Xavier/Xavier%20Basic/Xavier%20Basic%20Backup.zip"
+},
+{
+  "upgradable_skin": "Verdict of Light",
+  "name": "Beyond the Clouds Xavier",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1155-portrait.png/revision/latest?cb\u003d20230805043928",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Xavier/Xavier%20Basic/Xavier%20Basic%20to%20Beyond%20the%20Clouds.zip"
+},
+{
+  "upgradable_skin": "Verdict of Light",
+  "name": "Satoru Gojo",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero1153-portrait.png/revision/latest?cb\u003d20230212035449",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Xavier/Xavier%20Basic/Xavier%20Basic%20to%20Jujutsu%20Kaisen.zip"
+},
+{
+  "upgradable_skin": "Verdict of Light",
+  "name": "Hardlight Artificer",
+  "image": "https://github.com/Maharlikoders/random-files/raw/main/11514.jpg",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Xavier/Xavier%20Basic/Xavier%20Basic%20to%20Starlight%20-%20Hardlight%20Artificer.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Hardlight Artificer",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero1154-portrait.png/revision/latest?cb\u003d20241024133422",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Xavier/Xavier%20Starlight/Xavier%20Starlight%20Backup.zip"
+},
+{
+  "upgradable_skin": "Hardlight Artificer",
+  "name": "Beyond the Clouds Xavier",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1155-portrait.png/revision/latest?cb\u003d20230805043928",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Xavier/Xavier%20Starlight/Xavier%20Starlight%20to%20Beyond%20the%20Clouds.zip"
+},
+{
+  "upgradable_skin": "Hardlight Artificer",
+  "name": "Satoru Gojo",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero1153-portrait.png/revision/latest?cb\u003d20230212035449",
+  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Xavier/Xavier%20Starlight/Xavier%20Starlight%20to%20Jujutsu%20Kaisen.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Sugar Glaze",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Novaria_%28Sugar_Glaze%29.jpg/revision/latest?cb\u003d20240128145026",
+  "script": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/NOVARIA%20BACKUP.zip"
+},
+{
+  "upgradable_skin": "Sugar Glaze",
+  "name": "Dragonsworn",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero1194-portrait.png/revision/latest?cb\u003d20240923124141",
+  "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F13%20NOVARIA%20STARLIGHT%20TO%20COLLECTOR.zip"
+},
+{
+  "name": "Backup",
+  "upgradable_skin": "Dark Star",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero1192-portrait.png/revision/latest?cb\u003d20240129072018",
+  "script": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/NOVARIA%20BACKUP.zip"
+},
+{
+  "upgradable_skin": "Dark Star",
+  "name": "Dragonsworn",
+  "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero1194-portrait.png/revision/latest?cb\u003d20240923124141",
+  "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F13%20NOVARIA%20BASIC%20TO%20COLLECTOR.zip"
+}
+
+
+
+
+
 ]
