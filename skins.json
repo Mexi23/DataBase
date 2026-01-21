@@ -7,9 +7,9 @@
           },
           {
             "name": "Saber",
-            "skin_name": "Onimaru(Old)",
+            "skin_name": "Onimaru",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero037-portrait.png/revision/latest?cb=20220525164336",
-            "script": "https://github.com/Maharlikoders/some-default-skin/raw/main/SABER/Saber%20Onimaru%20Revamp%20To%20Default%20Skin.zip"
+            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/saber_onimaruluckybox.zip"
           },
           {"name": "Saber",
             "skin_name": "Codename - Storm",
