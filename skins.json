@@ -7,9 +7,9 @@
           },
           {
             "name": "Saber",
-            "skin_name": "Silver Edge",
+            "skin_name": "Force Warrior",
             "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241012_215208293.png",
-            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/saber_silveredge.zip"
+            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/saber_forcewarrior.zip"
           },
           {"name": "Saber",
             "skin_name": "Codename - Storm",
@@ -39,43 +39,37 @@
             "skin_name":"Backup",
         "name": "Karina",
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero081-portrait.png/revision/latest?cb=20240605133151",
-        "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Karina/Karina%20Default/Karina%20Backup.zip",
+        "script": "https://github.com/tin0521/assn/raw/refs/heads/main/karina_backup.zip",
         "tag": "Backup"
       },
           {"name": "Karina",
             "skin_name": "Doom Duelist",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero086-portrait.png/revision/latest?cb=20220525164459",
-            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Karina/Karina%20Default/Karina%20Luckybox.zip",
+            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/karina_doomduelist.zip",
             "tag": "LuckyBox"
           },
           {"name": "Karina",
             "skin_name": "Leona",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest?cb=20220525164500",
-            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Karina/Karina%20Default/Karina%20KOF.zip",
+            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/karina_leona.zip",
             "tag": "King of Fighters"
           },
           {"name": "Karina",
             "skin_name": "Christmas Carnival",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero083-portrait.png/revision/latest?cb=20220525164456",
-            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Karina/Karina%20Default/Karina%20Christmas%20Carnival.zip",
+            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/karina_christmas.zip",
             "tag": "Christmas"
           },
           {"name": "Karina",
             "skin_name": "Gemini - Halo",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero088-portrait.png/revision/latest?cb=20230514163400",
-            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Karina/Karina%20Default/Karina%20Zodiac.zip",
+            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/karina_gemini.zip",
             "tag": "Zodiac"
-          },
-          {"name": "Karina",
-            "skin_name": "Sakura",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkbmrF_5hfdLTazoq13XBtk8zkQZ3ipqktWkatpn9APeIIC9qZOK0UBqM&s=10",
-            "script": "https://github.com/missnapokita/Fix/raw/main/karina%20x%20sakura.zip",
-            "tag": "Anime/Naruto Shippuden"
           },
           {"name": "Karina",
             "skin_name": "Spider Lily",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero085-portrait.png/revision/latest?cb=20220525164458",
-            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Karina/Karina%20Default/Karina%20Elite%20-%20Spider%20Lily.zip",
+            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/karina_spiderlily.zip",
             "tag": "Elite"
           },
           {
