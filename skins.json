@@ -4930,210 +4930,203 @@
     "name": "Leomord",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero671-portrait.png/revision/latest?cb=20220628173702",
-    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Leomord/Leomord%20Default/Leomord%20Backup.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/leomord_backup.zip",
     "tag": "Backup"
   },
   {
     "name": "Leomord",
     "skin_name": "Shadow Knight",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero677-portrait.png/revision/latest?cb=20221216103141",
-    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Leomord/Leomord%20Default/Leomord%20Abbys.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/leomord_abyss.zip",
     "tag": "Abyss"
   },
   {
     "name": "Leomord",
     "skin_name": "Inferno Soul",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero675-portrait.png/revision/latest?cb=20230514163416",
-    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Leomord/Leomord%20Default/Leomord%20Luckybox.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/leomord_infernosoul.zip",
     "tag": "LuckyBox"
   },
   {
     "name": "Leomord",
     "skin_name": "Jack-o'-lantern",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero676-portrait.png/revision/latest?cb=20220525165738",
-    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Leomord/Leomord%20Default/Leomord%20Halloween.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/leomord_halloween.zip",
     "tag": "Halloween"
   },
   {
     "name": "Leomord",
     "skin_name": "Triumph - Eagle",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero674-portrait.png/revision/latest?cb=20220525165657",
-    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Leomord/Leomord%20Default/Leomord%20MSC.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/leomord_triumph.zip",
     "tag": "MSC 2019"
   },
   {
     "name": "Leomord",
     "skin_name": "Frostborn Paladin",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero673-portrait.png/revision/latest?cb=20220525165656",
-    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Leomord/Leomord%20Default/Leomord%20Starlight.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/leomord_frostborn.zip",
     "tag": "Starlight"
   },
   {
     "name": "Leomord",
     "skin_name": "Diavel V4 Rider",
     "image": "https://pbs.twimg.com/media/GWtLCzRXMAAW6BS?format=jpg&name=large",
-    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Leomord/Leomord%20Default/Leomord%20Ducati.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/leomord_ducati.zip",
     "tag": "Ducati"
   },
   {
     "name": "Leomord",
     "skin_name": "Nightmare Count",
     "image": "https://pbs.twimg.com/media/Glbn7ODbwAAufGl?format=jpg&name=large",
-    "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F10%20LEOMORD%20NEW%20EPIC.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/leomord_nightmarecount.zip",
     "tag": "Epic"
   },
   {
     "name": "Thamuz",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png/revision/latest?cb=20220525165744",
-    "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/thamuz%20backup.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/thamuz_backup.zip",
     "tag": "Backup"
   },
   {
     "name": "Thamuz",
     "skin_name": "Fenei Kai",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero725-portrait.png/revision/latest?cb=20220804115335",
-    "script": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/thamuzGeneralKai.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/thamuz_kungfu.zip",
     "tag": "Kung Fu Panda"
   },
   {
     "name": "Thamuz",
     "skin_name": "Sanctified Flame",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero726-portrait.png/revision/latest?cb=20230514163423",
-    "script": "https://github.com/gforceinjector/10-November/raw/main/Thamuz%20Starlight%20Fix.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/thamuz_sanctified.zip",
     "tag": "Starlight"
   },
   {
     "name": "Thamuz",
     "skin_name": "The Annihilator",
     "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/thamuz.png",
-    "script": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/4thamuzAnnihilator.zip",
+    "script": "https://github.com/tin0521/Sept/raw/refs/heads/main/thamuz_11.zip",
     "tag": "11.11"
+  },
+    {
+    "name": "Thamuz",
+    "skin_name": "Abyssal Reaper",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241016_220606218.png",
+    "script": "https://github.com/tin0521/ff/raw/main/thamuz_abyssal.zip",
+    "tag": "Special"
   },
   {
     "name": "Minsitthar",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero741-portrait.png/revision/latest?cb=20230317100559",
-    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/minsi%20backup.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/minsithar_backup.zip",
     "tag": "Backup"
   },
   {
     "name": "Minsitthar",
     "skin_name": "Sol Invictus",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero745-portrait.png/revision/latest?cb=20240131092447",
-    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/minsi%20collector.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/minsithar_collector.zip",
     "tag": "Collector"
   },
   {
     "name": "Minsitthar",
     "skin_name": "Crimson Lion",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero744-portrait.png/revision/latest?cb=20230623125755",
-    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/minsi%20starlight.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/minsithar_crimson.zip",
     "tag": "Starlight"
   },
   {
     "name": "Minsitthar",
     "skin_name": "Golden Marshall",
     "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/minsithat.png",
-    "script": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/4minsiGala.zip",
+    "script": "https://github.com/tin0521/Sept/raw/refs/heads/main/minsi_golden.zip",
     "tag": "Elite"
   },
   {
     "name": "Badang",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest?cb=20220525165815",
-    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Badang/Badang%20Default/Badang%20Backup.zip",
+    "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/badang_backup.zip",
     "tag": "Backup"
   },
   {
     "name": "Badang",
     "skin_name": "Susanoo",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero773-portrait.png/revision/latest?cb=20220525165819",
-    "script": "https://github.com/zenosml/badang/raw/main/Badang_special.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/badang_susanoo.zip",
     "tag": "Special"
   },
   {
     "name": "Badang",
     "skin_name": "Fist of Zen",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest?cb=20220525165821",
-    "script": "https://github.com/missnapokita/august_skin2024/raw/main/badang%20collector.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/badang_collector.zip",
     "tag": "Collector"
   },
   {
     "name": "Badang",
     "skin_name": "Leo",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero774-portrait.png/revision/latest?cb=20230623125824",
-    "script": "https://github.com/missnapokita/august_skin2024/raw/main/badang%20zodiac.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/badang_leo.zip",
     "tag": "Zodiac"
   },
   {
     "name": "Badang",
     "skin_name": "Pegasus Seiya",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero777-portrait.png/revision/latest?cb=20220915122044",
-    "script": "https://github.com/Manok02/kimmy/raw/main/badang_silver.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/badang_pegasus.zip",
     "tag": "Saint Seiya"
   },
   {
     "name": "Badang",
     "skin_name": "Sagittarius Seiya",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero778-portrait.png/revision/latest?cb=20220915122047",
-    "script": "https://github.com/Maharlikoders/New-Default-Skin/raw/main/badang%20sagittarius.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/badang_sagittarious.zip",
     "tag": "Saint Seiya"
-  },
-  {
-    "name": "Badang",
-    "skin_name": "Akaza",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTslUP6r7S9VMVo2kYvVpOZ61dlZn0xxwl3jhx5nu857VsMwf1pD4DNQcqL&s=10",
-    "script": "https://github.com/missnapokita/anime-July-2024/raw/main/badang%20x%20akaza.zip",
-    "tag": "Anime/Demon Slayer"
-  },
-  {
-    "name": "Badang",
-    "skin_name": "Uchiha Madara",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDw7OTHD711NgpBKs8JRnoah9J23avbVq96w&usqp=CAU",
-    "script": "https://github.com/missnapokita/anime-July-2024/raw/main/badang%20x%20madara.zip",
-    "tag": "Anime/Naruto Shippuden"
   },
   {
     "name": "Badang",
     "skin_name": "Steel Arm",
     "image": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/badang%20Portrait.png",
-    "script": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/badangSteelArm.zip",
-    "tag": "Starlight"
+    "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/badang_special.zip",
+    "tag": "Special"
   },
   {
     "name": "Guinevere",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero801-portrait.png/revision/latest?cb=20240121140113",
-    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/guin%20backup.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/guinevere_backup.zip",
     "tag": "Backup"
   },
   {
     "name": "Guinevere",
     "skin_name": "Elegant Butterfly",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero108010-portrait.png/revision/latest?cb=20240114135706",
-    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/guin%20elite.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/guinevere_divinebutterfly.zip",
     "tag": "Elite"
   },
   {
     "name": "Guinevere",
     "skin_name": "Lady Crane",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero806-portrait.png/revision/latest?cb=20220525165916",
-    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/guin%20epic.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/guinevere_ladycrane.zip",
     "tag": "Epic"
   },
   {
     "name": "Guinevere",
     "skin_name": "Athena Asamiya",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero803-portrait.png/revision/latest?cb=20220525165906",
-    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Guinevere/Guinevere%20Default/Guinevere%20KOF.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/guinevere_kof.zip",
     "tag": "King of Fighters"
   },
   {
     "name": "Guinevere",
     "skin_name": "Psion of Tomorrow",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero809-portrait.png/revision/latest?cb=20220525165927",
-    "script": "https://github.com/Maharlikoders/New-Default-Skin/raw/main/guinevere%20legend.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/guinevere_legend.zip",
     "tag": "Legend"
   },
   {
@@ -5154,14 +5147,14 @@
     "name": "Guinevere",
     "skin_name": "Lotus",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero804-portrait.png/revision/latest?cb=20220525165909",
-    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/guin%20starlight.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/guinevere_lotus.zip",
     "tag": "Starlight"
   },
   {
     "name": "Guinevere",
     "skin_name": "Summer Breeze",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero808-portrait.png/revision/latest?cb=20220525165923",
-    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/guin%20summer.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/guinevere_summer.zip",
     "tag": "Summer"
   },
   {
@@ -5175,105 +5168,126 @@
     "name": "Guinevere",
     "skin_name": "Twilight Star",
     "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/guinevere.png",
-    "script": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/4guinTwilight.zip",
+    "script": "https://github.com/tin0521/Sept/raw/refs/heads/main/guine_twilightstar.zip",
     "tag": "Aspirants"
   },
   {
     "name": "Terizla",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero821-portrait.png/revision/latest?cb=20220525165940",
-    "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/terizla%20backup.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/terizla_backup.zip",
     "tag": "Backup"
   },
   {
     "name": "Terizla",
     "skin_name": "Flames of Judgement",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero826-portrait.png/revision/latest?cb=20240417022448",
-    "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/terizla%20epic.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/terizla_flames.zip",
     "tag": "Epic"
   },
   {
     "name": "Terizla",
     "skin_name": "Soulblight Tyrant",
     "image": "https://i.pinimg.com/736x/1d/6a/64/1d6a641e276bc8141ecb2c335f39f598.jpg",
-    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Terizla/Terizla%20Default/Terizla%20Collector.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/terizla_collector.zip",
     "tag": "Collector"
+  },
+     {
+    "name": "Terizla",
+    "skin_name": "Hammer Giant",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241017_152044055.png",
+    "script": "https://github.com/tin0521/ff/raw/main/terizla_hammer.zip",
+    "tag": "Special"
   },
   {
     "name": "X.Borg",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero831-portrait.png/revision/latest?cb=20230826055048",
-    "script": "https://github.com/injector-origin/mobile-legends-script/raw/main/assets/scripts/hero/083/083.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/xborg_backup.zip",
     "tag": "Backup"
   },
   {
     "name": "X.Borg",
     "skin_name": "Tesla Maniac",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero835-portrait.png/revision/latest?cb=20220525170000",
-    "script": "https://github.com/missnapokita/June2024-W-X-Y/raw/main/xborg%2011.11.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/xborg_11.11.zip",
     "tag": "11.11"
   },
   {
     "name": "X.Borg",
     "skin_name": "Bumblebee",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero836-portrait.png/revision/latest?cb=20220525170001",
-    "script": "https://github.com/injector-origin/random-files/raw/main/4831.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/xborg_transformer.zip",
     "tag": "Transformers"
   },
   {
     "name": "X.Borg",
     "skin_name": "Graffiti Fashion",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero834-portrait.png/revision/latest?cb=20220525165959",
-    "script": "https://github.com/Maharlikoders/New-Default-Skin/raw/main/xborg%20star.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/xborg_graffiti.zip",
     "tag": "Starlight"
   },
   {
     "name": "X.Borg",
     "skin_name": "Invoker's Flame",
     "image": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/xborg%20port.png",
-    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/xborg_metrozero.zip",
-    "tag": "Invoker"
+    "script": "https://github.com/tin0521/ff/raw/main/xborg_metrozero.zip",
+    "tag": "Metrozero"
+  },
+     {
+    "name": "X.Borg",
+    "skin_name": "Pecados Rioter",
+    "image": "https://github.com/gg0521/March/raw/refs/heads/main/img_20250325_065936643.png",
+    "script": "https://github.com/tin0521/ff/raw/main/xborg_mcgg.zip",
+    "tag": "MCGG"
+  },
+   {
+    "name": "X.Borg",
+    "skin_name": "Graffiti Fashion",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241017_154235172.png",
+    "script": "https://github.com/tin0521/ff/raw/main/xborg_graffiti.zip",
+    "tag": "Starlight"
   },
   {
     "name": "Dyrroth",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest?cb=20240111124052",
-    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Dyrroth/Dyrroth%20Default/Dyrroth%20Backup.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/dyroth_backup.zip",
     "tag": "Backup"
   },
   {
     "name": "Dyrroth",
     "skin_name": "Naraka Flame",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero857-portrait.png/revision/latest?cb=20230615180223",
-    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Dyrroth/Dyrroth%20Default/Dyrroth%20Collector.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/dyroth_narakaflame.zip",
     "tag": "Collector"
   },
   {
     "name": "Dyrroth",
     "skin_name": "Orochi Chris",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero853-portrait.png/revision/latest?cb=20220525170033",
-    "script": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/dyrothKOF.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/dyroth_kof.zip",
     "tag": "King of Fighters"
   },
   {
     "name": "Dyrroth",
     "skin_name": "Ruins Scavenger",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero854-portrait.png/revision/latest?cb=20220525170034",
-    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Dyrroth/Dyrroth%20Default/Dyrroth%20Starlight.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/dyroth_ruinsscavenger.zip",
     "tag": "Starlight"
   },
   {
     "name": "Dyrroth",
     "skin_name": "V.E.N.O.M. Cobra",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero856-portrait.png/revision/latest?cb=20220525170036",
-    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Dyrroth/Dyrroth%20Default/Dyrroth%20VENOM.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/dyroth_venom.zip",
     "tag": "V.E.N.O.M"
   },
   {
     "name": "Dyrroth",
     "skin_name": "Gon",
     "image": "https://i.imgur.com/aSyt8Uk.png",
-    "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J21%20DYROTH%20HXH%20FIX.zip",
+    "script": "https://github.com/tin0521/ff/raw/main/dyroth_gon.zip",
     "tag": "HxH"
   },
   {
