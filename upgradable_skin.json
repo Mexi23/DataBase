@@ -233,7 +233,7 @@
   },
   {
     "hero": "Lancelot",
-    "upgradable_skin": "Christmas Carnival",
+    "upgradable_skin": "Christmas Carnival - Lancelot",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero473-portrait.png/revision/latest?cb=20220525165246",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Lancelot/Lancelot%20Christmas/Lancelot%20Christmas%20Backup.zip"
   },
@@ -759,7 +759,7 @@
   },
   {
     "hero": "Miya",
-    "upgradable_skin": "Christmas Carnival",
+    "upgradable_skin": "Christmas Carnival - Miya",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hero013-portrait.png/revision/latest?cb=20220525164212",
     "script": "https://"
   },
@@ -989,7 +989,7 @@
   },
   {
     "hero": "Claude",
-    "upgradable_skin": "Lifeguard",
+    "upgradable_skin": "Lifeguard - claude",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero655-portrait.png/revision/latest?cb=20220525165638",
     "script": "https://github.com/missnapokita/June-2024-C/raw/main/claude%20backup.zip"
   },
@@ -1153,7 +1153,7 @@
   },
   {
     "hero": "Eudora",
-    "upgradable_skin": "Christmas Carnival",
+    "upgradable_skin": "Christmas Carnival - eudora",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero153-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164632",
     "script": "https://github.com/Mexi23/MageD/raw/main/eudora_def_backup.zip"
   },
@@ -1195,7 +1195,7 @@
   },
   {
     "hero": "Gord",
-    "upgradable_skin": "Christmas Carnival",
+    "upgradable_skin": "Christmas Carnival - gord",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero233-portrait.png/revision/latest?cb=20220525164817",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Gord/Gord%20Christmas%20Carnival/Gord%20Christmas%20Carnival%20Backup.zip"
   },
@@ -1563,7 +1563,7 @@
   },
   {
     "hero": "Zilong",
-    "upgradable_skin": "Christmas Carnival",
+    "upgradable_skin": "Christmas Carnival - Zilong",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Hero167-portrait.png/revision/latest?cb=20220525164650",
     "script": "https://github.com/JhoweeMylab/Fighter-Backup/raw/main/Zilong%20Backup.zip"
   },
