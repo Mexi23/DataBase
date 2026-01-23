@@ -91,31 +91,31 @@
   },
   {
     "tag": "Recall",
-    "image": "https://github.com/injector-origin/mobile-legends-api/raw/main/assets/preparation/Recall/MLBB%20X%20Star%20Wars.png",
+    "image": "https://github.com/injector-origin/mobile-legends-api/raw/main/assets/preparation/recall/MLBB%20X%20Star%20Wars.png",
     "name": "MLBB x Star Wars",
     "script": "https://github.com/WarlitoTools2024/Recall/raw/main/Starwars.zip"
   },
   {
     "tag": "Recall",
-    "image": "https://github.com/injector-origin/mobile-legends-api/raw/main/assets/preparation/Recall/Omega%20Esports.jpg",
+    "image": "https://github.com/injector-origin/mobile-legends-api/raw/main/assets/preparation/recall/Omega%20Esports.jpg",
     "name": "Omega Esports",
     "script": "https://github.com/Maharlikoders/Preparation/raw/main/Recalls/Replacement%20to%20Classic%20Recall/Classic%20Recall%20to%20OMG%20Recall%20Effect.zip"
   },
   {
     "tag": "Recall",
-    "image": "https://github.com/injector-origin/mobile-legends-api/raw/main/assets/preparation/Recall/Geek%20Fam%20ID.jpg",
+    "image": "https://github.com/injector-origin/mobile-legends-api/raw/main/assets/preparation/recall/Geek%20Fam%20ID.jpg",
     "name": "Geek Fam ID",
     "script": "https://github.com/Maharlikoders/Preparation/raw/main/Recalls/Replacement%20to%20Classic%20Recall/Classic%20Recall%20to%20GEEK%20Recall%20Effect.zip"
   },
   {
     "tag": "Recall",
-    "image": "https://github.com/injector-origin/mobile-legends-api/raw/main/assets/preparation/Recall/Fnatic%20ONIC%20PH.jpg",
+    "image": "https://github.com/injector-origin/mobile-legends-api/raw/main/assets/preparation/recall/Fnatic%20ONIC%20PH.jpg",
     "name": "Fnatic ONIC PH",
     "script": "https://github.com/Maharlikoders/Preparation/raw/main/Recalls/Replacement%20to%20Classic%20Recall/Classic%20Recall%20to%20FNOP%20Recall%20Effect.zip"
   },
   {
     "tag": "Recall",
-    "image": "https://github.com/injector-origin/mobile-legends-api/raw/main/assets/preparation/Recall/Falcons%20AP.Bren.jpg",
+    "image": "https://github.com/injector-origin/mobile-legends-api/raw/main/assets/preparation/recall/Falcons%20AP.Bren.jpg",
     "name": "Falcons AP.Bren",
     "script": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20FCAP.zip"
   },
@@ -151,13 +151,13 @@
   },
   {
     "tag": "Recall",
-    "image": "https://github.com/injector-origin/mobile-legends-api/raw/main/assets/preparation/Recall/The%20Return%20of%20The%20Exorcists.png",
+    "image": "https://github.com/injector-origin/mobile-legends-api/raw/main/assets/preparation/recall/The%20Return%20of%20The%20Exorcists.png",
     "name": "Return of The Exorcists",
     "script": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20The%20Return%20of%20EXORCIST.zip"
   },
   {
     "tag": "Recall",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Snowman_recall_Effect.png/revision/latest?cb=20211204084915",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Snowman_Recall_Effect.png/revision/latest?cb=20211204084915",
     "name": "Snowman",
     "script": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/RECALL%20Snowman.zip"
   },
