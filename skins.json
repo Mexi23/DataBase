@@ -2133,7 +2133,7 @@
   },
  {
     "name": "Layla",
-    "skin_name": "Energy Gunner",
+    "skin_name":"Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero181-portrait.png/revision/latest?cb=20240104090805",
     "script": "https://github.com/tin0521/mm/raw/main/layla_backup.zip",
     "tag": "Backup"
@@ -2203,7 +2203,7 @@
   },
   {
     "name": "Moskov",
-    "skin_name": "Spear of Quiescence",
+    "skin_name":"Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero311-portrait.png/revision/latest?cb=20231110122307",
     "script": "https://github.com/tin0521/neww/raw/main/moscov_backup.zip",
     "tag": "Backup"
@@ -2280,7 +2280,7 @@
   },
   {
     "name": "Karrie",
-    "skin_name": "Lost Star",
+    "skin_name":"Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero401-portrait.png/revision/latest?cb=20240121135955",
     "script": "https://github.com/tin0521/mm/raw/main/karrie_backup.zip",
     "tag": "Backup"
@@ -2343,7 +2343,7 @@
   },
   {
     "name": "Irithel",
-    "skin_name": "Jungle Heart",
+    "skin_name":"Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero431-portrait.png/revision/latest?cb=20220525165209",
     "script": "https://github.com/tin0521/mm/raw/main/irithel_backup.zip",
     "tag": "Backup"
@@ -2392,7 +2392,7 @@
   },
   {
     "name": "Lesley",
-    "skin_name": "Deadly Sniper",
+    "skin_name":"Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero531-portrait.png/revision/latest?cb=20240623134201",
     "script": "https://github.com/tin0521/mm/raw/refs/heads/main/lesley_backup.zip",
     "tag": "Backup"
@@ -2469,7 +2469,7 @@
   },
   {
     "name": "Hanabi",
-    "skin_name": "Scarlet Flower",
+    "skin_name":"Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero601-portrait.png/revision/latest?cb=20221217032835",
     "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/hanabi_backup.zip",
     "tag": "Backup"
@@ -2525,7 +2525,7 @@
   },
   {
     "name": "Claude",
-    "skin_name": "Master Thief",
+    "skin_name":"Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero651-portrait.png/revision/latest?cb=20240501064446",
     "script": "https://github.com/tin0521/mm/raw/main/claude_backup.zip",
     "tag": "Backup"
@@ -2602,7 +2602,7 @@
   },
   {
     "name": "Kimmy",
-    "skin_name": "Jetpack Rebel",
+    "skin_name":"Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero711-portrait.png/revision/latest?cb=20240501071451",
     "script": "https://github.com/tin0521/mm/raw/main/kimmy_backup.zip",
     "tag": "Backup"
@@ -2652,7 +2652,7 @@
     
   {
     "name": "Granger",
-    "skin_name": "Death Chanter",
+    "skin_name":"Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero791-portrait.png/revision/latest?cb=20220525165830",
     "script": "https://github.com/tin0521/mm/raw/main/granger_backup.zip",
     "tag": "Backup"
@@ -2722,7 +2722,7 @@
   },
   {
     "name": "Wanwan",
-    "skin_name": "Agile Tiger",
+    "skin_name":"Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero891-portrait.png/revision/latest?cb=20220525171214",
     "script": "https://github.com/tin0521/mm/raw/main/wanwan_backup.zip",
     "tag": "Backup"
@@ -2778,7 +2778,7 @@
   },
   {
     "name": "Popol and Kupa",
-    "skin_name": "Iceland Companions",
+    "skin_name":"Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero941-portrait.png/revision/latest?cb=20240430165645",
     "script": "https://github.com/tin0521/mm/raw/main/popol_backup.zip",
     "tag": "Backup"
@@ -2813,7 +2813,7 @@
   },
   {
     "name": "Brody",
-    "skin_name": "The Lone Star",
+    "skin_name":"Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero1001-portrait.png/revision/latest?cb=20220525172049",
     "script": "https://github.com/tin0521/mm/raw/main/brody_backup.zip",
     "tag": "Backup"
@@ -2862,7 +2862,7 @@
   },
   {
     "name": "Beatrix",
-    "skin_name": "Dawnbreak Soldier",
+    "skin_name":"Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero1051-portrait.png/revision/latest?cb=20240501053744",
     "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/beatrix_backup.zip",
     "tag": "Backup"
@@ -2911,7 +2911,7 @@
   },
   {
     "name": "Natan",
-    "skin_name": "Spacetime Walker",
+    "skin_name":"Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1071-portrait.png/revision/latest?cb=20220525171604",
     "script": "https://github.com/tin0521/mm/raw/main/natan_backup.zip",
     "tag": "Backup"
@@ -2953,7 +2953,7 @@
   },
   {
     "name": "Melissa",
-    "skin_name": "Cursed Needle",
+    "skin_name":"Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero1141-portrait.png/revision/latest?cb=20220525170741",
     "script": "https://github.com/tin0521/mm/raw/main/melissa_backup.zip",
     "tag": "Backup"
@@ -2988,7 +2988,7 @@
   },
   {
     "name": "Ixia",
-    "skin_name": "Arclight Outlaw",
+    "skin_name":"Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero1211-portrait.png/revision/latest?cb=20231010041751",
     "script": "https://github.com/tin0521/mm/raw/main/ixia_backup.zip",
     "tag": "Backup"
