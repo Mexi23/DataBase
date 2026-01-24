@@ -80,7 +80,7 @@
         "tag": "Backup"
                   },
      {
-       "hero_name": "Fanny",
+       "name": "Fanny",
        "skin_name": "Galactic Starhawk",
        "image": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
        "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/fanny_def_legend.zip",
@@ -344,7 +344,7 @@
         "tag": "Backup"
          },
       {
-    "hero_name": "Lancelot",
+    "name": "Lancelot",
     "skin_name": "Blade of Devotion",
     "image": "https://github.com/tin0521/January_2026/blob/main/lancelot%20valentine.jpg?raw=true",
     "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/lancelot_def_valentine.zip",
@@ -645,7 +645,7 @@
         "tag": "Backup"
          },
       {
-    "hero_name": "Benedetta",
+    "name": "Benedetta",
     "skin_name": "Vessel of Pride",
     "image": "https://github.com/tin0521/January_2026/blob/main/benedetta%20soul.jpg?raw=true",
     "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/Benedetta_def_soulVessel.zip",
@@ -686,12 +686,6 @@
             "image": "https://pbs.twimg.com/media/Glbn0L0a4AAYqoP?format=jpg",
             "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_covenant.zip",
             "tag": "Covenant"
-          },
-     { "name": "Benedetta",
-            "skin_name": "Soul Vessel",
-            "image": "https://github.com/tin0521/dec2025/raw/refs/heads/main/benedetta_vessels.png",
-            "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/benedetta_soulvessel.zip",
-            "tag": "Soul Vessels"
           },
  {
    "skin_name":"Backup",
@@ -1926,7 +1920,7 @@
     "tag": "Backup"
   },
      {
-    "hero_name": "Floryn",
+    "name": "Floryn",
     "skin_name": "Arrow of Spring",
     "image": "https://github.com/tin0521/January_2026/blob/main/floryn%20ethernal.jpg?raw=true",
     "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/floryn_def_eternal.zip",
@@ -2003,7 +1997,7 @@
     "tag": "Backup"
   },
     {
-    "hero_name": "Miya",
+    "name": "Miya",
     "skin_name": "Eternal Season - Miya",
     "image": "https://github.com/tin0521/January_2026/blob/main/miya%20ethernal.jpg?raw=true",
     "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/miya_def_eternal.zip",
@@ -3391,7 +3385,7 @@
     "tag": "Backup"
   },
   {
-    "hero_name": "Odette",
+    "name": "Odette",
     "skin_name": "Song of Devotion",
     "image": "https://github.com/tin0521/January_2026/blob/main/odette%20valentines.jpg?raw=true",
     "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/odette_def_valen.zip",
@@ -3930,7 +3924,7 @@
     "tag": "Backup"
   },
   {
-    "hero_name": "Cecilion",
+    "name": "Cecilion",
     "skin_name": "Vessel of Gluttony",
     "image": "https://github.com/tin0521/January_2026/blob/main/cecilion%20soul.jpg?raw=true",
     "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/Ceciliom_Def_SoulVessel.zip",
