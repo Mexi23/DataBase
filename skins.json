@@ -76,7 +76,7 @@
             "skin_name":"Backup",
         "name": "Fanny",
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20240605151224",
-        "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_backup.zip",
+        "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fanny_backup.zip",
         "tag": "Backup"
                   },
           {"name": "Fanny",
@@ -94,7 +94,7 @@
           {"name": "Fanny",
             "skin_name": "Mikasa",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest?cb=20240127074733",
-            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_mikasa.zip",
+            "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fanny_mikasa.zip",
             "tag": "Attack on Titan"
           },
           {"name": "Fanny",
@@ -627,7 +627,7 @@
    "skin_name":"Backup",
         "name": "Benedetta",
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero971-portrait.png/revision/latest?cb=20240611063830",
-        "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_backup.zip",
+        "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/benedetta_backup.zip",
         "tag": "Backup"
          },
           { "name": "Benedetta",
@@ -665,6 +665,12 @@
             "image": "https://pbs.twimg.com/media/Glbn0L0a4AAYqoP?format=jpg",
             "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_covenant.zip",
             "tag": "Covenant"
+          },
+     { "name": "Benedetta",
+            "skin_name": "Soul Vessel",
+            "image": "https://github.com/tin0521/dec2025/raw/refs/heads/main/benedetta_vessels.png",
+            "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/benedetta_soulvessel.zip",
+            "tag": "Soul Vessels"
           },
  {
    "skin_name":"Backup",
@@ -1477,7 +1483,7 @@
     "skin_name": "Backup",
     "name": "Gloo",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1041-portrait.png/revision/latest?cb=20240602231141",
-    "script": "https://github.com/tin0521/tnk/raw/main/gloo_backup.zip",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/gloo_backup.zip",
     "tag": "Backup"
   },
   {
@@ -1486,6 +1492,13 @@
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero1043-portrait.png/revision/latest?cb=20220526053627",
     "script": "https://github.com/tin0521/tnk/raw/main/gloo_jellyman.zip",
     "tag": "Special"
+  },
+  {
+    "skin_name": "Patrick",
+    "name": "Gloo",
+    "image": "https://github.com/tin0521/dec2025/raw/main/gloo_sponge.png",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/gloo_spongebob.zip",
+    "tag": "Spongebob"
   },
 
   {
@@ -2065,7 +2078,7 @@
     "name": "Clint",
    "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero131-portrait.png/revision/latest?cb=20240605133854",
-    "script": "https://github.com/tin0521/mm/raw/main/clint_backup.zip",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/clint_backup.zip",
     "tag": "Backup"
   },
   {
@@ -2131,60 +2144,67 @@
     "script": "https://github.com/tin0521/mm/raw/main/clint_myth2024.zip",
     "tag": "Mythic"
   },
+     {
+    "name": "Clint",
+    "skin_name": "Soul Vessel",
+    "image": "https://github.com/tin0521/dec2025/raw/main/clint_vessels.png",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/clint_soulvessel.zip",
+    "tag": "Soul Vessels"
+  },
  {
     "name": "Layla",
     "skin_name":"Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero181-portrait.png/revision/latest?cb=20240104090805",
-    "script": "https://github.com/tin0521/mm/raw/main/layla_backup.zip",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/layla_backup.zip",
     "tag": "Backup"
   },
   {
     "name": "Layla",
     "skin_name": "Miss Hikari",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero189-portrait.png/revision/latest?cb=20220525164729",
-    "script": "https://github.com/tin0521/mm/raw/main/layla_aspirant.zip",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/layla_aspirant.zip",
     "tag": "Aspirants"
   },
   {
     "name": "Layla",
     "skin_name": "Paranormal Operative",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero101811-portrait.png/revision/latest?cb=20240619172008",
-    "script": "https://github.com/tin0521/mm/raw/main/layla_collector.zip",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/layla_collector.zip",
     "tag": "Collector"
   },
   {
     "name": "Layla",
     "skin_name": "Twilight Waltz",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero101810-portrait.png/revision/latest?cb=20230917045334",
-    "script": "https://github.com/tin0521/mm/raw/main/layla_twilight.zip",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/layla_twilightstarlight.zip",
     "tag": "Starlight"
   },
   {
     "name": "Layla",
     "skin_name": "Blue Spectre",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero185-portrait.png/revision/latest?cb=20220525164722",
-    "script": "https://github.com/tin0521/mm/raw/main/layla_bluespectre.zip",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/layla_bluespectre.zip",
     "tag": "Globe LAN Tournament"
   },
   {
     "name": "Layla",
     "skin_name": "Blazing Gun",
     "image": "https://i.imgur.com/X91VWEW.jpeg",
-    "script": "https://github.com/tin0521/mm/raw/main/layla_blazing.zip",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/layla_blazing.zip",
     "tag": "Blazing Bounties"
   },
   {
     "name": "Layla",
     "skin_name": "The Beacon",
     "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/layla.png",
-    "script": "https://github.com/tin0521/Sept/raw/refs/heads/main/layla_11.zip",
-    "tag": "11.11"
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/layla_legend.zip",
+    "tag": "Legend"
   },
     {
     "name": "Layla",
     "skin_name": "S.A.B.E.R Breacher",
     "image": "https://github.com/tin0521/mmimg/raw/refs/heads/main/img_20241023_183220445.png",
-    "script": "https://github.com/tin0521/mm/raw/main/layla_saber.zip",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/layla_saber.zip",
     "tag": "S.A.B.E.R"
   },
      {
@@ -2198,7 +2218,7 @@
     "name": "Layla",
     "skin_name": "Cannon and Roses",
     "image": "https://github.com/tin0521/mmimg/raw/refs/heads/main/img_20241023_183220478.png",
-    "script": "https://github.com/tin0521/mm/raw/main/layla_valentines.zip",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/layla_valentines.zip",
     "tag": "Valentine"
   },
   {
@@ -3213,7 +3233,7 @@
     "name": "Cyclops",
     "skin_name": "Starsoul Magician",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero331-portrait.png/revision/latest?cb=20240122082946",
-    "script": "https://github.com/tin0521/mge/raw/main/cyclops_backup.zip",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/cyclops_backup.zip",
     "tag": "Backup"
   },
   {
@@ -3250,6 +3270,13 @@
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero335-portrait.png/revision/latest?cb=20220525165029",
     "script": "https://github.com/tin0521/mge/raw/main/cyclops_deepsea.zip",
     "tag": "Starlight"
+  },
+     {
+    "name": "Cyclops",
+    "skin_name": "Spongebob",
+    "image": "https://github.com/tin0521/dec2025/raw/main/cyclops_sponge.png",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/cyclops_spongebob.zip",
+    "tag": "Spongebob"
   },
   {
     "name": "Kagura",
@@ -3857,7 +3884,7 @@
     "name": "Cecilion",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero911-portrait.png/revision/latest?cb=20220525171232",
-    "script": "https://github.com/tin0521/mge/raw/main/cecilion_backup.zip",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/cecillion_backup.zip",
     "tag": "Backup"
   },
   {
@@ -3894,6 +3921,13 @@
     "image": "https://i.imgur.com/K2zTrYN.png",
     "script": "https://github.com/tin0521/mge/raw/main/cecilion_hisoka.zip",
     "tag": "HxH"
+  },
+     {
+    "name": "Cecilion",
+    "skin_name": "Soul Vessel",
+    "image": "https://github.com/tin0521/dec2025/raw/main/cecillion_vessels.png",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/cecillion_soulvessel.zip",
+    "tag": "Soul Vessels"
   },
   {
     "name": "Luo Yi",
@@ -4832,14 +4866,14 @@
     "name": "Martis",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero581-portrait.png/revision/latest?cb=20220525165503",
-    "script": "https://github.com/tin0521/ff/raw/main/martis_backup.zip",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/martis_backup.zip",
     "tag": "Backup"
   },
   {
     "name": "Martis",
     "skin_name": "Levi",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero587-portrait.png/revision/latest?cb=20240129101655",
-    "script": "https://github.com/tin0521/ff/raw/main/martis_levi.zip",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/martis_levi.zip",
     "tag": "Attack on Titan"
   },
   {
@@ -5294,7 +5328,7 @@
     "name": "Dyrroth",
     "skin_name": "Gon",
     "image": "https://i.imgur.com/aSyt8Uk.png",
-    "script": "https://github.com/tin0521/ff/raw/main/dyroth_gon.zip",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/dyroth_gon.zip",
     "tag": "HxH"
   },
   {
@@ -5504,14 +5538,14 @@
     "name": "Yin",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1131-portrait.png/revision/latest?cb=20240122084641",
-    "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/yin_backup.zip",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/yin_backup.zip",
     "tag": "Backup"
   },
   {
     "name": "Yin",
     "skin_name": "Eren",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1136-portrait.png/revision/latest?cb=20240129101521",
-    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/yin_eren.zip",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/yin_eren.zip",
     "tag": "Attack on Titan"
   },
   {
@@ -5539,22 +5573,29 @@
     "name": "Fredrin",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero1171-portrait.png/revision/latest?cb=20240114032237",
-    "script": "https://github.com/tin0521/ff/raw/main/fredrin_backup.zip",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fredrinn_backup.zip",
     "tag": "Backup"
   },
   {
     "name": "Fredrin",
     "skin_name": "Neobeast Fredrinn",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero1174-portrait.png/revision/latest?cb=20230805043932",
-    "script": "https://github.com/tin0521/ff/raw/main/fredrin_neobeast.zip",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fredrinn_neobeast.zip",
     "tag": "Neobeast"
   },
   {
     "name": "Fredrin",
     "skin_name": "SPARKLE Fredrinn",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1175-portrait.png/revision/latest?cb=20240411075808",
-    "script": "https://github.com/tin0521/ff/raw/main/fredrin_sparkle.zip",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fredrinn_sparkle.zip",
     "tag": "Sparkle"
+  },
+     {
+    "name": "Fredrin",
+    "skin_name": "Royal Marshall",
+    "image": "https://github.com/tin0521/dec2025/raw/main/fredrinn_stars.png",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fredrinn_starlight.zip",
+    "tag": "Starlight"
   },
   {
     "name": "Arlott",
