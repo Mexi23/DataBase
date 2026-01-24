@@ -1,38 +1,29 @@
 
 [
 {
-     "image": "https://github.com/tin0521/dec2025/raw/refs/heads/main/cyclops_sponge.png",
-     "hero_name": "Beatrix"
-
-  },
-    {
-     "image": "https://github.com/tin0521/dec2025/raw/refs/heads/main/gloo_sponge.png",
-     "hero_name": "Claude"
- 
-  },
-    {
-     "image": "https://github.com/Mexi23/NovemberUPDT/raw/refs/heads/main/sun.png",
-     "hero_name": "Kimmy"
-
-    },
-     {
-     "image": "https://github.com/tin0521/dec2025/raw/refs/heads/main/cyclops_sponge.png",
-     "hero_name": "Beatrix"
-
-  },
-    {
-     "image": "https://github.com/tin0521/dec2025/raw/refs/heads/main/gloo_sponge.png",
-     "hero_name": "Claude"
-
-  },
-    {
-     "image": "https://github.com/Mexi23/NovemberUPDT/raw/refs/heads/main/sun.png",
-     "hero_name": "Kimmy"
-
-  },
-     {
-     "image": "https://github.com/tin0521/dec2025/raw/refs/heads/main/cyclops_sponge.png",
-     "hero_name": "Beatrix"
+           "name": "Natalia",
+            "skin_name": "Warrioress Paragon",
+            "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241014_141304261.png",
+            "script": "https://github.com/tin0521/neww/raw/main/natalia_collector.zip",
+            
+          },
+{"name": "Hayabusa",
+            "skin_name": "Sushi Master",
+            "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241013_140707995.png",
+            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hayabusa_sushimaster.zip",
+            
+          },
+{"name": "Fanny",
+            "skin_name": "Mikasa",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest?cb=20240127074733",
+            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_mikasa.zip",
+            
+          },
+{"name": "Karina",
+            "skin_name": "Leona",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest?cb=20220525164500",
+            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/karina_leona.zip"
+            
 
   }
 
