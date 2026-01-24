@@ -79,6 +79,13 @@
         "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fanny_backup.zip",
         "tag": "Backup"
                   },
+     {
+       "hero_name": "Fanny",
+       "skin_name": "Galactic Starhawk",
+       "image": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+       "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/fanny_def_legend.zip",
+       "tag":"Legend"
+       },
           {"name": "Fanny",
             "skin_name": "Lifeguard",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero176-portrait.png/revision/latest?cb=20220525164706",
@@ -336,6 +343,13 @@
         "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_backup.zip",
         "tag": "Backup"
          },
+      {
+    "hero_name": "Lancelot",
+    "skin_name": "Blade of Devotion",
+    "image": "https://github.com/tin0521/January_2026/blob/main/lancelot%20valentine.jpg?raw=true",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/lancelot_def_valentine.zip",
+        "tag":"Valentines"
+  },
           { "name": "Lancelot",
             "skin_name": "Bren. Esports",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero479-portrait.png/revision/latest?cb=20220525165252",
@@ -630,6 +644,13 @@
         "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/benedetta_backup.zip",
         "tag": "Backup"
          },
+      {
+    "hero_name": "Benedetta",
+    "skin_name": "Vessel of Pride",
+    "image": "https://github.com/tin0521/January_2026/blob/main/benedetta%20soul.jpg?raw=true",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/Benedetta_def_soulVessel.zip",
+        "tag":"Soul Vessel"
+  },
           { "name": "Benedetta",
             "skin_name": "Death Oath",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero974-portrait.png/revision/latest?cb=20220525170255",
@@ -1904,6 +1925,13 @@
     "script": "https://github.com/tin0521/supp/raw/main/floryn_backup.zip",
     "tag": "Backup"
   },
+     {
+    "hero_name": "Floryn",
+    "skin_name": "Arrow of Spring",
+    "image": "https://github.com/tin0521/January_2026/blob/main/floryn%20ethernal.jpg?raw=true",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/floryn_def_eternal.zip",
+    "tag": "Eternal Season"
+  },
   {
     "skin_name": "Fluffy Dream",
     "name": "Floryn",
@@ -1973,6 +2001,13 @@
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero011-portrait.png/revision/latest?cb=20231231181124",
     "script": "https://github.com/tin0521/mm/raw/main/miya_backup.zip",
     "tag": "Backup"
+  },
+    {
+    "hero_name": "Miya",
+    "skin_name": "Eternal Season - Miya",
+    "image": "https://github.com/tin0521/January_2026/blob/main/miya%20ethernal.jpg?raw=true",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/miya_def_eternal.zip",
+      "tag":"Eternal Season"
   },
   {
     "skin_name": "Modena Butterfly",
@@ -2146,9 +2181,9 @@
   },
      {
     "name": "Clint",
-    "skin_name": "Soul Vessel",
+    "skin_name": "Vessel of Ruin",
     "image": "https://github.com/tin0521/dec2025/raw/main/clint_vessels.png",
-    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/clint_soulvessel.zip",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/clint_def_soul.zip",
     "tag": "Soul Vessels"
   },
  {
@@ -2197,7 +2232,7 @@
     "name": "Layla",
     "skin_name": "The Beacon",
     "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/layla.png",
-    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/layla_legend.zip",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/layla_def_legend.zip",
     "tag": "Legend"
   },
     {
@@ -3356,6 +3391,13 @@
     "tag": "Backup"
   },
   {
+    "hero_name": "Odette",
+    "skin_name": "Song of Devotion",
+    "image": "https://github.com/tin0521/January_2026/blob/main/odette%20valentines.jpg?raw=true",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/odette_def_valen.zip",
+    "tag":"Valentines"
+  },
+  {
     "name": "Odette",
     "skin_name": "Sage of the Currents",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero468-portrait.png/revision/latest?cb=20230514163407",
@@ -3888,6 +3930,13 @@
     "tag": "Backup"
   },
   {
+    "hero_name": "Cecilion",
+    "skin_name": "Vessel of Gluttony",
+    "image": "https://github.com/tin0521/January_2026/blob/main/cecilion%20soul.jpg?raw=true",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/Ceciliom_Def_SoulVessel.zip",
+    "tag":"Soul Vessel"
+  },
+  {
     "name": "Cecilion",
     "skin_name": "Crimson Wings",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero916-portrait.png/revision/latest?cb=20220915122137",
@@ -3921,13 +3970,6 @@
     "image": "https://i.imgur.com/K2zTrYN.png",
     "script": "https://github.com/tin0521/mge/raw/main/cecilion_hisoka.zip",
     "tag": "HxH"
-  },
-     {
-    "name": "Cecilion",
-    "skin_name": "Soul Vessel",
-    "image": "https://github.com/tin0521/dec2025/raw/main/cecillion_vessels.png",
-    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/cecillion_soulvessel.zip",
-    "tag": "Soul Vessels"
   },
   {
     "name": "Luo Yi",
