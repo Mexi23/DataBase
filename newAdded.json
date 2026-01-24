@@ -1,26 +1,57 @@
 [
   {
-    "hero_name": "Natalia",
-    "skin_name": "Warrioress Paragon",
-    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241014_141304261.png",
-    "script": "https://github.com/tin0521/neww/raw/main/natalia_collector.zip"
-  },
-  {
-    "hero_name": "Hayabusa",
-    "skin_name": "Sushi Master",
-    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241013_140707995.png",
-    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hayabusa_sushimaster.zip"
-  },
-  {
     "hero_name": "Fanny",
-    "skin_name": "Mikasa",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest?cb=20240127074733",
-    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_mikasa.zip"
+    "skin_name": "Galactic Starhawk",
+    "image": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/fanny_def_legend.zip"
   },
   {
-    "hero_name": "Karina",
-    "skin_name": "Leona",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest?cb=20220525164500",
-    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/karina_leona.zip"
+    "hero_name": "Lancelot",
+    "skin_name": "Blade of Devotion",
+    "image": "https://github.com/tin0521/January_2026/blob/main/lancelot%20valentine.jpg?raw=true",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/lancelot_def_valentine.zip"
+  },
+  {
+    "hero_name": "Odette",
+    "skin_name": "Song of Devotion",
+    "image": "https://github.com/tin0521/January_2026/blob/main/odette%20valentines.jpg?raw=true",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/odette_def_valen.zip"
+  },
+  {
+    "hero_name": "Benedetta",
+    "skin_name": "Vessel of Pride",
+    "image": "https://github.com/tin0521/January_2026/blob/main/benedetta%20soul.jpg?raw=true",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/Benedetta_def_soulVessel.zip"
+  },
+{
+    "hero_name": "Miya",
+    "skin_name": "Eternal Season - Miya",
+    "image": "https://github.com/tin0521/January_2026/blob/main/miya%20ethernal.jpg?raw=true",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/miya_def_eternal.zip"
+  },
+  {
+    "hero_name": "Floryn",
+    "skin_name": "Arrow of Spring",
+    "image": "https://github.com/tin0521/January_2026/blob/main/floryn%20ethernal.jpg?raw=true",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/floryn_def_eternal.zip"
+  },
+  {
+    "hero_name": "Clint",
+    "skin_name": "Vessel of Ruin",
+    "image": "https://github.com/tin0521/January_2026/blob/main/clint%20soul.jpg?raw=true",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/clint_def_soul.zip"
+  },
+  {
+    "hero_name": "Cecilion",
+    "skin_name": "Vessel of Gluttony",
+    "image": "https://github.com/tin0521/January_2026/blob/main/cecilion%20soul.jpg?raw=true",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/Ceciliom_Def_SoulVessel.zip"
+  },
+  {
+    "hero_name": "Layla",
+    "skin_name": "The Beacon",
+    "image": "https://github.com/tin0521/January_2026/blob/main/layla%20legend.jpg?raw=true",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/layla_def_legend.zip"
   }
+  
 ]
