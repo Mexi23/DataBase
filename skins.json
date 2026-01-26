@@ -297,7 +297,7 @@
    "skin_name":"Backup",
         "name": "Harley",
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero421-portrait.png/revision/latest?cb=20231231170336",
-        "script": "https://github.com/tin0521/mge/raw/refs/heads/main/harley_backup.zip",
+        "script": "https://github.com/zetsuya05/january/raw/main/harley_backup.zip",
         "tag": "Backup"
          },
           { "name": "Harley",
@@ -336,11 +336,17 @@
             "script": "https://github.com/tin0521/mge/raw/refs/heads/main/harley_venom.zip",
             "tag": "V.E.N.O.M"
           },
+     { "name": "Harley",
+            "skin_name": "Dreaming Koi",
+            "image": "https://github.com/zetsuya05/january/raw/main/harley_newstarlightimage.jpg",
+            "script": "https://github.com/zetsuya05/january/raw/main/harley_newstarlight.zip",
+            "tag": "NewStarlight"
+          },
  {
    "skin_name":"Backup",
         "name": "Lancelot",
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png/revision/latest?cb=20240501053243",
-        "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_backup.zip",
+        "script": "https://github.com/zetsuya05/january/raw/main/lancelot_backup.zip",
         "tag": "Backup"
          },
       {
@@ -778,7 +784,7 @@
   "skin_name":"Backup",
       "name": "Nolan",
       "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1221-portrait.png/revision/latest?cb=20231224180931",
-      "script": "https://github.com/tin0521/assn/raw/refs/heads/main/nolan_backup.zip",
+      "script": "https://github.com/zetsuya05/january/raw/main/nolan_backup.zip",
       "tag": "Backup"
         },
         {"name": "Nolan",
@@ -798,6 +804,13 @@
           "image": "https://i.pinimg.com/736x/44/65/8d/44658ddc5580cd03d75fc88aa6032fe4.jpg",
           "script": "https://github.com/tin0521/assn/raw/refs/heads/main/nolan_thenavigator.zip",
           "tag": "11.11"
+        },
+        {
+          "name": "Nolan",
+          "skin_name": "Spectral Strider",
+          "image": "https://github.com/zetsuya05/january/raw/main/nolan_epicimages.jpg",
+          "script": "https://github.com/zetsuya05/january/raw/main/nolan_epic.zip",
+          "tag": "Epic"
         },
  {
    "skin_name":"Backup",
@@ -1498,7 +1511,7 @@
     "skin_name": "Backup",
     "name": "Gloo",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1041-portrait.png/revision/latest?cb=20240602231141",
-    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/gloo_backup.zip",
+    "script": "https://github.com/zetsuya05/january/raw/main/gloo_backup.zip",
     "tag": "Backup"
   },
   {
@@ -1512,7 +1525,7 @@
     "skin_name": "Patrick",
     "name": "Gloo",
     "image": "https://github.com/tin0521/dec2025/raw/main/gloo_sponge.png",
-    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/gloo_spongebob.zip",
+    "script": "https://github.com/zetsuya05/january/raw/main/gloo_patrick.zip",
     "tag": "Spongebob"
   },
 
@@ -2394,7 +2407,7 @@
     "name": "Irithel",
     "skin_name":"Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero431-portrait.png/revision/latest?cb=20220525165209",
-    "script": "https://github.com/tin0521/mm/raw/main/irithel_backup.zip",
+    "script": "https://github.com/zetsuya05/january/raw/main/irithel_backup.zip",
     "tag": "Backup"
   },
   {
@@ -2422,7 +2435,7 @@
     "name": "Irithel",
     "skin_name": "Astral Wanderer",
     "image": "https://github.com/tin0521/mmimg/raw/refs/heads/main/img_20241023_200001462.png",
-    "script": "https://github.com/tin0521/mm/raw/main/irithel_astral.zip",
+    "script": "https://github.com/zetsuya05/january/raw/main/irithel_luckybox-revamped.zip",
     "tag": "LuckyBox"
   },
       {
@@ -2653,7 +2666,7 @@
     "name": "Kimmy",
     "skin_name":"Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero711-portrait.png/revision/latest?cb=20240501071451",
-    "script": "https://github.com/tin0521/mm/raw/main/kimmy_backup.zip",
+    "script": "https://github.com/zetsuya05/january/raw/main/kimmy_backup.zip",
     "tag": "Backup"
   },
   {
@@ -2698,12 +2711,19 @@
     "script": "https://github.com/tin0521/mm/raw/main/kimmy_highseas.zip",
     "tag": "Elite"
   },
+  {
+    "name": "Kimmy",
+    "skin_name": "Starbound Sentry",
+    "image": "https://github.com/zetsuya05/january/raw/main/kimmy_collectorimages.png",
+    "script": "https://github.com/zetsuya05/january/raw/main/kimmy_collector.zip",
+    "tag": "Collector"
+  },
     
   {
     "name": "Granger",
     "skin_name":"Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero791-portrait.png/revision/latest?cb=20220525165830",
-    "script": "https://github.com/tin0521/mm/raw/main/granger_backup.zip",
+    "script": "https://github.com/zetsuya05/january/raw/main/granger_backup.zip",
     "tag": "Backup"
   },
   {
@@ -2758,13 +2778,27 @@
   {
     "name": "Granger",
     "skin_name": "Thunder Ascendant",
-    "image": "https://github.com/Mexi23/StS_MM_Dec/raw/refs/heads/main/grang_m7_img.jpeg",
-    "script": "https://github.com/Mexi23/StS_MM_Dec/raw/refs/heads/main/Granger_def_m7.zip",
-    "tag": "New"
+    "image": "https://github.com/zetsuya05/january/raw/main/granger_m7image.jpg",
+    "script": "https://github.com/zetsuya05/january/raw/main/granger_m7.zip",
+    "tag": "M7"
+  },
+ {
+    "name": "Granger",
+    "skin_name": "Cosmic Finality",
+    "image": "https://github.com/zetsuya05/january/raw/main/granger_primeimage.jpg",
+    "script": "https://github.com/zetsuya05/january/raw/main/granger_prime.zip",
+    "tag": "Prime"
   },
      {
     "name": "Granger",
     "skin_name": "Bio Solder",
+    "image": "https://github.com/tin0521/mmimg/raw/main/img_20241023_203513542.png",
+    "script": "https://github.com/tin0521/mm/raw/main/granger_biosoldier.zip",
+    "tag": "Starlight"
+  },
+   {
+    "name": "Granger",
+    "skin_name": "B",
     "image": "https://github.com/tin0521/mmimg/raw/main/img_20241023_203513542.png",
     "script": "https://github.com/tin0521/mm/raw/main/granger_biosoldier.zip",
     "tag": "Starlight"
@@ -3262,7 +3296,7 @@
     "name": "Cyclops",
     "skin_name": "Starsoul Magician",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero331-portrait.png/revision/latest?cb=20240122082946",
-    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/cyclops_backup.zip",
+    "script": "https://github.com/zetsuya05/january/raw/main/cyclops_backup.zip",
     "tag": "Backup"
   },
   {
@@ -3304,14 +3338,14 @@
     "name": "Cyclops",
     "skin_name": "Spongebob",
     "image": "https://github.com/tin0521/dec2025/raw/main/cyclops_sponge.png",
-    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/cyclops_spongebob.zip",
+    "script": "https://github.com/zetsuya05/january/raw/main/cyclops_spongebob.zip",
     "tag": "Spongebob"
   },
   {
     "name": "Kagura",
     "skin_name": "Onmyouji Master",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Hero251-portrait.png/revision/latest?cb=20240504224342",
-    "script": "https://github.com/tin0521/mge/raw/main/kagura_backup.zip",
+    "script": "https://github.com/zetsuya05/january/raw/main/kagura_backup.zip",
     "tag": "Backup"
   },
   {
@@ -3332,8 +3366,8 @@
     "name": "Kagura",
     "skin_name": "Soryu Maiden",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero255-portrait.png/revision/latest?cb=20220525164843",
-    "script": "https://github.com/tin0521/mge/raw/main/kagura_soryu.zip",
-    "tag": "Epic"
+    "script": "https://github.com/zetsuya05/january/raw/main/kagura_luckybox-revamped.zip",
+    "tag": "Luckybox"
   },
   {
     "name": "Kagura",
@@ -3381,7 +3415,7 @@
     "name": "Odette",
     "skin_name": "Swan Princess",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero461-portrait.png/revision/latest?cb=20220525165233",
-    "script": "https://github.com/tin0521/mge/raw/main/odette_backup.zip",
+    "script": "https://github.com/zetsuya05/january/raw/main/odette_backup.zip",
     "tag": "Backup"
   },
   {
@@ -3738,15 +3772,15 @@
     "name": "Lunox",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero681-portrait.png/revision/latest?cb=20220525165705",
-    "script": "https://github.com/tin0521/mge/raw/main/lunox_backup.zip",
+    "script": "https://github.com/zetsuya05/january/raw/main/lunox_backup.zip",
     "tag": "Backup"
   },
   {
     "name": "Lunox",
     "skin_name": "Butterfly Seraphim",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero686-portrait.png/revision/latest?cb=20220525165718",
-    "script": "https://github.com/tin0521/mge/raw/main/lunox_butterfly.zip",
-    "tag": "Epic"
+    "script": "https://github.com/zetsuya05/january/raw/main/lunox_luckybox-revamped.zip",
+    "tag": "Luckybox"
   },
   {
     "name": "Lunox",
@@ -4133,6 +4167,13 @@
     "script": "https://github.com/tin0521/mge/raw/main/novaria_collector.zip",
     "tag": "Collector"
   },
+    {
+    "name": "Novaria",
+    "skin_name": "Lunar Scion",
+    "image": "https://github.com/zetsuya05/january/raw/main/novaria_specialimage.jpg",
+    "script": "https://github.com/zetsuya05/january/raw/main/novaria_special.zip",
+    "tag": "Special"
+  },
   {
     "name": "Zhuxin",
     "skin_name": "Backup",
@@ -4209,7 +4250,7 @@
     "name": "Alucard",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947",
-    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/alucard_backup.zip",
+    "script": "https://github.com/zetsuya05/january/raw/main/alucard_backup.zip",
     "tag": "Backup"
   },
   {
@@ -4230,7 +4271,7 @@
     "name": "Alucard",
     "skin_name": "Obsidian Blade",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero077-portrait.png/revision/latest?cb=20220525164442",
-    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/alucard_obsidianblade.zip",
+    "script": "https://github.com/zetsuya05/january/raw/main/alucard_legend-revamped.zip",
     "tag": "Legend"
   },
   {
