@@ -829,7 +829,7 @@
     "name": "Alice",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero041-portrait.png/revision/latest?cb=20240605132522",
-    "script": "https://github.com/tin0521/mge/raw/main/alice_backup.zip",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/alice_backup.zip",
     "tag": "Backup"
   },
   {
@@ -857,7 +857,7 @@
     "name": "Alice",
     "skin_name": "Darknet Temptress",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero047-portrait.png/revision/latest?cb=20240619180019",
-    "script": "https://github.com/tin0521/mge/raw/main/alice_darknet.zip",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/alice_epicrevamped.zip",
     "tag": "Epic"
   },
   {
@@ -4018,14 +4018,21 @@
     "name": "Yve",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero1011-portrait.png/revision/latest?cb=20240621104939",
-    "script": "https://github.com/tin0521/mge/raw/main/yve_backup.zip",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/yve_backup.zip",
     "tag": "Backup"
+  },
+     {
+    "name": "Yve",
+    "skin_name": "Flame Lotus",
+    "image": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/img_20251026_164251247.png",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/yve_starlight.zip",
+    "tag": "Starlight"
   },
   {
     "name": "Yve",
     "skin_name": "Ruin Protectress",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1013-portrait.png/revision/latest?cb=20220525170335",
-    "script": "https://github.com/tin0521/mge/raw/main/yve_ruin.zip",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/yve_forest.zip",
     "tag": "Elite"
   },
   {
@@ -4074,7 +4081,7 @@
     "name": "Xavier",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1151-portrait.png/revision/latest?cb=20220525172250",
-    "script": "https://github.com/tin0521/mge/raw/main/xavier_backup.zip",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/xavier_backup.zip",
     "tag": "Backup"
   },
   {
@@ -4101,8 +4108,8 @@
   {
     "name": "Xavier",
     "skin_name": "Sunbord Monarch",
-    "image": "https://github.com/Mexi23/NovemberUPDT/raw/refs/heads/main/xavier.png",
-    "script": "https://github.com/Mexi23/Oct2025/raw/refs/heads/main/xavier_collector.zip",
+    "image": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/img_20251026_163207278.png",
+    "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/xavier_collector.zip",
     "tag": "Collector"
   },
   {
@@ -4503,7 +4510,7 @@
     "name": "Sun",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero271-portrait.png/revision/latest?cb=20240605114146",
-    "script": "https://github.com/tin0521/ff/raw/main/sun_battlebuddha.zip",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/sun_backup.zip",
     "tag": "Backup"
   },
   {
@@ -4531,7 +4538,7 @@
     "name": "Sun",
     "skin_name": "Queler of Chaos",
     "image": "https://github.com/Mexi23/NovemberUPDT/raw/refs/heads/main/sun.png",
-    "script": "https://github.com/Mexi23/Oct2025/raw/refs/heads/main/sun_annualstar.zip",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/sun_annualstar.zip",
     "tag": "Annual Starlight"
   },
   {
@@ -5469,7 +5476,7 @@
     "name": "Paquito",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb=20220525170349",
-    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/pacquito_backup.zip",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/pacquito_backup.zip",
     "tag": "Backup"
   },
   {
@@ -5503,7 +5510,7 @@
   {
     "name": "Paquito",
     "skin_name": "Underground Boxer",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDNk-HgCDO7dXmHMECiTu4qqppOMo6EnRbkLRj0c-VHcUNXBDqZe-TZjrW&s=10",
+    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241014_130848699.png",
     "script": "https://github.com/tin0521/ff/raw/refs/heads/main/pacquito_underground.zip",
     "tag": "Special"
   },
@@ -5520,6 +5527,13 @@
     "image": "https://pbs.twimg.com/media/GWtKiYnacAACwN6?format=jpg&name=large",
     "script": "https://github.com/tin0521/ff/raw/refs/heads/main/pacquito_fmvp.zip",
     "tag": "FMVP"
+  },
+  {
+    "name": "Paquito",
+    "skin_name": "Demontech Striker",
+    "image": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/img_20251026_160420613.png",
+    "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/pacquito_epic.zip",
+    "tag": "Epic"
   },
   {
     "name": "Phoveus",
@@ -5604,6 +5618,13 @@
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1134-portrait.png/revision/latest?cb=20230212035447",
     "script": "https://github.com/tin0521/ff/raw/refs/heads/main/yin_jujutsu.zip",
     "tag": "Jujutsu Kaisen"
+  },
+     {
+    "name": "Yin",
+    "skin_name": "Dauntless Battlelord",
+    "image": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/img_20251005_174434255.png",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/yin_collector.zip",
+    "tag": "Collector"
   },
   {
     "name": "Fredrin",
