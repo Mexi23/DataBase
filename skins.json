@@ -448,6 +448,15 @@
         "script": "https://github.com/tin0521/assn/raw/refs/heads/main/gusion_backup.zip",
         "tag": "Backup"
         },
+    {
+       "skin_name":"Minato",
+        "name": "Gusion",
+        "image": "https://raw.githubusercontent.com/zetsuya05/january_2026/refs/heads/main/images%20(61).jpeg",
+        "script": "https://github.com/zetsuya05/assa_feb2026/raw/refs/heads/main/gusion_minato.zip",
+        "tag": "Naruto"
+        },
+
+    
           {"name": "Gusion",
             "skin_name": "Soul Revelation",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105610-portrait.png/revision/latest?cb=20220714031432",
