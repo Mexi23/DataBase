@@ -1,5 +1,11 @@
 [
   {
+       "skin_name":"Minato",
+        "hero_name": "Gusion",
+        "image": "https://raw.githubusercontent.com/zetsuya05/january_2026/refs/heads/main/images%20(61).jpeg",
+        "script": "https://github.com/zetsuya05/assa_feb2026/raw/refs/heads/main/gusion_minato.zip"
+  }
+  {
     "hero_name": "Fanny",
     "skin_name": "Galactic Starhawk",
     "image": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
