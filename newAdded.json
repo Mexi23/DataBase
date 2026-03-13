@@ -1,16 +1,55 @@
 [
-  {
+
+     {
+       "hero_name": "Julian",
+          "skin_name": "Itachi",
+          "image": "https://github.com/Mexi23/Feb_2026/raw/refs/heads/main/itachi_julian.jpg",
+          "script": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/julian_itachi.zip"
+        },
+    {
        "skin_name":"Minato",
         "hero_name": "Gusion",
         "image": "https://raw.githubusercontent.com/zetsuya05/january_2026/refs/heads/main/images%20(61).jpeg",
         "script": "https://github.com/zetsuya05/assa_feb2026/raw/refs/heads/main/gusion_minato.zip"
   },
+     {
+    "name": "Leomord",
+    "skin_name": "Auspicious Blaze",
+    "image": "https://github.com/Mexi23/others_2026/raw/main/20260309_130459.jpg",
+    "script": "https://github.com/Mexi23/others_2026/raw/main/leomord_lunarfest.zip"
+     },
+    {
+    "skin_name": "Collector Titans",
+    "hero_name": "Grock",
+    "image": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/20260309_123451.jpg",
+    "script": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/grock_collector.zip"
+    },
+       {
+    "hero_name": "Lylia",
+    "skin_name": "Phantasmal Revelry",
+    "image": "https://github.com/Mexi23/others_2026/raw/main/20260309_131018.jpg",
+    "script": "https://github.com/Mexi23/others_2026/raw/main/lylia_covenant.zip"
+       },
+        {
+    "hero_name": "Eudora",
+    "skin_name": "Atomic Pop Eudora",
+    "image": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/20260309_120503.jpg",
+    "script": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/eudora_covenant.zip"
+        },
   {
     "hero_name": "Fanny",
     "skin_name": "Galactic Starhawk",
     "image": "https://github.com/tin0521/January_2026/raw/refs/heads/main/fanny%20legend.jpg",
     "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/fanny_def_legend.zip"
   },
+
+    {
+    "hero_name": "Zetian",
+    "skin_name": "Starlight",
+    "image": "https://github.com/Mexi23/others_2026/raw/main/20260309_133923.jpg",
+    "script": "https://github.com/Mexi23/others_2026/raw/main/zetia_starlight.zip"
+    },
+  
   {
     "hero_name": "Lancelot",
     "skin_name": "Blade of Devotion",
@@ -32,7 +71,7 @@
 {
     "hero_name": "Miya",
     "skin_name": "Eternal Season - Miya",
-    "image": "https://github.com/tin0521/January_2026/blob/main/miya%20ethernal.jpg?raw=true",
+    "image": "https://github.com/tin0521/January_2026/raw/main/miya%20ethernal.jpg",
     "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/miya_def_eternal.zip"
   },
   {
