@@ -765,6 +765,14 @@
       "script": "https://github.com/tin0521/ff/raw/main/julian_backup.zip",
       "tag": "Backup"
          },
+
+         {"name": "Julian",
+          "skin_name": "Itachi",
+          "image": "https://github.com/Mexi23/Feb_2026/raw/refs/heads/main/itachi_julian.jpg",
+          "script": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/julian_itachi.zip",
+          "tag": "Naruto Shipuden"
+        },
+    
         {"name": "Julian",
           "skin_name": "Megumi Fushiguro",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1163-portrait.png/revision/latest?cb=20230212035450",
@@ -1160,6 +1168,14 @@
     "script": "https://github.com/tin0521/tnk/raw/main/grock_backup.zip",
     "tag": "Backup"
   },
+  {
+    "skin_name": "Codename: Rhino",
+    "name": "Grock",
+    "image": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/20260309_123451.jpg",
+    "script": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/grock_collector.zip",
+    "tag": "Epic"
+  },
+    
   {
     "skin_name": "Codename: Rhino",
     "name": "Grock",
@@ -2021,7 +2037,7 @@
     {
     "name": "Miya",
     "skin_name": "Eternal Season - Miya",
-    "image": "https://github.com/tin0521/January_2026/blob/main/miya%20ethernal.jpg?raw=true",
+    "image": "https://github.com/tin0521/January_2026/raw/main/miya%20ethernal.jpg",
     "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/miya_def_eternal.zip",
       "tag":"Eternal Season"
   },
@@ -3166,6 +3182,14 @@
     "script": "https://github.com/tin0521/mge/raw/main/eudora_backup.zip",
     "tag": "Backup"
   },
+      {
+    "name": "Eudora",
+    "skin_name": "Atomic Pop Eudora",
+    "image": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/20260309_120503.jpg",
+    "script": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/eudora_covenant.zip",
+    "tag": "Atomic Pop"
+  },
+    
   {
     "name": "Eudora",
     "skin_name": "Atomic Pop Eudora",
@@ -3931,6 +3955,14 @@
     "script": "https://github.com/tin0521/mge/raw/main/lylia_backup.zip",
     "tag": "Backup"
   },
+     {
+    "name": "Lylia",
+    "skin_name": "Phantasmal Revelry",
+    "image": "https://github.com/Mexi23/others_2026/raw/main/20260309_131018.jpg",
+    "script": "https://github.com/Mexi23/others_2026/raw/main/lylia_covenant.zip",
+    "tag": "Halloween"
+  },
+    
   {
     "name": "Lylia",
     "skin_name": "Haunted Doll",
@@ -4211,6 +4243,24 @@
     "script": "https://github.com/tin0521/Sept/raw/refs/heads/main/zhuxin_anniversary.zip",
     "tag": "Anniversary"
   },
+
+
+ {
+    "name": "Zetian",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1291-portrait.png/revision/latest?cb=20250802160054",
+    "script": "https://github.com/Mexi23/others_2026/raw/main/zetia_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Zetian",
+    "skin_name": "Starlight",
+    "image": "https://github.com/Mexi23/others_2026/raw/main/20260309_133923.jpg",
+    "script": "https://github.com/Mexi23/others_2026/raw/main/zetia_starlight.zip",
+    "tag": "Basic"
+  },
+    
+    
 
   
   {
@@ -5067,6 +5117,15 @@
     "script": "https://github.com/tin0521/ff/raw/main/leomord_backup.zip",
     "tag": "Backup"
   },
+
+     {
+    "name": "Leomord",
+    "skin_name": "Auspicious Blaze",
+    "image": "https://github.com/Mexi23/others_2026/raw/main/20260309_130459.jpg",
+    "script": "https://github.com/Mexi23/others_2026/raw/main/leomord_lunarfest.zip",
+    "tag": "Abyss"
+  },
+    
   {
     "name": "Leomord",
     "skin_name": "Shadow Knight",
