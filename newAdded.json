@@ -1,6 +1,21 @@
 [
 
      {
+    "hero_name": "Leomord",
+    "skin_name": "Tidescale Sealord",
+    "image": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/YZPortrait.jpg",
+    "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/yuZhing_def_allstar.zip"
+     },
+
+        {
+    "hero_name": "Ling",
+    "skin_name": "Phantom Current",
+    "image": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/LingPortrait.jpg",
+    "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/ling_def_allstar.zip"
+     },
+
+     
+     {
        "hero_name": "Julian",
           "skin_name": "Itachi",
           "image": "https://github.com/Mexi23/Feb_2026/raw/refs/heads/main/itachi_julian.jpg",
