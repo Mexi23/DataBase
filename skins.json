@@ -260,7 +260,7 @@
           { "name": "Yi Sun-Shin",
             "skin_name": "Lone Destructor",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest?cb=20220525164953",
-            "script": "https://github.com/tin0521/mm/raw/refs/heads/main/yss_astral.zip",
+            "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/yss_def_collector.zip",
             "tag": "Collector"
           },
           { "name": "Yi Sun-Shin",
@@ -3715,7 +3715,7 @@
     "name": "Chang'e",
     "skin_name": "Tech Tensai",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero106110-portrait.png/revision/latest?cb=20240130070359",
-    "script": "https://github.com/tin0521/mge/raw/main/changE_aspirant.zip",
+    "script": "https://github.com/Mexica23/April_2026_2/raw/refs/heads/main/change_def_aspirant.zip",
     "tag": "Aspirants"
   },
   {
@@ -4548,7 +4548,7 @@
     "name": "Chou",
     "skin_name": "Iori Yagami",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest?cb=20220525164854",
-    "script": "https://github.com/tin0521/ff/raw/main/chou_kof.zip",
+    "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/chou_kof.zip",
     "tag": "King of Fighters"
   },
   {
@@ -4709,7 +4709,7 @@
     "name": "Alpha",
     "skin_name": "Revenant of Roses",
     "image": "https://pbs.twimg.com/media/GlboX4PbkAAXXgh?format=jpg&name=small",
-    "script": "https://github.com/tin0521/ff/raw/main/alpha_legend.zip",
+    "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/alpha_def_legend.zip",
     "tag": "Legend"
   },
   {
@@ -5271,7 +5271,7 @@
     "name": "Badang",
     "skin_name": "Fist of Zen",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest?cb=20220525165821",
-    "script": "https://github.com/tin0521/ff/raw/main/badang_collector.zip",
+    "script": "https://github.com/Mexi23/Feb_2026/raw/refs/heads/main/badang_collectorR.zip",
     "tag": "Collector"
   },
   {
@@ -5761,7 +5761,7 @@
     "name": "Fredrin",
     "skin_name": "Neobeast Fredrinn",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero1174-portrait.png/revision/latest?cb=20230805043932",
-    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fredrinn_neobeast.zip",
+    "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/fredrin_neoBeast.zip",
     "tag": "Neobeast"
   },
   {
