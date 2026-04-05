@@ -610,6 +610,14 @@
         "script": "https://github.com/tin0521/assn/raw/refs/heads/main/ling_backup.zip",
         "tag": "Backup"
          },
+
+            {
+    "name": "Ling",
+    "skin_name": "Phantom Current",
+    "image": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/LingPortrait.jpg",
+    "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/ling_def_allstar.zip"
+     },
+    
           { "name": "Ling",
             "skin_name": "Serene Plume",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest?cb=20220525170020",
@@ -5117,6 +5125,13 @@
     "script": "https://github.com/tin0521/ff/raw/main/leomord_backup.zip",
     "tag": "Backup"
   },
+
+         {
+    "name": "Leomord",
+    "skin_name": "Tidescale Sealord",
+    "image": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/YZPortrait.jpg",
+    "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/yuZhing_def_allstar.zip"
+     },
 
      {
     "name": "Leomord",
