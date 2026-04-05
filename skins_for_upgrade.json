@@ -1172,6 +1172,13 @@
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero842-portrait.png/revision/latest?cb=20240619154306",
   "script": "https://github.com/rahasia55/AG-BACKUP1/raw/master/backup%20ling.zip"
 },
+      {
+  "name": "Phantom Current",
+  "upgradable_skin": "Fiery Dance",
+  "image": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/LingPortrait.jpg",
+  "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/ling_basic_allstar.zip"
+},
+  
 {
   "upgradable_skin": "Fiery Dance",
   "name": "Serene Plume",
@@ -1202,6 +1209,12 @@
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero845-portrait.png/revision/latest?cb=20220525170019",
   "script": "https://github.com/rahasia55/AG-BACKUP1/raw/master/backup%20ling.zip"
 },
+  {
+  "upgradable_skin": "Cosmo Guard",
+  "name": "Phantom Current",
+  "image": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/LingPortrait.jpg",
+  "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/ling_special_allstar.zip"
+},
 {
   "upgradable_skin": "Cosmo Guard",
   "name": "Serene Plume",
@@ -1231,6 +1244,12 @@
   "upgradable_skin": "Street Funk",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest?cb=20220525170016",
   "script": "https://github.com/rahasia55/AG-BACKUP1/raw/master/backup%20ling.zip"
+},
+  {
+  "name": "Phantom Current",
+  "upgradable_skin": "Street Funk",
+  "image": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/LingPortrait.jpg",
+  "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/ling_starlight_allstar.zip"
 },
 {
   "upgradable_skin": "Street Funk",
@@ -4801,8 +4820,8 @@
 {
   "upgradable_skin": "Empire Agent",
   "name": "Obsidian Blade",
-  "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero077-portrait.png/revision/latest?cb\u003d20220525164442",
-  "script": "https://github.com/missnapokita/July-Upgrade-Fighter/raw/main/alu%20empire%20a%20to%20legend.zip"
+  "image": "https://github.com/Mexi23/Feb_2026/raw/refs/heads/main/orca-image-1328348968.jpeg.jpeg",
+  "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/alucard_empireAgent_legend.zip"
 },
 {
   "upgradable_skin": "Empire Agent",
@@ -4825,8 +4844,8 @@
 {
   "upgradable_skin": "Lone Hero",
   "name": "Obsidian Blade",
-  "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero077-portrait.png/revision/latest?cb\u003d20220525164442",
-  "script": "https://github.com/tin0521/skintoskin/raw/refs/heads/main/alucard_basic_legend.zip"
+  "image": "https://github.com/Mexi23/Feb_2026/raw/refs/heads/main/orca-image-1328348968.jpeg.jpeg",
+  "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/alucard_basic_legend.zip"
 },
 {
   "upgradable_skin": "Lone Hero",
@@ -4875,8 +4894,8 @@
 {
   "upgradable_skin": "Fiery Inferno",
   "name": "Obsidian Blade",
-  "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero077-portrait.png/revision/latest?cb\u003d20220525164442",
-  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Alucard%20Season%20to%20LEGEND.zip"
+  "image": "https://github.com/Mexi23/Feb_2026/raw/refs/heads/main/orca-image-1328348968.jpeg.jpeg",
+  "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/alucard_season_legend.zip"
 },
 {
   "upgradable_skin": "Fiery Inferno",
@@ -4911,8 +4930,8 @@
 {
   "upgradable_skin": "Viscount",
   "name": "Obsidian Blade",
-  "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero077-portrait.png/revision/latest?cb\u003d20220525164442",
-  "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Alucard%20Starlight%20to%20LEGEND.zip"
+  "image": "https://github.com/Mexi23/Feb_2026/raw/refs/heads/main/orca-image-1328348968.jpeg.jpeg",
+  "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/alucard_SL_legend.zip"
 },
 {
   "upgradable_skin": "Viscount",
@@ -4932,8 +4951,8 @@
 {
   "upgradable_skin": "Romantic Fantasy",
   "name": "Obsidian Blade",
-  "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero077-portrait.png/revision/latest?cb\u003d20220525164442",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alucard/Alucard%20Valentines/Alucard%20Valentines%20to%20Legend.zip"
+  "image": "https://github.com/Mexi23/Feb_2026/raw/refs/heads/main/orca-image-1328348968.jpeg.jpeg",
+  "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/alucard_valentine_legend.zip"
 },
   
 {
@@ -4946,8 +4965,8 @@
 {
   "upgradable_skin": "Lightborn - Striker",
   "name": "Obsidian Blade",
-  "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero077-portrait.png/revision/latest?cb\u003d20220525164442",
-  "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alucard/Alucard%20Lightborn/Alucard%20Lightborn%20to%20Legend.zip"
+  "image": "https://github.com/Mexi23/Feb_2026/raw/refs/heads/main/orca-image-1328348968.jpeg.jpeg",
+  "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/alucard_LB_Legend.zip"
 },
   
 {
@@ -6539,7 +6558,7 @@
   "upgradable_skin": "Regal Renegade",
   "name": "Neobeast Fredrinn",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero1174-portrait.png/revision/latest?cb\u003d20230805043932",
-  "script": "https://github.com/missnapokita/fightupgrade/raw/main/fred%20normal%20to%20neo.zip"
+  "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/fredrin_basic_neo.zip"
 },
 {
   "upgradable_skin": "Regal Renegade",
@@ -6557,7 +6576,7 @@
   "upgradable_skin": "Jewel Connoisseur",
   "name": "Neobeast Fredrinn",
   "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero1174-portrait.png/revision/latest?cb\u003d20230805043932",
-  "script": "https://github.com/missnapokita/fightupgrade/raw/main/fred%20elite%20to%20neo.zip"
+  "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/fredrin_elite_neo.zip"
 },
 {
   "name": "Backup",
