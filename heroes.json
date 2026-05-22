@@ -1,193 +1,193 @@
 [
   {
     "hero_name": "Aamon",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hero1091-portrait.png/revision/latest?cb=20220525171725",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/aamon.png?raw=true",
     "script": "https://github.com/tin0521/assn/raw/refs/heads/main/aamon_backup.zip",
     "role": "assassin"
   },
   {
     "hero_name": "Akai",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero091-portrait.png/revision/latest?cb=20240605133305",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/akai.png?raw=true",
     "script": "https://github.com/Maharlikoders/some-default-skin/raw/main/AKAI/BACKUP%20AKAI.zip",
     "role": "tank"
   },
   {
     "hero_name": "Aldous",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero641-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142204",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/aldous.png?raw=true",
     "script": "https://github.com/zmaxph/fighter/raw/main/aldous%20backup.zip",
     "role": "fighter"
   },
   {
     "hero_name": "Alice",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero041-portrait.png/revision/latest?cb=20240605132522",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/alice.png?raw=true",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alice/Alice%20Default/Alice%20Backup.zip",
     "role": "tank"
   },
   {
     "hero_name": "Alpha",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero281-portrait.png/revision/latest?cb=20240517115107",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/alpha.png?raw=true",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alpha/Alpha%20Default/Alpha%20Backup.zip",
     "role": "fighter"
   },
   {
     "hero_name": "Alucard",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/alucard.png?raw=true",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Alucard/Alucard%20Default/Alucard%20Backup.zip",
     "role": "fighter"
   },
   {
     "hero_name": "Angela",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero551-portrait.png/revision/latest?cb=20240501135306",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/angela.png?raw=true",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Angela/Angela%20Default/Angela%20Backup.zip",
     "role": "support"
   },
   {
     "hero_name": "Argus",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png/revision/latest?cb=20220525165226",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/argus.png?raw=true",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Argus/Argus%20Default/Argus%20Backup.zip",
     "role": "fighter"
   },
   {
     "hero_name": "Arlott",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1201-portrait.png/revision/latest?cb=20230208125736",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/arlott.png?raw=true",
     "script": "script",
     "role": "fighter"
   },
   {
     "hero_name": "Atlas",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero931-portrait.png/revision/latest?cb=20220525171026",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/atlas.png?raw=true",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Atlas/Atlas%20Default/Atlas%20Backup.zip",
     "role": "tank"
   },
   {
     "hero_name": "Aulus",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero1081-portrait.png/revision/latest?cb=20220525171829",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/aulus.png?raw=true",
     "script": "https://github.com/missnapokita/june-2024/raw/main/aulos%20backup.zip",
     "role": "fighter"
   },
   {
     "hero_name": "Aurora",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero361-portrait.png/revision/latest?cb=20240131102638",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/aurora.png?raw=true",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Aurora/Aurora%20Default/Aurora%20Backup.zip",
     "role": "mage"
   },
   {
     "hero_name": "Badang",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest?cb=20220525165815",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/badang.png?raw=true",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Badang/Badang%20Default/Badang%20Backup.zip",
     "role": "fighter"
   },
   {
     "hero_name": "Balmond",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero021-portrait.png/revision/latest?cb=20240602234350",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/balmond.png?raw=true",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Balmond/Balmond%20Default/Balmond%20Backup.zip",
     "role": "fighter"
   },
   {
     "hero_name": "Bane",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero111-portrait.png/revision/latest?cb=20240605133609",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/bane.png?raw=true",
     "script": "https://github.com/JhoweeMylab/Fighter-Backup/raw/main/Bane%20Backup.zip",
     "role": "fighter"
   },
   {
     "hero_name": "Barats",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero991-portrait.png/revision/latest?cb=20240103093200",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/barats.png?raw=true",
     "script": "https://github.com/missnapokita/June-2024-B-C-D/raw/main/barats%20backup.zip",
     "role": "tank"
   },
   {
     "hero_name": "Baxia",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero871-portrait.png/revision/latest?cb=20220621142648",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/baxia.png?raw=true",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Baxia/Baxia%20Default/Baxia%20Backup.zip",
     "role": "tank"
   },
   {
     "hero_name": "Beatrix",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero1051-portrait.png/revision/latest?cb=20240501053744",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/beatrix.png?raw=true",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Beatrix/Beatrix%20Default/Beatrix%20Backup.zip",
     "role": "marksman"
   },
   {
     "hero_name": "Belerick",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero701-portrait.png/revision/latest?cb=20220525165729",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/belerick.png?raw=true",
     "script": "https://github.com/missnapokita/June-2024-B-C-D/raw/main/belerick%20backup.zip",
     "role": "tank"
   },
   {
     "hero_name": "Benedetta",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero971-portrait.png/revision/latest?cb=20240611063830",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/benedetta.png?raw=true",
     "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_backup.zip",
     "role": "assassin"
   },
   {
     "hero_name": "Brody",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero1001-portrait.png/revision/latest?cb=20220525172049",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/brody.png?raw=true",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Brody/Brody%20Default/Brody%20Backup.zip",
     "role": "marksman"
   },
   {
     "hero_name": "Bruno",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero121-portrait.png/revision/latest?cb=20240605133847",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/bruno.png?raw=true",
     "script": "https://github.com/missnapokita/June-2024-B-C-D/raw/main/bruno%20backup.zip",
     "role": "marksman"
   },
   {
     "hero_name": "Carmilla",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero921-portrait.png/revision/latest?cb=20220525171356",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/carmilla.png?raw=true",
     "script": "https://github.com/missnapokita/June-2024-C/raw/main/carmilla%20backup.zip",
     "role": "support"
   },
   {
     "hero_name": "Cecilion",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero911-portrait.png/revision/latest?cb=20220525171232",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/ceciliom.png?raw=true",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Cecilion/Cecilion%20Default/Cecilion%20Backup.zip",
     "role": "mage"
   },
   {
     "hero_name": "Chang'e",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero611-portrait.png/revision/latest?cb=20240121134835",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/change.png?raw=true",
     "script": "https://github.com/missnapokita/June-2024-C/raw/main/change%20backup.zip",
     "role": "mage"
   },
   {
     "hero_name": "Chip",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero1241-portrait.png/revision/latest?cb=20240321084340",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/chip.png?raw=true",
     "script": "https://github.com/raflinkk/NEW_SKIN/raw/main/CHIP/BACKUP%20CHIP.zip",
     "role": "support"
   },
   {
     "hero_name": "Chou",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb=20220525164846",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/chou.png?raw=true",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Default/Chou%20Backup.zip",
     "role": "fighter"
   },
   {
     "hero_name": "Cici",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero1231-portrait.png/revision/latest?cb=20240120070411",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/cici.png?raw=true",
     "script": "script",
     "role": "fighter"
   },
   {
     "hero_name": "Claude",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero651-portrait.png/revision/latest?cb=20240501064446",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/claude.png?raw=true",
     "script": "https://github.com/missnapokita/June-2024-C/raw/main/claude%20backup.zip",
     "role": "marksman"
   },
   {
     "hero_name": "Clint",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero131-portrait.png/revision/latest?cb=20240605133854",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/clint.png?raw=true",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Clint/Clint%20Default/Clint%20Backup.zip",
     "role": "marksman"
   },
   {
     "hero_name": "Cyclops",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero331-portrait.png/revision/latest?cb=20240122082946",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/cyclops.png?raw=true",
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Cyclops/Cyclops%20Default/Cyclops%20Backup.zip",
     "role": "mage"
   },
   {
     "hero_name": "Diggie",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero481-portrait.png/revision/latest?cb=20240112141634",
+    "image_url": "https://github.com/Mexi23/Heroes_generated/blob/main/diggie.png?raw=true",
     "script": "https://github.com/missnapokita/June-2024-C/raw/main/diggie%20backup.zip",
     "role": "support"
   },
