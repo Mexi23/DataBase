@@ -55,7 +55,7 @@
     "name": "Karina",
     "skin_name": "Leona",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest?cb=20220525164500",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/assn@main/karina_leona.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/assn/main/karina_leona.zip",
     "tag": "King of Fighters"
   },
   {
@@ -90,7 +90,7 @@
     "name": "Fanny",
     "skin_name": "Galactic Starhawk",
     "image": "https://cdn.jsdelivr.net/gh/tin0521/January_2026@main/fanny%20legend.jpg",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/January_2026@main/fanny_def_legend.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/January_2026/main/fanny_def_legend.zip",
     "tag": "Legend"
   },
   {
@@ -201,7 +201,7 @@
     "name": "Hayabusa",
     "skin_name": "Kakashi Hatake",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102111-portrait.png/revision/latest?cb=20250411101503",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/assn@main/hayabusa_kakashi.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/assn/main/hayabusa_kakashi.zip",
     "tag": "Naruto Shippuden"
   },
   {
@@ -397,7 +397,7 @@
     "name": "Lancelot",
     "skin_name": "Blade of Devotion",
     "image": "https://cdn.jsdelivr.net/gh/tin0521/January_2026@main/lancelot%20valentine.jpg",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/January_2026@main/lancelot_def_valentine.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/January_2026/main/lancelot_def_valentine.zip",
     "tag": "Valentines"
   },
   {
@@ -607,7 +607,7 @@
     "name": "Selena",
     "skin_name": "Virus",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero633-portrait.png/revision/latest?cb=20220525165604",
-    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/selena_virus.zip",
+    "script": "https://cdn.jsdelivr.net/gh/tin0521/mge@main/selena_virus.zip",
     "tag": "Epic"
   },
   {
@@ -649,7 +649,7 @@
     "name": "Selena",
     "skin_name": "Curse of Cinders",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero106311-portrait.png/revision/latest?cb=20250109163106",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/mge@main/selena_zenith.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/mge/main/selena_zenith.zip",
     "tag": "Zenith"
   },
   {
@@ -691,7 +691,7 @@
     "name": "Ling",
     "skin_name": "Phantom Current",
     "image": "https://cdn.jsdelivr.net/gh/Mexi23/April_2026@main/LingPortrait.jpg",
-    "script": "https://cdn.jsdelivr.net/gh/Mexi23/April_2026@main/ling_def_allstar.zip"
+    "script": "https://raw.githubusercontent.com/Mexi23/April_2026/main/ling_def_allstar.zip"
   },
   {
     "name": "Ling",
@@ -794,7 +794,7 @@
     "name": "Benedetta",
     "skin_name": "Phantom Mirage",
     "image": "https://pbs.twimg.com/media/Glbn0L0a4AAYqoP?format=jpg",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/assn@main/benedetta_covenant.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/assn/main/benedetta_covenant.zip",
     "tag": "Covenant"
   },
   {
@@ -856,7 +856,7 @@
     "name": "Joy",
     "skin_name": "ONIC PH",
     "image": "https://cdn.jsdelivr.net/gh/Mexi23/SeptUpdate@main/GyYu9aQboAAokod.jpg_large.jpg",
-    "script": "https://cdn.jsdelivr.net/gh/Mexica23/April_2026_3@main/joy_def_champion.zip"
+    "script": "https://raw.githubusercontent.com/Mexica23/April_2026_3/main/joy_def_champion.zip"
   },
   {
     "skin_name": "Backup",
@@ -890,7 +890,7 @@
     "name": "Julian",
     "skin_name": "Kurapika of Kurta",
     "image": "https://i.imgur.com/5NvLqsp.jpeg",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/ff@main/julian_kurapika.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/ff/main/julian_kurapika.zip",
     "tag": "HxH"
   },
   {
@@ -925,7 +925,7 @@
     "name": "Nolan",
     "skin_name": "The Navigator",
     "image": "https://i.pinimg.com/736x/44/65/8d/44658ddc5580cd03d75fc88aa6032fe4.jpg",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/assn@main/nolan_thenavigator.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/assn/main/nolan_thenavigator.zip",
     "tag": "11.11"
   },
   {
@@ -1121,7 +1121,7 @@
     "name": "Franco",
     "skin_name": "King of Hell",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero109-portrait.png/revision/latest?cb=20221216103123",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/tnk@main/franco_legend.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/tnk/main/franco_legend.zip",
     "tag": "Legend"
   },
   {
@@ -1198,7 +1198,7 @@
     "skin_name": "Backup",
     "name": "Johnson",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero321-portrait.png/revision/latest?cb=20230826055045",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/tnk@main/johnson_backup.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/tnk/main/johnson_backup.zip",
     "tag": "Backup"
   },
   {
@@ -1226,7 +1226,7 @@
     "skin_name": "Sovereign of Realms",
     "name": "Johnson",
     "image": "https://pbs.twimg.com/media/GcWB3PdWAAA3xp_?format=jpg&name=large",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/tnk@main/johnson_legend.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/tnk/main/johnson_legend.zip",
     "tag": "Legend"
   },
   {
@@ -1268,7 +1268,7 @@
     "name": "Grock",
     "skin_name": "Collector Titans",
     "image": "https://cdn.jsdelivr.net/gh/Mexi23/others_2026@main/20260309_123451.jpg",
-    "script": "https://cdn.jsdelivr.net/gh/Mexi23/others_2026@main/grock_collector.zip"
+    "script": "https://raw.githubusercontent.com/Mexi23/others_2026/main/grock_collector.zip"
   },
   {
     "skin_name": "Codename: Rhino",
@@ -1890,7 +1890,7 @@
     "name": "Angela",
     "skin_name": "Cyber Cherubin",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero559-portrait.png/revision/latest?cb=20221103134616",
-    "script": "https://cdn.jsdelivr.net/gh/Mexica23/April_2026_3@main/angela_def_aspirant.zip"
+    "script": "https://raw.githubusercontent.com/Mexica23/April_2026_3/main/angela_def_aspirant.zip"
   },
   {
     "skin_name": "Avatar of Time",
@@ -1903,7 +1903,7 @@
     "name": "Angela",
     "skin_name": "Strings of Fate",
     "image": "https://i.pinimg.com/736x/86/14/64/86146405831b37b460e3886fd473425f.jpg",
-    "script": "https://cdn.jsdelivr.net/gh/Mexica23/April_2026_3@main/angela_def_kishin.zip"
+    "script": "https://raw.githubusercontent.com/Mexica23/April_2026_3/main/angela_def_kishin.zip"
   },
   {
     "skin_name": "Backup",
@@ -2021,7 +2021,7 @@
     "skin_name": "Dreambound Pixie",
     "name": "Mathilda",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero1026-portrait.png/revision/latest?cb=20250109154335",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/supp@main/mathilda_dreambound.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/supp/main/mathilda_dreambound.zip",
     "tag": "Epic"
   },
   {
@@ -2035,7 +2035,7 @@
     "name": "Floryn",
     "skin_name": "Arrow of Spring",
     "image": "https://cdn.jsdelivr.net/gh/tin0521/January_2026@main/floryn%20ethernal.jpg",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/January_2026@main/floryn_def_eternal.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/January_2026/main/floryn_def_eternal.zip",
     "tag": "Eternal Season"
   },
   {
@@ -2056,7 +2056,7 @@
     "skin_name": "Melody of Light",
     "name": "Floryn",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1126-portrait.png/revision/latest?cb=20250109154338",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/supp@main/floryn_collector.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/supp/main/floryn_collector.zip",
     "tag": "Collector"
   },
   {
@@ -2091,7 +2091,7 @@
     "skin_name": "Sakura Haruno",
     "name": "Kalea",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1283-portrait.png/revision/latest?cb=20250411101453",
-    "script": "https://cdn.jsdelivr.net/gh/Mexi23/April_2026@main/kalea_def_sakura.zip",
+    "script": "https://raw.githubusercontent.com/Mexi23/April_2026/main/kalea_def_sakura.zip",
     "tag": "Naruto Shippuden"
   },
   {
@@ -2105,7 +2105,7 @@
     "name": "Miya",
     "skin_name": "Eternal Season - Miya",
     "image": "https://cdn.jsdelivr.net/gh/tin0521/January_2026@main/miya%20ethernal.jpg",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/January_2026@main/miya_def_eternal.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/January_2026/main/miya_def_eternal.zip",
     "tag": "Eternal Season"
   },
   {
@@ -2259,7 +2259,7 @@
     "name": "Clint",
     "skin_name": "Captain of the Reefs",
     "image": "https://pbs.twimg.com/media/GSscbUZa0AAklun?format=jpg&name=large",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/mm@main/clint_captain.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/mm/main/clint_captain.zip",
     "tag": "Epic"
   },
   {
@@ -2280,7 +2280,7 @@
     "name": "Clint",
     "skin_name": "Vessel of Ruin",
     "image": "https://cdn.jsdelivr.net/gh/tin0521/dec2025@main/clint_vessels.png",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/January_2026@main/clint_def_soul.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/January_2026/main/clint_def_soul.zip",
     "tag": "Soul Vessels"
   },
   {
@@ -2301,7 +2301,7 @@
     "name": "Layla",
     "skin_name": "Paranormal Operative",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero101811-portrait.png/revision/latest?cb=20240619172008",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/dec2025@main/layla_collector.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/dec2025/main/layla_collector.zip",
     "tag": "Collector"
   },
   {
@@ -2329,7 +2329,7 @@
     "name": "Layla",
     "skin_name": "The Beacon",
     "image": "https://cdn.jsdelivr.net/gh/tin0521/January_2026@main/layla%20legend.jpg",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/January_2026@main/layla_def_legend.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/January_2026/main/layla_def_legend.zip",
     "tag": "Legend"
   },
   {
@@ -2413,7 +2413,7 @@
     "name": "Moskov",
     "skin_name": "Harbinger Of Chaos",
     "image": "https://cdn.jsdelivr.net/gh/Mexi23/AugustUpdate@main/moscov%20portrait.png",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/neww@main/moscov_collector.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/neww/main/moscov_collector.zip",
     "tag": "Collector"
   },
   {
@@ -2581,7 +2581,7 @@
     "name": "Lesley",
     "skin_name": "Angelic Agent",
     "image": "https://cdn.jsdelivr.net/gh/Mexi23/my-gamedistribution-site@main/lesley_legendPort.png",
-    "script": "https://cdn.jsdelivr.net/gh/Mexica23/April_2026_3@main/lesley_def_legend.zip"
+    "script": "https://raw.githubusercontent.com/Mexica23/April_2026_3/main/lesley_def_legend.zip"
   },
   {
     "name": "Lesley",
@@ -2608,7 +2608,7 @@
     "name": "Lesley",
     "skin_name": "Duchess of Tides",
     "image": "https://pbs.twimg.com/media/Glbns_1bwAQydIU?format=jpg&name=medium",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/mm@main/lesley_covenant.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/mm/main/lesley_covenant.zip",
     "tag": "Covenant"
   },
   {
@@ -2734,14 +2734,14 @@
     "name": "Claude",
     "skin_name": "Challenger's Spark",
     "image": "https://i.pinimg.com/736x/64/ca/e3/64cae3a419f8f7aaff82f7ff2b315db9.jpg",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/mm@main/claude_m6.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/mm/main/claude_m6.zip",
     "tag": "M6"
   },
   {
     "name": "Claude",
     "skin_name": "Cosmic Blaze",
     "image": "https://i.pinimg.com/736x/d8/aa/d1/d8aad1d800fd87c02cdc17bb30508ee1.jpg",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/mm@main/claude_prime.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/mm/main/claude_prime.zip",
     "tag": "Prime"
   },
   {
@@ -2853,7 +2853,7 @@
     "name": "Granger",
     "skin_name": "Alluring Enigma",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero107911-portrait.png/revision/latest?cb=20240201102949",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/mm@main/granger_valentines.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/mm/main/granger_valentines.zip",
     "tag": "Valentine"
   },
   {
@@ -2874,7 +2874,7 @@
     "name": "Granger",
     "skin_name": "Cosmic Finality",
     "image": "https://cdn.jsdelivr.net/gh/zetsuya05/january@main/granger_primeimage.jpg",
-    "script": "https://cdn.jsdelivr.net/gh/zetsuya05/january@main/granger_prime.zip",
+    "script": "https://raw.githubusercontent.com/zetsuya05/january/main/granger_prime.zip",
     "tag": "Prime"
   },
   {
@@ -3028,7 +3028,7 @@
     "name": "Brody",
     "skin_name": "Neobeast Brody",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1008-portrait.png/revision/latest?cb=20250320125011",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/mm@main/brody_neobeast.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/mm/main/brody_neobeast.zip",
     "tag": "Neobeast"
   },
   {
@@ -3056,7 +3056,7 @@
     "name": "Beatrix",
     "skin_name": "Stellar Briliance",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1056-portrait.png/revision/latest?cb=20221216103146",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/mm@main/beatrix_prime.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/mm/main/beatrix_prime.zip",
     "tag": "Prime"
   },
   {
@@ -3119,7 +3119,7 @@
     "name": "Natan",
     "skin_name": "Archon of Knowledge",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1077-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071908",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/mm@main/natan_msc.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/mm/main/natan_msc.zip",
     "tag": "MSC 2025"
   },
   {
@@ -3154,7 +3154,7 @@
     "name": "Melissa",
     "skin_name": "Umbra Bloom",
     "image": "https://pbs.twimg.com/media/GlbogAybwAEiyO5?format=jpg&name=small",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/mm@main/melissa_collector.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/mm/main/melissa_collector.zip",
     "tag": "Collector"
   },
   {
@@ -3175,7 +3175,7 @@
     "name": "Ixia",
     "skin_name": "Invoker's Command",
     "image": "https://cdn.jsdelivr.net/gh/Mexi23/AugustUpdate@main/ixia%20portrait.png",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/mm@main/ixia_metrozero.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/mm/main/ixia_metrozero.zip",
     "tag": "Metrozero"
   },
   {
@@ -3364,7 +3364,7 @@
     "name": "Aurora",
     "skin_name": "Veil of the Celestials",
     "image": "https://pbs.twimg.com/media/GS7qsTUbIAASiFJ?format=jpg&name=large",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/mge@main/aurora_collector.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/mge/main/aurora_collector.zip",
     "tag": "Collector"
   },
   {
@@ -3427,7 +3427,7 @@
     "name": "Cyclops",
     "skin_name": "Spongebob",
     "image": "https://cdn.jsdelivr.net/gh/tin0521/dec2025@main/cyclops_sponge.png",
-    "script": "https://cdn.jsdelivr.net/gh/zetsuya05/january@main/cyclops_spongebob.zip",
+    "script": "https://raw.githubusercontent.com/zetsuya05/january/main/cyclops_spongebob.zip",
     "tag": "Spongebob"
   },
   {
@@ -3462,7 +3462,7 @@
     "name": "Kagura",
     "skin_name": "Exorcist Kagura",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero258-portrait.png/revision/latest?cb=20220915121143",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/mge@main/kagura_exorcist.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/mge/main/kagura_exorcist.zip",
     "tag": "Exorcists"
   },
   {
@@ -3511,7 +3511,7 @@
     "name": "Odette",
     "skin_name": "Song of Devotion",
     "image": "https://cdn.jsdelivr.net/gh/tin0521/January_2026@main/odette%20valentines.jpg",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/January_2026@main/odette_def_valen.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/January_2026/main/odette_def_valen.zip",
     "tag": "Valentines"
   },
   {
@@ -3567,7 +3567,7 @@
     "name": "Vexana",
     "skin_name": "Twisted Fairytale",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero387-portrait.png/revision/latest?cb=20240326141745",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/mge@main/vexana_zenith.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/mge/main/vexana_zenith.zip",
     "tag": "Zenith"
   },
   {
@@ -3595,7 +3595,7 @@
     "name": "Vexana",
     "skin_name": "Daybreak Halo",
     "image": "https://cdn.jsdelivr.net/gh/Mexi23/SeptUpdate@main/vexana.png",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/Sept@main/vexana_daybreak.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/Sept/main/vexana_daybreak.zip",
     "tag": "Aspirants"
   },
   {
@@ -3686,7 +3686,7 @@
     "name": "Pharsa",
     "skin_name": "Neobeast Pharsa",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero105211-portrait.png/revision/latest?cb=20250320125030",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/mge@main/pharsa_neobeast.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/mge/main/pharsa_neobeast.zip",
     "tag": "Neobeast"
   },
   {
@@ -3847,7 +3847,7 @@
     "name": "Vale",
     "skin_name": "Concerto of Light",
     "image": "https://i.pinimg.com/736x/74/53/56/745356dd32d90afc96febf2e279bd42e.jpg",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/mge@main/vale_concerto.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/mge/main/vale_concerto.zip",
     "tag": "Annual Starlight"
   },
   {
@@ -3868,7 +3868,7 @@
     "name": "Lunox",
     "skin_name": "Butterfly Seraphim",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero686-portrait.png/revision/latest?cb=20220525165718",
-    "script": "https://cdn.jsdelivr.net/gh/Mexica23/April_2026_3@main/lunox_def_luckybix.zip"
+    "script": "https://raw.githubusercontent.com/Mexica23/April_2026_3/main/lunox_def_luckybix.zip"
   },
   {
     "name": "Lunox",
@@ -3888,7 +3888,7 @@
     "name": "Lunox",
     "skin_name": "Divine Goddess",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero689-portrait.png/revision/latest?cb=20230623125739",
-    "script": "https://cdn.jsdelivr.net/gh/Mexica23/April_2026_3@main/lunox_def_legend.zip"
+    "script": "https://raw.githubusercontent.com/Mexica23/April_2026_3/main/lunox_def_legend.zip"
   },
   {
     "name": "Lunox",
@@ -4054,7 +4054,7 @@
     "name": "Cecilion",
     "skin_name": "Vessel of Gluttony",
     "image": "https://cdn.jsdelivr.net/gh/tin0521/January_2026@main/cecilion%20soul.jpg",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/January_2026@main/Ceciliom_Def_SoulVessel.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/January_2026/main/Ceciliom_Def_SoulVessel.zip",
     "tag": "Soul Vessel"
   },
   {
@@ -4306,7 +4306,7 @@
     "name": "Zetian",
     "skin_name": "Starlight",
     "image": "https://cdn.jsdelivr.net/gh/Mexi23/others_2026@main/20260309_133923.jpg",
-    "script": "https://cdn.jsdelivr.net/gh/Mexi23/others_2026@main/zetia_starlight.zip",
+    "script": "https://raw.githubusercontent.com/Mexi23/others_2026/main/zetia_starlight.zip",
     "tag": "Basic"
   },
   {
@@ -4376,7 +4376,7 @@
     "name": "Alucard",
     "skin_name": "Obsidian Blade",
     "image": "https://cdn.jsdelivr.net/gh/Mexi23/Feb_2026@main/orca-image-1328348968.jpeg.jpeg",
-    "script": "https://cdn.jsdelivr.net/gh/zetsuya05/january@main/alucard_legend-revamped.zip",
+    "script": "https://raw.githubusercontent.com/zetsuya05/january/main/alucard_legend-revamped.zip",
     "tag": "Legend"
   },
   {
@@ -4530,7 +4530,7 @@
     "name": "Freya",
     "skin_name": "Galactic Vanquisher",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest?cb=20240114101726",
-    "script": "https://cdn.jsdelivr.net/gh/Mexica23/April_2026_3@main/freya_def_legend.zip"
+    "script": "https://raw.githubusercontent.com/Mexica23/April_2026_3/main/freya_def_legend.zip"
   },
   {
     "name": "Freya",
@@ -4543,7 +4543,7 @@
     "name": "Freya",
     "skin_name": "War Angel",
     "image": "https://pbs.twimg.com/media/GS7qtwrbMAEtt_G?format=jpg&name=large",
-    "script": "https://cdn.jsdelivr.net/gh/Mexica23/April_2026_3@main/freya_def_luckbox.zip"
+    "script": "https://raw.githubusercontent.com/Mexica23/April_2026_3/main/freya_def_luckbox.zip"
   },
   {
     "name": "Freya",
@@ -4661,7 +4661,7 @@
     "name": "Sun",
     "skin_name": "Wicked Flames",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero278-portrait.png/revision/latest?cb=20220628180003",
-    "script": "https://cdn.jsdelivr.net/gh/Mexica23/April_2026_3@main/sun_def_collector.zip"
+    "script": "https://raw.githubusercontent.com/Mexica23/April_2026_3/main/sun_def_collector.zip"
   },
   {
     "name": "Sun",
@@ -4742,7 +4742,7 @@
     "name": "Alpha",
     "skin_name": "Revenant of Roses",
     "image": "https://pbs.twimg.com/media/GlboX4PbkAAXXgh?format=jpg&name=small",
-    "script": "https://cdn.jsdelivr.net/gh/Mexi23/April_2026@main/alpha_def_legend.zip",
+    "script": "https://raw.githubusercontent.com/Mexi23/April_2026/main/alpha_def_legend.zip",
     "tag": "Legend"
   },
   {
@@ -4938,7 +4938,7 @@
     "name": "Roger",
     "skin_name": "Invoker's Restraint",
     "image": "https://cdn.jsdelivr.net/gh/Mexi23/AugustUpdate@main/roger%20portrait.png",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/ff@main/roger_metrozero.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/ff/main/roger_metrozero.zip",
     "tag": "Metrozero"
   },
   {
@@ -5036,7 +5036,7 @@
     "name": "Jawhead",
     "skin_name": "Proto Guardian",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero105410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132254",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/ff@main/jawhead_allstar.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/ff/main/jawhead_allstar.zip",
     "tag": "All Star"
   },
   {
@@ -5211,7 +5211,7 @@
     "name": "Leomord",
     "skin_name": "Nightmare Count",
     "image": "https://pbs.twimg.com/media/Glbn7ODbwAAufGl?format=jpg&name=large",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/ff@main/leomord_nightmarecount.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/ff/main/leomord_nightmarecount.zip",
     "tag": "Epic"
   },
   {
@@ -5239,7 +5239,7 @@
     "name": "Thamuz",
     "skin_name": "The Annihilator",
     "image": "https://cdn.jsdelivr.net/gh/Mexi23/SeptUpdate@main/thamuz.png",
-    "script": "https://cdn.jsdelivr.net/gh/Mexi23/April_2026@main/thamuz_def_nexus.zip",
+    "script": "https://raw.githubusercontent.com/Mexi23/April_2026/main/thamuz_def_nexus.zip",
     "tag": "11.11"
   },
   {
@@ -5400,7 +5400,7 @@
     "name": "Guinevere",
     "skin_name": "Twilight Star",
     "image": "https://cdn.jsdelivr.net/gh/Mexi23/SeptUpdate@main/guinevere.png",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/Sept@main/guine_twilightstar.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/Sept/main/guine_twilightstar.zip",
     "tag": "Aspirants"
   },
   {
@@ -5421,7 +5421,7 @@
     "name": "Terizla",
     "skin_name": "Soulblight Tyrant",
     "image": "https://i.pinimg.com/736x/1d/6a/64/1d6a641e276bc8141ecb2c335f39f598.jpg",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/ff@main/terizla_collector.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/ff/main/terizla_collector.zip",
     "tag": "Collector"
   },
   {
@@ -5463,7 +5463,7 @@
     "name": "X.Borg",
     "skin_name": "Invoker's Flame",
     "image": "https://cdn.jsdelivr.net/gh/Mexi23/AugustUpdate@main/xborg%20port.png",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/ff@main/xborg_metrozero.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/ff/main/xborg_metrozero.zip",
     "tag": "Metrozero"
   },
   {
@@ -5589,7 +5589,7 @@
     "name": "Yu Zhong",
     "skin_name": "Exorcist Yu Zhong",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero955-portrait.png/revision/latest?cb=20220915122237",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/ff@main/yuzhong_exorcist.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/ff/main/yuzhong_exorcist.zip",
     "tag": "Exorcists"
   },
   {
@@ -5785,7 +5785,7 @@
     "name": "Fredrin",
     "skin_name": "Neobeast Fredrinn",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero1174-portrait.png/revision/latest?cb=20230805043932",
-    "script": "https://cdn.jsdelivr.net/gh/Mexi23/April_2026@main/fredrin_neoBeast.zip",
+    "script": "https://raw.githubusercontent.com/Mexi23/April_2026/main/fredrin_neoBeast.zip",
     "tag": "Neobeast"
   },
   {
@@ -5862,7 +5862,7 @@
     "name": "Lukas",
     "skin_name": "Naruto",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero1273-portrait.png/revision/latest?cb=20250411101452",
-    "script": "https://cdn.jsdelivr.net/gh/tin0521/ff@main/lukas_naruto.zip",
+    "script": "https://raw.githubusercontent.com/tin0521/ff/main/lukas_naruto.zip",
     "tag": "Naruto Shippuden"
   },
   {
@@ -5930,13 +5930,13 @@
     "name": "Alice",
     "skin_name": "Dreaming Monarch",
     "image": "https://cdn.jsdelivr.net/gh/Mexica23/april_images@main/AliceColPort.jpg",
-    "script": "https://cdn.jsdelivr.net/gh/Mexica23/April_2026_3@main/alice_def_collector.zip"
+    "script": "https://raw.githubusercontent.com/Mexica23/April_2026_3/main/alice_def_collector.zip"
   },
   {
     "name": "Natan",
     "skin_name": "Sanguine Steward",
     "image": "https://cdn.jsdelivr.net/gh/Mexi23/others_2026@main/20260309_131734.jpg",
-    "script": "https://cdn.jsdelivr.net/gh/Mexica23/April_2026_3@main/nathan_def_covenant.zip"
+    "script": "https://raw.githubusercontent.com/Mexica23/April_2026_3/main/nathan_def_covenant.zip"
   },
   {
     "name": "Freya",
@@ -5948,54 +5948,54 @@
     "name": "Chou",
     "skin_name": "Ken (outfit 1)",
     "image": "n/a",
-    "script": "https://cdn.jsdelivr.net/gh/Mexica23/june_2026@main/chou_def_ken1.zip"
+    "script": "https://raw.githubusercontent.com/Mexica23/june_2026/main/chou_def_ken1.zip"
   },
   {
     "name": "Chou",
     "skin_name": "Ken (outfit 2)",
     "image": "n/a",
-    "script": "https://cdn.jsdelivr.net/gh/Mexica23/june_2026@main/chou_def_ken2.zip"
+    "script": "https://raw.githubusercontent.com/Mexica23/june_2026/main/chou_def_ken2.zip"
   },
   {
     "name": "Dyrroth",
     "skin_name": "Guile (outfit 1)",
     "image": "n/a",
-    "script": "https://cdn.jsdelivr.net/gh/Mexica23/june_2026@main/dyroth_def_guile1.zip"
+    "script": "https://raw.githubusercontent.com/Mexica23/june_2026/main/dyroth_def_guile1.zip"
   },
   {
     "name": "Dyrroth",
     "skin_name": "Guile (outfit 2)",
     "image": "n/a",
-    "script": "https://cdn.jsdelivr.net/gh/Mexica23/june_2026@main/dyroth_def_guile2.zip"
+    "script": "https://raw.githubusercontent.com/Mexica23/june_2026/main/dyroth_def_guile2.zip"
   },
   {
     "name": "Guinevere",
     "skin_name": "Chun-li (outfit 1)",
     "image": "n/a",
-    "script": "https://cdn.jsdelivr.net/gh/Mexica23/june_2026@main/guin_def_chun.zip"
+    "script": "https://raw.githubusercontent.com/Mexica23/june_2026/main/guin_def_chun.zip"
   },
   {
     "name": "Guinevere",
     "skin_name": "Chun-li (outfit 2)",
     "image": "n/a",
-    "script": "https://cdn.jsdelivr.net/gh/Mexica23/june_2026@main/guin_def_chun2.zip"
+    "script": "https://raw.githubusercontent.com/Mexica23/june_2026/main/guin_def_chun2.zip"
   },
   {
     "name": "Paquito",
     "skin_name": "Ryu (outfit 1)",
     "image": "n/a",
-    "script": "https://cdn.jsdelivr.net/gh/Mexica23/june_2026@main/paquito_def_ryu1.zip"
+    "script": "https://raw.githubusercontent.com/Mexica23/june_2026/main/paquito_def_ryu1.zip"
   },
   {
     "name": "Paquito",
     "skin_name": "Ryu (outfit 2)",
     "image": "n/a",
-    "script": "https://cdn.jsdelivr.net/gh/Mexica23/june_2026@main/paquito_def_ryu2.zip"
+    "script": "https://raw.githubusercontent.com/Mexica23/june_2026/main/paquito_def_ryu2.zip"
   },
   {
     "name": "Guinevere",
     "skin_name": "Malupiton- Chun Li",
     "image": "https://cdn.jsdelivr.net/gh/Mexi23/custom_funny_skins@main/file_00000000fd5c723084c0c2b9b60f5dd2.png",
-    "script": "https://cdn.jsdelivr.net/gh/Mexica23/Funny-Skins@main/Malupiton-Chunli.zip"
+    "script": "https://raw.githubusercontent.com/Mexica23/Funny-Skins/main/Malupiton-Chunli.zip"
   }
 ]
