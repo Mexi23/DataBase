@@ -22,6 +22,12 @@
     "script": "https://github.com/Mexi23/Aug_2026/raw/refs/heads/main/sun_def_collectorT.zip"
   },
   {
+    "hero_name": "Yi Sun-Shin",
+    "skin_name": "Lone Destructor",
+    "image": "https://cdn.jsdelivr.net/gh/Mexica23/June_images@main/chou_ken2.jpg",
+    "script": "https://github.com/Mexi23/Aug_2026/raw/refs/heads/main/yss_def_collector.zip"
+  },
+  {
     "hero_name": "Chou",
     "skin_name": "Ken (outfit 1)",
     "image": "https://cdn.jsdelivr.net/gh/Mexica23/June_images@main/chou_ken2.jpg",
