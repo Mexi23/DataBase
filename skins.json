@@ -3,23 +3,23 @@
   
   
   {
-    "hero_name": "Argus",
+    "name": "Argus",
     "skin_name": "Raiden Maru",
     "image": "https://github.com/Mexi23/Aug_2026/raw/refs/heads/main/Argus_colT.jpg",
     "script": "https://github.com/Mexi23/Aug_2026/raw/refs/heads/main/argus_def_collectorT.zip"
   },  {
-    "hero_name": "Balmond",
+    "name": "Balmond",
     "skin_name": "Vulcan Lionheart",
     "image": "https://github.com/Mexi23/Aug_2026/raw/refs/heads/main/Balmond_ColT.jpg",
     "script": "https://github.com/Mexi23/Aug_2026/raw/refs/heads/main/balmond_def_collectorT.zip"
   },  {
-    "hero_name": "Helcurt",
+    "name": "Helcurt",
     "skin_name": "Kaiju of the Deep",
     "image": "https://github.com/Mexi23/Aug_2026/raw/refs/heads/main/HelcurtCol.jpg",
     "script": "https://github.com/Mexi23/Aug_2026/raw/refs/heads/main/helcurt_def_collector.zip"
   },
   {
-    "hero_name": "Sun",
+    "name": "Sun",
     "skin_name": "Celestial Rebel",
     "image": "https://github.com/Mexi23/Aug_2026/raw/refs/heads/main/Sun_Colt.jpg",
     "script": "https://github.com/Mexi23/Aug_2026/raw/refs/heads/main/sun_def_collectorT.zip"
